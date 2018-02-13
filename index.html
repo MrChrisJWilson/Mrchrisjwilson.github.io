@@ -2,17 +2,28 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<div class="home h-feed">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li class="h-entry">
+		{% if post.microblog == false %}
+			<h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+		{% endif %}
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="u-url"><span class="post-meta"><time class="dt-published" datetime="{{ post.date }}">{{ post.date | date: "%b %-d, %Y" }}</time></span></a>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+        <div class="e-content">
+         	{{ post.content }}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+{% if paginator.previous_page or paginator.next_page %}
+    {% include pagination.html %}
+{% endif %}
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
 </div>
