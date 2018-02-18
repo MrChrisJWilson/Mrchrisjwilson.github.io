@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/18/email-newsletters-that.html",
+	      	
+			"title": "Email Newsletters that are worth subscribing too",
+			
+			"content_html": "<p>Here’s a quick list of newsletters that are worth the time to read (this is just opinion, your mileage may vary) </p>\n\n<ol>\n  <li><a href=\"https://club.macstories.net\">Macstories</a> (Apple and iPad geekery, costs money)</li>\n  <li><a href=\"https://www.cjchilvers.com/subscribe\">CJ Chilvers</a> (the best from CJ’s blog on creating, life and stuff)</li>\n  <li><a href=\"https://pjrvs.com\">Paul Jarvis</a> (great entrepreneurial and creative advice from someone who does things “the wrong way” but it works)</li>\n  <li><a href=\"https://austinkleon.com\">Austin Kleon</a> (More creative insights and curiosities)</li>\n  <li><a href=\"http://rohdesign.com/newsletter/\">Rohdesign Dispatch</a> (great design and sketchnoting tips from the master)</li>\n</ol>\n\n<p>I may come back and add to this </p>\n",
+			"date_published": "2018-02-18T20:24:00+01:00",
+			"url": "http://chrisjwilson.me/2018/02/18/email-newsletters-that.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/02/17/apple-music-first.html",
 	      	
 			"title": "Why are there “delux albums” on Apple Music?",
