@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-13 10:21 +0100
+audio: 
+date: 2018-02-13 11:21:51 +0200
 guid: http://ChrisJWilson.micro.blog/2018/02/13/thoughts-on-new.html
 ---
 [Thoughts On New iPads ->](https://brooksreview.net/2018/02/thoughts-on-new-ipads/)
