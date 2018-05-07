@@ -2,7 +2,8 @@
 layout: post
 title: "a different -kind of- writing process"
 microblog: false
-date: 2018-02-16 15:56 +0100
+audio: 
+date: 2018-02-16 16:56:03 +0200
 guid: http://ChrisJWilson.micro.blog/2018/02/16/a-different-kind.html
 ---
 - Write 1st draft, it's too long, 
