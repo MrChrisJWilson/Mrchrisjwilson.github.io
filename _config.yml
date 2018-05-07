@@ -1,3 +1,22 @@
+highlighter: "rouge"
+# - markdown: "kramdown"
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+
+plugins:
+  - jekyll-sitemap
 
 title: "Christopher Wilson"
 tagline: ""
@@ -7,6 +26,7 @@ baseurl: ""
 url: "http://chrisjwilson.me"
 markdown: "kramdown"
 username: "ChrisJWilson"
+microblog_user: "ChrisJWilson"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Christopher Wilson"
@@ -22,3 +42,7 @@ paginate: 20
 paginate_path: "/page/:num/"
 timezone: "Poland"
 site_id: "3042"
+gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "Christopher Wilson"
