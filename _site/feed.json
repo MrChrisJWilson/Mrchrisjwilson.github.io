@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/05/07/irony-that-i.html",
+	      	
+			"content_html": "<p>Irony that I doubt will ever grow old for me. Using the word “minimalist” to sell things. For example “the ultimate minimalist backpack”.</p>\n",
+			"date_published": "2018-05-07T13:30:11+02:00",
+			"url": "http://chrisjwilson.me/2018/05/07/irony-that-i.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/05/07/lviv-is-a.html",
 	      	
 			"content_html": "<p>Lviv is a pretty special place</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/41bd199662.jpg\" width=\"600\" height=\"397\" /></p>\n",
