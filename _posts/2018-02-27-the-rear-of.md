@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-27 19:05 +0100
+audio: 
+date: 2018-02-27 20:05:35 +0200
 guid: http://ChrisJWilson.micro.blog/2018/02/27/the-rear-of.html
 ---
 The rear of my iPad is coming alomg nicely 
