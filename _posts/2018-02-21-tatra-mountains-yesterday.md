@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-21 10:05 +0100
+audio: 
+date: 2018-02-21 11:05:45 +0200
 guid: http://ChrisJWilson.micro.blog/2018/02/21/tatra-mountains-yesterday.html
 ---
 Tatra mountains yesterday (iPhone se only again) 
