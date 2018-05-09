@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/05/09/an-ios-laptop.html",
+	      	
+			"content_html": "<p>an iOS laptop totally wouldn’t be for me…but Apple should probably do it anyway. <a href=\"http://ipadguild.com/apple-should-make-an-ios-laptopbut-its-not-for-me/\">ipadguild.com/apple-sho…</a></p>\n",
+			"date_published": "2018-05-09T07:00:41+02:00",
+			"url": "http://chrisjwilson.me/2018/05/09/an-ios-laptop.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/05/07/irony-that-i.html",
 	      	
 			"content_html": "<p>Irony that I doubt will ever grow old for me. Using the word “minimalist” to sell things. For example “the ultimate minimalist backpack”.</p>\n",
