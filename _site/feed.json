@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/05/18/the-end-of.html",
+	      	
+			"title": "The End of Third-Party Twitter Clients?",
+			
+			"content_html": "<p><a href=\"https://daringfireball.net/2018/05/the_end_of_third_party_twitter_clients\">Daring Fireball: The End of Third-Party Twitter Clients?</a></p>\n\n<blockquote>\n  <p>This antipathy to third-party clients is especially confounding considering that Twitter recently dropped support for their own native Mac client. As far as I’m aware, once this comes to pass next month, there will be no way to receive notifications of Twitter DMs on a Mac. None.</p>\n</blockquote>\n\n<p>At moments like this I’m really glad for micro.blog</p>\n",
+			"date_published": "2018-05-18T08:38:35+02:00",
+			"url": "http://chrisjwilson.me/2018/05/18/the-end-of.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/05/09/an-ios-laptop.html",
 	      	
 			"content_html": "<p>an iOS laptop totally wouldn’t be for me…but Apple should probably do it anyway. <a href=\"http://ipadguild.com/apple-should-make-an-ios-laptopbut-its-not-for-me/\">ipadguild.com/apple-sho…</a></p>\n",
