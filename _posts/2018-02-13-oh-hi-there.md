@@ -3,7 +3,7 @@ layout: post
 title: "Oh Hi there Micro.Blog"
 microblog: false
 audio: 
-date: 2018-02-13 10:49:57 +0200
+date: 2018-02-13 09:49:57 +0100
 guid: http://ChrisJWilson.micro.blog/2018/02/13/oh-hi-there.html
 ---
 So after this week [Mac Power users podcast](https://www.relay.fm/mpu/417) I finally got round to signing up for Micro.Blog. I had been meaning to do so for a bit, especially after seeing people like [Zsolt Benke at decoding](http://decoding.io/) using the service on their own site. However I wondered if I should use it on my own site or whatever. In the end, I signed up for a Micro.blog blog as I wanted to help support the service as well. Paying $5 seems like a good way to do so and solved my overthinking. 
