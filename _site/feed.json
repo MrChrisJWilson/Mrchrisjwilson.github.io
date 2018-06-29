@@ -6,12 +6,40 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/06/29/brighton.html",
+	      	
+			"title": "Brighton ",
+			
+			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/bebf17d58e.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/bebf17d58e.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/79c6c9ef34.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/79c6c9ef34.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/bb7f8402b9.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/bb7f8402b9.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/f50d01cfb3.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/f50d01cfb3.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>We went on a trip down to Brighton. I didn’t have my camera so I took a few street photos with my iPhone.</p>\n\n",
+			"date_published": "2018-06-29T08:30:17+01:00",
+			"url": "http://chrisjwilson.me/2018/06/29/brighton.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/06/21/second-ryanair-flight.html",
+	      	
+			"content_html": "<p>Second Ryanair flight where it seems half the passengers have got priority boarding. I really wonder why priority is so popular for Ryanair 🤔</p>\n",
+			"date_published": "2018-06-21T14:10:35+01:00",
+			"url": "http://chrisjwilson.me/2018/06/21/second-ryanair-flight.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/06/21/dingli-cliffs-malta.html",
+	      	
+			"title": "Dingli Cliffs, Malta ",
+			
+			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/5f8c736c6a.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/5f8c736c6a.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>The chapel of St. Anna at the tops of Dingli cliffs in Malta. iPhone se edited in photos</p>\n\n",
+			"date_published": "2018-06-21T13:02:56+01:00",
+			"url": "http://chrisjwilson.me/2018/06/21/dingli-cliffs-malta.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/06/21/the-citadel-in.html",
 	      	
 			"title": "The Citadel In Victoria (Rabat) Gozo",
 			
 			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/24b792af58.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/24b792af58.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n",
-			"date_published": "2018-06-21T10:25:03+02:00",
+			"date_published": "2018-06-21T09:25:03+01:00",
 			"url": "http://chrisjwilson.me/2018/06/21/the-citadel-in.html"
 		},
 		
@@ -21,7 +49,7 @@
 			"title": "Mdina Malta ",
 			
 			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/c6969caee5.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/c6969caee5.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Another day of travel in Malta. This time the beautiful Mdina and Rabat.</p>\n\n",
-			"date_published": "2018-06-20T16:26:10+02:00",
+			"date_published": "2018-06-20T15:26:10+01:00",
 			"url": "http://chrisjwilson.me/2018/06/20/mdina-malta.html"
 		},
 		
@@ -31,7 +59,7 @@
 			"title": "The Blue Grotto ",
 			
 			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/36ac96cca0.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/36ac96cca0.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/e829ed4bb3.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/e829ed4bb3.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/64120e550d.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/64120e550d.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Day out and about in Malta with just the iPhone as my camera. Not a bad day.</p>\n\n",
-			"date_published": "2018-06-20T13:23:46+02:00",
+			"date_published": "2018-06-20T12:23:46+01:00",
 			"url": "http://chrisjwilson.me/2018/06/20/the-blue-grotto.html"
 		},
 		
@@ -39,7 +67,7 @@
 			"id": "http://ChrisJWilson.micro.blog/2018/05/20/one-of-those.html",
 	      	
 			"content_html": "<p>One of those little features I always loved about iOS (over android) is the tap the top to scroll back to the top. So simple but so good.</p>\n",
-			"date_published": "2018-05-20T10:44:17+02:00",
+			"date_published": "2018-05-20T09:44:17+01:00",
 			"url": "http://chrisjwilson.me/2018/05/20/one-of-those.html"
 		},
 		
@@ -49,7 +77,7 @@
 			"title": "The End of Third-Party Twitter Clients?",
 			
 			"content_html": "<p><a href=\"https://daringfireball.net/2018/05/the_end_of_third_party_twitter_clients\">Daring Fireball: The End of Third-Party Twitter Clients?</a></p>\n\n<blockquote>\n  <p>This antipathy to third-party clients is especially confounding considering that Twitter recently dropped support for their own native Mac client. As far as I’m aware, once this comes to pass next month, there will be no way to receive notifications of Twitter DMs on a Mac. None.</p>\n</blockquote>\n\n<p>At moments like this I’m really glad for micro.blog</p>\n",
-			"date_published": "2018-05-18T08:38:35+02:00",
+			"date_published": "2018-05-18T07:38:35+01:00",
 			"url": "http://chrisjwilson.me/2018/05/18/the-end-of.html"
 		},
 		
@@ -57,7 +85,7 @@
 			"id": "http://ChrisJWilson.micro.blog/2018/05/09/an-ios-laptop.html",
 	      	
 			"content_html": "<p>an iOS laptop totally wouldn’t be for me…but Apple should probably do it anyway. <a href=\"http://ipadguild.com/apple-should-make-an-ios-laptopbut-its-not-for-me/\">ipadguild.com/apple-sho…</a></p>\n",
-			"date_published": "2018-05-09T07:00:41+02:00",
+			"date_published": "2018-05-09T06:00:41+01:00",
 			"url": "http://chrisjwilson.me/2018/05/09/an-ios-laptop.html"
 		},
 		
@@ -65,7 +93,7 @@
 			"id": "http://ChrisJWilson.micro.blog/2018/05/07/irony-that-i.html",
 	      	
 			"content_html": "<p>Irony that I doubt will ever grow old for me. Using the word “minimalist” to sell things. For example “the ultimate minimalist backpack”.</p>\n",
-			"date_published": "2018-05-07T13:30:11+02:00",
+			"date_published": "2018-05-07T12:30:11+01:00",
 			"url": "http://chrisjwilson.me/2018/05/07/irony-that-i.html"
 		},
 		
@@ -73,7 +101,7 @@
 			"id": "http://ChrisJWilson.micro.blog/2018/05/07/lviv-is-a.html",
 	      	
 			"content_html": "<p>Lviv is a pretty special place</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/41bd199662.jpg\" width=\"600\" height=\"397\" /></p>\n",
-			"date_published": "2018-05-07T06:53:57+02:00",
+			"date_published": "2018-05-07T05:53:57+01:00",
 			"url": "http://chrisjwilson.me/2018/05/07/lviv-is-a.html"
 		},
 		
@@ -83,7 +111,7 @@
 			"title": "Shooting iPhone photos in the cold?",
 			
 			"content_html": "<p>Yesterday I heard someone mention that their iPhone had shut down because it had got below zero Celsius (32 something Fahrenheit apparently). As someone who lives in a country where winter is often below zero (it’s minus 7 celsius as I type), I know this pain. Generally I cope by putting my iPhone in my inner pocket so it is kept warm and relying on my apple watch or AirPods for interactions with the phone. But there’s a huge issue when it comes to taking photos. \nI love photography and have far to many camera really, but there is something fun about the iPhone camera. I’ve been trying to use it more recently and play with its limits and strengths but the cold weather has put a stop to those plans. Literally. \nSo today I was looking for some advice on how to shoot photos with your iPhone in winter…So far I haven’t found any useful advice so I have an idea that <em>just might work.</em></p>\n<h2 id=\"hand-warmers\">Hand Warmers</h2>\n<p>Yup, you know those little chemical hand warmers which you can “recharge” by heating them up again. In theory holding a small one next to the back of the iPhone while I have it out of my pocket should help to keep it warm <em>and</em> should also help when it’s in my pocket. \nOf course, other sides will be exposed to the elements but this is better than nothing.</p>\n\n<p>I’m going to give it a go and report back on my success/not but I wonder <strong>Do you have any tips for keeping your iPhone alive in the cold?</strong></p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/3943aaea84.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-03T11:09:56+01:00",
+			"date_published": "2018-03-03T10:09:56+00:00",
 			"url": "http://chrisjwilson.me/2018/03/03/shooting-iphone-photos.html"
 		},
 		
@@ -93,7 +121,7 @@
 			"title": "Is Vero a challenge to Facebook?",
 			
 			"content_html": "<p>I saw someone dismissing the possibility of verso taking Facebook on. They pointed out the failure of</p>\n<ul>\n  <li>app.net</li>\n  <li>Ello</li>\n  <li>peach</li>\n  <li>and mastodon</li>\n</ul>\n\n<p>While there’s validity in pointing out these failures. It’s not the full story. In fact there are three other networks that would be better to discuss.</p>\n<ul>\n  <li>WhatsApp</li>\n  <li>instagram</li>\n  <li>snapchat</li>\n</ul>\n\n<p>Two of which Facebook bought to avoid being surpassed by (and instagram looks like the best deal they did) and one, snapchat, they have tried to kill by adding its core features to other apps. It’s important to note the difference between the apps mentioned first and these examples. Clearly Facebook precieved these apps to be a potential threat, where they didn’t view the others as threats.</p>\n\n<p>The common thread with most of these services is that they rise when Facebook is facing difficulties. These have been privacy issues (ello) and dramatic changes in design (I.e. the newsfeed). These alternatives offer more privacy and a more familiar look. But verso isn’t in that same category, it actually fits the type of situation of instagram and snap. That is a mobile first app with some unique touches and interactions. \nThis is where Facebook has always been worse and instagram is currently facing criticism for its changes to a curated newsfeed not in chronological order and full of ads. Verso offers an alternative to that.</p>\n\n<p>Now this doesn’t mean Facebook is done and so far Facebook has done a good job at reacting to challenges, but if they try and replicate the snapchat reaction, they could confuse their interface more which is part of there current issues that have helped this challenger rise.</p>\n\n<p>So I don’t think verso should be instantly dismissed or instantly thought of as a success. It will be interesting to watch.</p>\n",
-			"date_published": "2018-02-28T11:43:27+01:00",
+			"date_published": "2018-02-28T10:43:27+00:00",
 			"url": "http://chrisjwilson.me/2018/02/28/is-vero-a.html"
 		},
 		
@@ -101,7 +129,7 @@
 			"id": "http://ChrisJWilson.micro.blog/2018/02/27/the-rear-of.html",
 	      	
 			"content_html": "<p>The rear of my iPad is coming alomg nicely</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/05ee3f1be8.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-27T19:05:35+01:00",
+			"date_published": "2018-02-27T18:05:35+00:00",
 			"url": "http://chrisjwilson.me/2018/02/27/the-rear-of.html"
 		},
 		
@@ -109,7 +137,7 @@
 			"id": "http://ChrisJWilson.micro.blog/2018/02/26/so-i-might.html",
 	      	
 			"content_html": "<p>So I might remote into my Mac at home so I can access a work websitebecausr it <strong>hates</strong> iPad’s so much. There was even an update recently but mobile responsive was not a feature. And unfortunately iCab doesn’t solve this problem.</p>\n",
-			"date_published": "2018-02-26T15:45:39+01:00",
+			"date_published": "2018-02-26T14:45:39+00:00",
 			"url": "http://chrisjwilson.me/2018/02/26/so-i-might.html"
 		},
 		
@@ -119,7 +147,7 @@
 			"title": "Is someone copying me...or am I less original than I thought 🤷‍♂️",
 			
 			"content_html": "<p>So I’ve seen someone write and share an article that is surprisingly similar to one I wrote and only a day later. Mine was an “evergreen” topic but admittedly one that others have written about before. Chances are that this is just one of those strange coninsidences where <strong>actually</strong> we’re both being influenced by the same environment and so are getting the same sources of inspiration leading to similar/the same topic…But even as I write this, I realise this is actually the second time in just over a week. I’m not sure if this means I’m less original than I though…or someone’s copying my ideas? Either way, no one cares who has what idea, it’s the execution that matters.</p>\n",
-			"date_published": "2018-02-22T16:50:12+01:00",
+			"date_published": "2018-02-22T15:50:12+00:00",
 			"url": "http://chrisjwilson.me/2018/02/22/is-someone-copying.html"
 		},
 		
@@ -127,7 +155,7 @@
 			"id": "http://ChrisJWilson.micro.blog/2018/02/21/this-was-a.html",
 	      	
 			"content_html": "<p>This was a great episode of Mac Power Users. Rose shared some pretty interesting tips but the idea I’m going to try is using launch centre pro and launcher to use location based actions and reminders. So for example, open up my task manager when I get to work, or the shopping list when I get to the local store. Check it out. <br />\n<a href=\"https://www.relay.fm/mpu/418\">Rosemary Orchard on MacPowerUsers</a></p>\n",
-			"date_published": "2018-02-21T17:38:58+01:00",
+			"date_published": "2018-02-21T16:38:58+00:00",
 			"url": "http://chrisjwilson.me/2018/02/21/this-was-a.html"
 		},
 		
@@ -135,7 +163,7 @@
 			"id": "http://ChrisJWilson.micro.blog/2018/02/21/tatra-mountains-yesterday.html",
 	      	
 			"content_html": "<p>Tatra mountains yesterday (iPhone se only again)</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/e3db4516be.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-21T10:05:45+01:00",
+			"date_published": "2018-02-21T09:05:45+00:00",
 			"url": "http://chrisjwilson.me/2018/02/21/tatra-mountains-yesterday.html"
 		},
 		
@@ -143,7 +171,7 @@
 			"id": "http://ChrisJWilson.micro.blog/2018/02/20/darn-interact-is.html",
 	      	
 			"content_html": "<p>Darn, Interact is a great app that helps if you’re a “Do I really have to go to my Mac for that” kind of person. I use it to make groups of adult students who I email. This isn’t possible in the native iOS Contacts app. <a href=\"https://agiletortoise.micro.blog/2018/02/12/getting-ready-to.html\">Greg Pierce - Getting Ready To</a></p>\n",
-			"date_published": "2018-02-20T15:47:41+01:00",
+			"date_published": "2018-02-20T14:47:41+00:00",
 			"url": "http://chrisjwilson.me/2018/02/20/darn-interact-is.html"
 		},
 		
@@ -151,7 +179,7 @@
 			"id": "http://ChrisJWilson.micro.blog/2018/02/19/hiking-in-the.html",
 	      	
 			"content_html": "<p>Hiking in the Tatar mountains in Poland. Not a bad time. (iPhone SE plus snapseed for post processing)</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/f3ab23603b.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-19T19:38:23+01:00",
+			"date_published": "2018-02-19T18:38:23+00:00",
 			"url": "http://chrisjwilson.me/2018/02/19/hiking-in-the.html"
 		},
 		
@@ -161,7 +189,7 @@
 			"title": "Email Newsletters that are worth subscribing too",
 			
 			"content_html": "<p>Here’s a quick list of newsletters that are worth the time to read (this is just opinion, your mileage may vary)</p>\n\n<ol>\n  <li><a href=\"https://club.macstories.net\">Macstories</a> (Apple and iPad geekery, costs money)</li>\n  <li><a href=\"https://www.cjchilvers.com/subscribe\">CJ Chilvers</a> (the best from CJ’s blog on creating, life and stuff)</li>\n  <li><a href=\"https://pjrvs.com\">Paul Jarvis</a> (great entrepreneurial and creative advice from someone who does things “the wrong way” but it works)</li>\n  <li><a href=\"https://austinkleon.com\">Austin Kleon</a> (More creative insights and curiosities)</li>\n  <li><a href=\"http://rohdesign.com/newsletter/\">Rohdesign Dispatch</a> (great design and sketchnoting tips from the master)</li>\n</ol>\n\n<p>I may come back and add to this</p>\n",
-			"date_published": "2018-02-18T20:24:11+01:00",
+			"date_published": "2018-02-18T19:24:11+00:00",
 			"url": "http://chrisjwilson.me/2018/02/18/email-newsletters-that.html"
 		},
 		
@@ -171,7 +199,7 @@
 			"title": "Why are there “delux albums” on Apple Music?",
 			
 			"content_html": "<p><a href=\"http://benjaminmayo.co.uk/apple-music-first-impressions\">Apple Music First Impressions - Benjamin Mayo</a></p>\n\n<blockquote>\n  <p>The archaic concept of a standard album and a deluxe album are still in use. It’s a digitisation of a physical CD inventory, not a modern reset.</p>\n</blockquote>\n\n<p>Ben’s completely right here. It’s a pain in Apple Music to go searching for certain music. The fact that singles get mixed in with Albums in a pain in the neck.</p>\n",
-			"date_published": "2018-02-17T07:45:29+01:00",
+			"date_published": "2018-02-17T06:45:29+00:00",
 			"url": "http://chrisjwilson.me/2018/02/17/apple-music-first.html"
 		},
 		
@@ -181,7 +209,7 @@
 			"title": "a different -kind of- writing process",
 			
 			"content_html": "<ul>\n  <li>Write 1st draft, it’s too long,</li>\n  <li>write second draft, it’s long,</li>\n  <li>write third draft, okay we’re getting somewhere, but maybe we need to start again,</li>\n  <li>write fourth draft, okay we’re heading in the right direction now.</li>\n  <li>Re-read fourth version, cut useless words, rephrase sections, cut a paragraph that isn’t needed, add a new one.</li>\n</ul>\n\n<p>This is not my normal writing process. Normally I either write in one go and then edit <strong>or</strong> I write once, delete and then write again. This time I’m writing for someone else’s publication and there’s so much I could add. That’s what I realised on the second draft, I could say more. But the truth is, the reader wants something for them, they don’t care about the aspects I find interesting or the fine details. They want the interesting take away or idea for them.</p>\n\n<p>That’s why I’m taking my time, and I’ve not even finished yet</p>\n",
-			"date_published": "2018-02-16T15:56:03+01:00",
+			"date_published": "2018-02-16T14:56:03+00:00",
 			"url": "http://chrisjwilson.me/2018/02/16/a-different-kind.html"
 		},
 		
@@ -191,7 +219,7 @@
 			"title": "Turtles all the way down",
 			
 			"content_html": "<p>One of the things I’ve found really strange on the internet are the sort of “pyramid” schemes. You know, the internet marketer, who teaches you internet marketing, so you too can become an internet marketer, in internet marketing. Or the writer, who writes books, on how to write books…about writing books. Or the YouTuber who makes YouTube videos about how you can make YouTube videos. Obviously not everyone who does internet marketing or teachers internet marketing <em>only</em> does internet marketing or <em>only</em> has experience in this field, but there are plenty of other “fake it till you make it” folk, and it’s telling when they seem to produce people who do the exact same thing (just less successfully). \nI’ll add, that It’s also why I find the sketchnote community concerning sometimes. Some people only seem to share sketchnotes of how to sketchnote…and that’s pretty weird.</p>\n",
-			"date_published": "2018-02-15T09:30:53+01:00",
+			"date_published": "2018-02-15T08:30:53+00:00",
 			"url": "http://chrisjwilson.me/2018/02/15/turtles-all-the.html"
 		},
 		
@@ -199,26 +227,8 @@
 			"id": "http://ChrisJWilson.micro.blog/2018/02/14/people-give-evernote.html",
 	      	
 			"content_html": "<p>People give Evernote a lot of stick, but it’s improved a lot recently…well, it’s stopped bugging me about WorkChat…so that’s a massive improvement.</p>\n",
-			"date_published": "2018-02-14T19:51:54+01:00",
+			"date_published": "2018-02-14T18:51:54+00:00",
 			"url": "http://chrisjwilson.me/2018/02/14/people-give-evernote.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/02/13/thoughts-on-new.html",
-	      	
-			"content_html": "<p><a href=\"https://brooksreview.net/2018/02/thoughts-on-new-ipads/\">Thoughts On New iPads -&gt;</a>\n<a href=\"https://micro.blog/ben\">@ben</a> makes some good points here about the orientation apple sees iPads being used in. Personally, I used my iPad Air in portrait more than my Pro because the Smart Keyboard can <strong>only</strong> be used in landscape. And that’s a shame.</p>\n",
-			"date_published": "2018-02-13T10:21:51+01:00",
-			"url": "http://chrisjwilson.me/2018/02/13/thoughts-on-new.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/02/13/oh-hi-there.html",
-	      	
-			"title": "Oh Hi there Micro.Blog",
-			
-			"content_html": "<p>So after this week <a href=\"https://www.relay.fm/mpu/417\">Mac Power users podcast</a> I finally got round to signing up for Micro.Blog. I had been meaning to do so for a bit, especially after seeing people like <a href=\"http://decoding.io/\">Zsolt Benke at decoding</a> using the service on their own site. However I wondered if I should use it on my own site or whatever. In the end, I signed up for a Micro.blog blog as I wanted to help support the service as well. Paying $5 seems like a good way to do so and solved my overthinking.</p>\n\n<p>So why did I sign up in the first place.</p>\n\n<h2 id=\"my-increasing-announance-at-social-media-twitter\">My increasing announance at Social Media (twitter)</h2>\n<p>I’ve increasingly felt that social media is very “meh”. I hate what Facebook has become as it increasingly tried to grab my attention with cheap tricks and tracks everything I do (no matter if I try to stop that). Twitter too isn’t perfect with its lack of efforts to stop trolling and abuse.</p>\n\n<h2 id=\"my-announance-at-blogging\">My announance at blogging</h2>\n<p>Likewise I’m fed up of the “professional blogging culture”. There are so many “have tos” with blogging now like:</p>\n<ul>\n  <li>write long posts</li>\n  <li>have links</li>\n  <li>be helpful</li>\n  <li>only show the good sides</li>\n  <li>no link posts</li>\n  <li>be on a single focus topic\nAnd so on and so on. \nAll great advice if you want to make money, but as <a href=\"https://www.cjchilvers.com/blog/welcome-back-blogging\">CJ Chilvers says</a></li>\n</ul>\n\n<blockquote>\n  <p>“one is a business model, one is a life model”</p>\n</blockquote>\n\n<p>That’s what I’m hoping for in this site. Somewhere to play, somewhere to create and somewhere to be unprofessional.</p>\n",
-			"date_published": "2018-02-13T09:49:57+01:00",
-			"url": "http://chrisjwilson.me/2018/02/13/oh-hi-there.html"
 		}
 		
 	]
