@@ -1,0 +1,269 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Christopher Wilson",
+	"home_page_url": "http://chrisjwilson.me/",
+	"feed_url": "http://chrisjwilson.me/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/11/moving-webhosts-can.html",
+	      	
+			"content_text": "Moving webhosts can really be a pain (but at least...",
+			"date_published": "2018-08-11T17:50:56+02:00",
+			"url": "http://chrisjwilson.me/2018/08/11/moving-webhosts-can.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/07/02/just-completed-my.html",
+	      	
+			"content_text": "Just completed my first day at my new job. It...",
+			"date_published": "2018-07-02T18:03:45+02:00",
+			"url": "http://chrisjwilson.me/2018/07/02/just-completed-my.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/06/29/brighton.html",
+	      	
+			"title": "Brighton ",
+			
+			"content_text": "We went on a trip down to Brighton. I didn’t...",
+			"date_published": "2018-06-29T09:30:17+02:00",
+			"url": "http://chrisjwilson.me/2018/06/29/brighton.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/06/21/second-ryanair-flight.html",
+	      	
+			"content_text": "Second Ryanair flight where it seems half the passengers have...",
+			"date_published": "2018-06-21T15:10:35+02:00",
+			"url": "http://chrisjwilson.me/2018/06/21/second-ryanair-flight.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/06/21/dingli-cliffs-malta.html",
+	      	
+			"title": "Dingli Cliffs, Malta ",
+			
+			"content_text": "The chapel of St. Anna at the tops of Dingli...",
+			"date_published": "2018-06-21T14:02:56+02:00",
+			"url": "http://chrisjwilson.me/2018/06/21/dingli-cliffs-malta.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/06/21/the-citadel-in.html",
+	      	
+			"title": "The Citadel In Victoria (Rabat) Gozo",
+			
+			"content_text": "\n\n",
+			"date_published": "2018-06-21T10:25:03+02:00",
+			"url": "http://chrisjwilson.me/2018/06/21/the-citadel-in.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/06/20/mdina-malta.html",
+	      	
+			"title": "Mdina Malta ",
+			
+			"content_text": "Another day of travel in Malta. This time the beautiful...",
+			"date_published": "2018-06-20T16:26:10+02:00",
+			"url": "http://chrisjwilson.me/2018/06/20/mdina-malta.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/06/20/the-blue-grotto.html",
+	      	
+			"title": "The Blue Grotto ",
+			
+			"content_text": "Day out and about in Malta with just the iPhone...",
+			"date_published": "2018-06-20T13:23:46+02:00",
+			"url": "http://chrisjwilson.me/2018/06/20/the-blue-grotto.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/05/20/one-of-those.html",
+	      	
+			"content_text": "One of those little features I always loved about iOS...",
+			"date_published": "2018-05-20T10:44:17+02:00",
+			"url": "http://chrisjwilson.me/2018/05/20/one-of-those.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/05/18/the-end-of.html",
+	      	
+			"title": "The End of Third-Party Twitter Clients?",
+			
+			"content_text": "Daring Fireball: The End of Third-Party Twitter Clients? This antipathy...",
+			"date_published": "2018-05-18T08:38:35+02:00",
+			"url": "http://chrisjwilson.me/2018/05/18/the-end-of.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/05/09/an-ios-laptop.html",
+	      	
+			"content_text": "an iOS laptop totally wouldn’t be for me…but Apple should...",
+			"date_published": "2018-05-09T07:00:41+02:00",
+			"url": "http://chrisjwilson.me/2018/05/09/an-ios-laptop.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/05/07/irony-that-i.html",
+	      	
+			"content_text": "Irony that I doubt will ever grow old for me....",
+			"date_published": "2018-05-07T13:30:11+02:00",
+			"url": "http://chrisjwilson.me/2018/05/07/irony-that-i.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/05/07/lviv-is-a.html",
+	      	
+			"content_text": "Lviv is a pretty special place\n\n\n",
+			"date_published": "2018-05-07T06:53:57+02:00",
+			"url": "http://chrisjwilson.me/2018/05/07/lviv-is-a.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/03/03/shooting-iphone-photos.html",
+	      	
+			"title": "Shooting iPhone photos in the cold?",
+			
+			"content_text": "Yesterday I heard someone mention that their iPhone had shut...",
+			"date_published": "2018-03-03T11:09:56+01:00",
+			"url": "http://chrisjwilson.me/2018/03/03/shooting-iphone-photos.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/28/is-vero-a.html",
+	      	
+			"title": "Is Vero a challenge to Facebook?",
+			
+			"content_text": "I saw someone dismissing the possibility of verso taking Facebook...",
+			"date_published": "2018-02-28T11:43:27+01:00",
+			"url": "http://chrisjwilson.me/2018/02/28/is-vero-a.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/27/the-rear-of.html",
+	      	
+			"content_text": "The rear of my iPad is coming alomg nicely\n\n\n",
+			"date_published": "2018-02-27T19:05:35+01:00",
+			"url": "http://chrisjwilson.me/2018/02/27/the-rear-of.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/26/so-i-might.html",
+	      	
+			"content_text": "So I might remote into my Mac at home so...",
+			"date_published": "2018-02-26T15:45:39+01:00",
+			"url": "http://chrisjwilson.me/2018/02/26/so-i-might.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/22/is-someone-copying.html",
+	      	
+			"title": "Is someone copying me...or am I less original than I thought 🤷‍♂️",
+			
+			"content_text": "So I’ve seen someone write and share an article that...",
+			"date_published": "2018-02-22T16:50:12+01:00",
+			"url": "http://chrisjwilson.me/2018/02/22/is-someone-copying.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/21/this-was-a.html",
+	      	
+			"content_text": "This was a great episode of Mac Power Users. Rose...",
+			"date_published": "2018-02-21T17:38:58+01:00",
+			"url": "http://chrisjwilson.me/2018/02/21/this-was-a.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/21/tatra-mountains-yesterday.html",
+	      	
+			"content_text": "Tatra mountains yesterday (iPhone se only again)\n\n\n",
+			"date_published": "2018-02-21T10:05:45+01:00",
+			"url": "http://chrisjwilson.me/2018/02/21/tatra-mountains-yesterday.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/20/darn-interact-is.html",
+	      	
+			"content_text": "Darn, Interact is a great app that helps if you’re...",
+			"date_published": "2018-02-20T15:47:41+01:00",
+			"url": "http://chrisjwilson.me/2018/02/20/darn-interact-is.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/19/hiking-in-the.html",
+	      	
+			"content_text": "Hiking in the Tatar mountains in Poland. Not a bad...",
+			"date_published": "2018-02-19T19:38:23+01:00",
+			"url": "http://chrisjwilson.me/2018/02/19/hiking-in-the.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/18/email-newsletters-that.html",
+	      	
+			"title": "Email Newsletters that are worth subscribing too",
+			
+			"content_text": "Here’s a quick list of newsletters that are worth the...",
+			"date_published": "2018-02-18T20:24:11+01:00",
+			"url": "http://chrisjwilson.me/2018/02/18/email-newsletters-that.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/17/apple-music-first.html",
+	      	
+			"title": "Why are there “delux albums” on Apple Music?",
+			
+			"content_text": "Apple Music First Impressions - Benjamin Mayo The archaic concept...",
+			"date_published": "2018-02-17T07:45:29+01:00",
+			"url": "http://chrisjwilson.me/2018/02/17/apple-music-first.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/16/a-different-kind.html",
+	      	
+			"title": "a different -kind of- writing process",
+			
+			"content_text": "Write 1st draft, it’s too long, write second draft, it’s...",
+			"date_published": "2018-02-16T15:56:03+01:00",
+			"url": "http://chrisjwilson.me/2018/02/16/a-different-kind.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/15/turtles-all-the.html",
+	      	
+			"title": "Turtles all the way down",
+			
+			"content_text": "One of the things I’ve found really strange on the...",
+			"date_published": "2018-02-15T09:30:53+01:00",
+			"url": "http://chrisjwilson.me/2018/02/15/turtles-all-the.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/14/people-give-evernote.html",
+	      	
+			"content_text": "People give Evernote a lot of stick, but it’s improved...",
+			"date_published": "2018-02-14T19:51:54+01:00",
+			"url": "http://chrisjwilson.me/2018/02/14/people-give-evernote.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/13/thoughts-on-new.html",
+	      	
+			"content_text": "Thoughts On New iPads -&gt; @ben makes some good points...",
+			"date_published": "2018-02-13T10:21:51+01:00",
+			"url": "http://chrisjwilson.me/2018/02/13/thoughts-on-new.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/13/oh-hi-there.html",
+	      	
+			"title": "Oh Hi there Micro.Blog",
+			
+			"content_text": "So after this week Mac Power users podcast I finally...",
+			"date_published": "2018-02-13T09:49:57+01:00",
+			"url": "http://chrisjwilson.me/2018/02/13/oh-hi-there.html"
+		}
+		
+	]
+}
