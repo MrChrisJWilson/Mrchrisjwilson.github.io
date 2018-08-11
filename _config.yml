@@ -40,9 +40,12 @@ github_username: ""
 instagram_username: ""
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "WET"
+timezone: "Poland"
 site_id: "3042"
 gems: ["jekyll-paginate"]
+itunes_description: "Content Writer in Poland, Christian, Sketchnoter, and heavy iPad user."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Christopher Wilson"
+itunes_email: ""
+podcast: false
