@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/14/its-just-not.html",
+	      	
+			"title": "It’s Just Not for Me",
+			
+			"content_text": "Well, it happened. A company I really like released a...",
+			"date_published": "2018-08-14T16:00:56+02:00",
+			"url": "http://chrisjwilson.me/2018/08/14/its-just-not.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/14/i-finally-took.html",
+	      	
+			"content_text": "I finally took @gr36 ‘s suggestion and moved all my...",
+			"date_published": "2018-08-14T11:08:06+02:00",
+			"url": "http://chrisjwilson.me/2018/08/14/i-finally-took.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/08/14/icro-now-has.html",
 	      	
 			"content_text": "Icro now has image upload. This makes me happy. Micro.blog...",
