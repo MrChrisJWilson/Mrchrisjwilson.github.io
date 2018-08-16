@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/16/songexploder-christine-and.html",
+	      	
+			"content_html": "<p><a href=\"https://pca.st/IXlA\">SongExploder: Christine and the Queens - Doesn’t matter</a>\nI love the behind the scenes glimps you get from Song Exploder and Christine and the Queens are a great act to find out about. A really interesting song too.</p>\n",
+			"date_published": "2018-08-16T10:43:22+02:00",
+			"url": "http://chrisjwilson.me/2018/08/16/songexploder-christine-and.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/08/14/my-hypercritical-and.html",
 	      	
 			"content_html": "<p>My hypercritical and PCalc T-shirt’s arrived 😎</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/b03c3308b1.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -215,14 +223,6 @@
 			"content_html": "<p>So I’ve seen someone write and share an article that is surprisingly similar to one I wrote and only a day later. Mine was an “evergreen” topic but admittedly one that others have written about before. Chances are that this is just one of those strange coninsidences where <strong>actually</strong> we’re both being influenced by the same environment and so are getting the same sources of inspiration leading to similar/the same topic…But even as I write this, I realise this is actually the second time in just over a week. I’m not sure if this means I’m less original than I though…or someone’s copying my ideas? Either way, no one cares who has what idea, it’s the execution that matters.</p>\n",
 			"date_published": "2018-02-22T16:50:12+01:00",
 			"url": "http://chrisjwilson.me/2018/02/22/is-someone-copying.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/02/21/this-was-a.html",
-	      	
-			"content_html": "<p>This was a great episode of Mac Power Users. Rose shared some pretty interesting tips but the idea I’m going to try is using launch centre pro and launcher to use location based actions and reminders. So for example, open up my task manager when I get to work, or the shopping list when I get to the local store. Check it out. <br />\n<a href=\"https://www.relay.fm/mpu/418\">Rosemary Orchard on MacPowerUsers</a></p>\n",
-			"date_published": "2018-02-21T17:38:58+01:00",
-			"url": "http://chrisjwilson.me/2018/02/21/this-was-a.html"
 		}
 		
 	]
