@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/17/day.html",
+	      	
+			"content_html": "<p>Day 1 \n<img src=\"http://chrisjwilson.me/uploads/2018/a8d26788bb.jpg\" alt=\"769EED5E-40F6-4167-A21F-9F629A6F7C2F.jpg\" /></p>\n",
+			"date_published": "2018-08-17T08:07:49+02:00",
+			"url": "http://chrisjwilson.me/2018/08/17/day.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/16/idea-for-a.html",
+	      	
+			"content_html": "<p>Idea for a relay crossover episode Federico and John Siracusa talk pasta workflows. Call me <a href=\"https://micro.blog/ismh\">@ismh</a></p>\n",
+			"date_published": "2018-08-16T17:49:26+02:00",
+			"url": "http://chrisjwilson.me/2018/08/16/idea-for-a.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/08/16/songexploder-christine-and.html",
 	      	
 			"content_html": "<p><a href=\"https://pca.st/IXlA\">SongExploder: Christine and the Queens - Doesn’t matter</a>\nI love the behind the scenes glimps you get from Song Exploder and Christine and the Queens are a great act to find out about. A really interesting song too.</p>\n",
@@ -205,24 +221,6 @@
 			"content_html": "<p>The rear of my iPad is coming alomg nicely</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/05ee3f1be8.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-27T19:05:35+01:00",
 			"url": "http://chrisjwilson.me/2018/02/27/the-rear-of.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/02/26/so-i-might.html",
-	      	
-			"content_html": "<p>So I might remote into my Mac at home so I can access a work websitebecausr it <strong>hates</strong> iPad’s so much. There was even an update recently but mobile responsive was not a feature. And unfortunately iCab doesn’t solve this problem.</p>\n",
-			"date_published": "2018-02-26T15:45:39+01:00",
-			"url": "http://chrisjwilson.me/2018/02/26/so-i-might.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/02/22/is-someone-copying.html",
-	      	
-			"title": "Is someone copying me...or am I less original than I thought 🤷‍♂️",
-			
-			"content_html": "<p>So I’ve seen someone write and share an article that is surprisingly similar to one I wrote and only a day later. Mine was an “evergreen” topic but admittedly one that others have written about before. Chances are that this is just one of those strange coninsidences where <strong>actually</strong> we’re both being influenced by the same environment and so are getting the same sources of inspiration leading to similar/the same topic…But even as I write this, I realise this is actually the second time in just over a week. I’m not sure if this means I’m less original than I though…or someone’s copying my ideas? Either way, no one cares who has what idea, it’s the execution that matters.</p>\n",
-			"date_published": "2018-02-22T16:50:12+01:00",
-			"url": "http://chrisjwilson.me/2018/02/22/is-someone-copying.html"
 		}
 		
 	]
