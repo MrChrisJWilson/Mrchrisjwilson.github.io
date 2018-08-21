@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/20/great-newsletters.html",
+	      	
+			"title": "5 great newsletters ✉️",
+			
+			"content_html": "<p>I’ve signed up to far too many newsletters in the past. Some have been great for a while and then warn thing and others weren’t even that great at the start. Here are five which have stood my test of time (in no particular order)</p>\n<ol>\n  <li><a href=\"https://pjrvs.com\">Paul Jarvis</a></li>\n  <li><a href=\"https://club.macstories.net\">Club Macstories</a> (paid)</li>\n  <li><a href=\"https://austinkleon.com/newsletter/\">Austin Kleon</a></li>\n  <li><a href=\"http://rohdesign.com/newsletter/\">Mike Rhode</a></li>\n  <li><a href=\"https://www.cjchilvers.com/subscribe/\">CJ Chilvers</a></li>\n</ol>\n\n<p>Share yours (you don’t have to share five)</p>\n",
+			"date_published": "2018-08-20T17:19:33+02:00",
+			"url": "http://chrisjwilson.me/2018/08/20/great-newsletters.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/08/20/day-black-and.html",
 	      	
 			"content_html": "<h1 id=\"day-2-black-and-white\">Day 2 black and white</h1>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/c6d6e2e770.jpg\" alt=\"A5FFC737-4938-425C-8F00-397835BD5B8D.jpg\" /></p>\n",
@@ -211,14 +221,6 @@
 			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/36ac96cca0.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/36ac96cca0.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/e829ed4bb3.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/e829ed4bb3.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/64120e550d.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/64120e550d.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Day out and about in Malta with just the iPhone as my camera. Not a bad day.</p>\n\n",
 			"date_published": "2018-06-20T13:23:46+02:00",
 			"url": "http://chrisjwilson.me/2018/06/20/the-blue-grotto.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/05/20/one-of-those.html",
-	      	
-			"content_html": "<p>One of those little features I always loved about iOS (over android) is the tap the top to scroll back to the top. So simple but so good.</p>\n",
-			"date_published": "2018-05-20T10:44:17+02:00",
-			"url": "http://chrisjwilson.me/2018/05/20/one-of-those.html"
 		}
 		
 	]
