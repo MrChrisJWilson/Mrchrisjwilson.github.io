@@ -6,6 +6,40 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/22/as-i-thought.html",
+	      	
+			"content_text": "As I thought, the latest DayOne update removes my precious,...",
+			"date_published": "2018-08-22T06:40:27+02:00",
+			"url": "http://chrisjwilson.me/2018/08/22/as-i-thought.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/21/can-you-draw.html",
+	      	
+			"title": "Can you draw a face with just vertical lines? 🤔 ✏️",
+			
+			"content_text": "Yesterday evening I suddenly had a random idea*, could I...",
+			"date_published": "2018-08-21T18:26:01+02:00",
+			"url": "http://chrisjwilson.me/2018/08/21/can-you-draw.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/21/155238.html",
+	      	
+			"content_text": "Day 3 📷\n\n\n",
+			"date_published": "2018-08-21T17:52:38+02:00",
+			"url": "http://chrisjwilson.me/2018/08/21/155238.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/21/read-more-books.html",
+	      	
+			"content_text": "Read More Books 📚 A reminder from myself yesterday. Books...",
+			"date_published": "2018-08-21T08:01:33+02:00",
+			"url": "http://chrisjwilson.me/2018/08/21/read-more-books.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/08/21/pocketcasts-has-chapters.html",
 	      	
 			"content_text": "Pocketcasts has chapters support. Nice 😎\n",
