@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/23/new-craft-beer.html",
+	      	
+			"content_text": "New Craft beer (well new to me) in local shop...",
+			"date_published": "2018-08-23T18:38:56+02:00",
+			"url": "http://chrisjwilson.me/2018/08/23/new-craft-beer.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/22/how-to-do.html",
+	      	
+			"content_text": "How to do a strength or core workout with the...",
+			"date_published": "2018-08-22T10:00:38+02:00",
+			"url": "http://chrisjwilson.me/2018/08/22/how-to-do.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/08/22/as-i-thought.html",
 	      	
 			"content_text": "As I thought, the latest DayOne update removes my precious,...",
