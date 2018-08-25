@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/23/new-craft-beer.html",
+	      	
+			"content_html": "<p>New Craft beer (well new to me) in local shop with a local connect. Let’s give this a try.</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/e86b318906.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-08-23T18:38:56+02:00",
+			"url": "http://chrisjwilson.me/2018/08/23/new-craft-beer.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/22/how-to-do.html",
+	      	
+			"content_html": "<p>How to do a strength or core workout with the Apple Watch ⌚️💪 <a href=\"http://ipadguild.com/how-to-do-a-strength-or-core-workout-on-the-apple-watch/\">iPad guild</a></p>\n",
+			"date_published": "2018-08-22T10:00:38+02:00",
+			"url": "http://chrisjwilson.me/2018/08/22/how-to-do.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/08/22/as-i-thought.html",
 	      	
 			"content_html": "<p>As I thought, the latest DayOne update removes my precious, precious plus account so I now have to pay for a subscription or use the basic plan ☹️ I kind of miss DayOne classic. Audio recording could be nice though.</p>\n",
@@ -197,22 +213,6 @@
 			"content_html": "<p>Got a couple new pens to play with after discovering a great stationary shop in Krakow.</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/116bef1456.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-08-13T16:59:30+02:00",
 			"url": "http://chrisjwilson.me/2018/08/13/got-a-couple.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/08/12/sunday-morning-lettering.html",
-	      	
-			"content_html": "<p>Sunday morning lettering practice.</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/6ad50d5309.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-12T07:27:27+02:00",
-			"url": "http://chrisjwilson.me/2018/08/12/sunday-morning-lettering.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/08/11/moving-webhosts-can.html",
-	      	
-			"content_html": "<p>Moving webhosts can really be a pain (but at least I’ve finished).</p>\n",
-			"date_published": "2018-08-11T17:50:56+02:00",
-			"url": "http://chrisjwilson.me/2018/08/11/moving-webhosts-can.html"
 		}
 		
 	]
