@@ -18,7 +18,7 @@ defaults:
 plugins:
   - jekyll-sitemap
 
-title: "Christopher Wilson"
+title: "Chris J Wilson"
 tagline: ""
 description: "Follow <a href=\"https://micro.blog/ChrisJWilson\">@ChrisJWilson on Micro.blog</a>."
 credits: "Follow <a href=\"https://micro.blog/ChrisJWilson\">@ChrisJWilson on Micro.blog</a>."
@@ -29,11 +29,11 @@ username: "ChrisJWilson"
 microblog_user: "ChrisJWilson"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
-author: "Christopher Wilson"
-name: "Christopher Wilson"
+author: "Chris J Wilson"
+name: "Chris J Wilson"
 gravatar_hash: "3ce9e8d31a85e655218610f8a31ec223"
 avatar: "https://micro.blog/ChrisJWilson/avatar.jpg"
-full_name: "Christopher Wilson"
+full_name: "Chris J Wilson"
 bio: ""
 twitter_username: ""
 github_username: ""
