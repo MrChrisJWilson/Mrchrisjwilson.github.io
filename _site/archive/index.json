@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/28/ideas-are-cheap.html",
+	      	
+			"title": "Ideas are Cheap",
+			
+			"content_text": "Another idea from perennial seller by Ryan Holiday, ideas are...",
+			"date_published": "2018-08-28T17:47:29+02:00",
+			"url": "http://chrisjwilson.me/2018/08/28/ideas-are-cheap.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/28/one-of-the.html",
+	      	
+			"content_text": "One of the greatest little features Evernote made was the...",
+			"date_published": "2018-08-28T07:42:47+02:00",
+			"url": "http://chrisjwilson.me/2018/08/28/one-of-the.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/08/27/no-you-shouldnt.html",
 	      	
 			"title": "No, you shouldn't spend 4/5th of your time marketing and 1/5th creating",
