@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/30/affinity-publisher-beta.html",
+	      	
+			"content_html": "<h1 id=\"affinity-publisher-beta-demo-out\"><a href=\"https://affinity.serif.com/en-us/publisher\">Affinity Publisher Beta demo out</a></h1>\n<p>Pretty exciting to see the Affinity Publisher beta out. It’s Mac only for now but if anyone is going to create an iPad version, it’s affinity (and they’ve mentioned they will.)</p>\n",
+			"date_published": "2018-08-30T14:23:58+02:00",
+			"url": "http://chrisjwilson.me/2018/08/30/affinity-publisher-beta.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/08/29/johnnie-walker-red.html",
 	      	
 			"title": "Johnnie Walker Red Rye Finish ",
@@ -215,14 +223,6 @@
 			"content_html": "<h1 id=\"day-2-black-and-white\">Day 2 black and white</h1>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/c6d6e2e770.jpg\" alt=\"A5FFC737-4938-425C-8F00-397835BD5B8D.jpg\" /></p>\n",
 			"date_published": "2018-08-20T07:41:11+02:00",
 			"url": "http://chrisjwilson.me/2018/08/20/day-black-and.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/08/19/just-finished-the.html",
-	      	
-			"content_html": "<p>Just finished the show notes for the final guest episode of the sketchnote army podcast season 5. Spoiler alert 🚨 It’s a great one.</p>\n",
-			"date_published": "2018-08-19T20:07:18+02:00",
-			"url": "http://chrisjwilson.me/2018/08/19/just-finished-the.html"
 		}
 		
 	]
