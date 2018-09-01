@@ -43,7 +43,7 @@ paginate_path: "/page/:num/"
 timezone: "Poland"
 site_id: "3042"
 gems: ["jekyll-paginate"]
-itunes_description: "Content Writer in Poland, Christian, Sketchnoter, and heavy iPad user."
+itunes_description: "Content Writer in Krakow, Poland (UTC+1), Christian, Sketchnoter, and heavy iPad user. He/hm. Hosted on Micro.blog "
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Christopher Wilson"
