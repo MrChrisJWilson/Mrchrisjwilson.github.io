@@ -6,6 +6,50 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/02/what-you-need.html",
+	      	
+			"content_text": "“What you need to do, Peter, is stop believing all...",
+			"date_published": "2018-09-02T21:45:29+02:00",
+			"url": "http://chrisjwilson.me/2018/09/02/what-you-need.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/01/turns-out-two.html",
+	      	
+			"content_text": "Turns out two of my big complaints about DayOne V3...",
+			"date_published": "2018-09-01T10:46:18+02:00",
+			"url": "http://chrisjwilson.me/2018/09/01/turns-out-two.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/31/built-to-last.html",
+	      	
+			"title": "Built to Last ",
+			
+			"content_text": "When I was fifteen, my dad bough me my first...",
+			"date_published": "2018-08-31T20:30:11+02:00",
+			"url": "http://chrisjwilson.me/2018/08/31/built-to-last.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/31/currently-reading-perennial.html",
+	      	
+			"content_text": "Currently reading: Perennial Seller  by Ryan Holiday  📚\n",
+			"date_published": "2018-08-31T08:10:13+02:00",
+			"url": "http://chrisjwilson.me/2018/08/31/currently-reading-perennial.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/31/does-patreons-value.html",
+	      	
+			"title": "Does Patreon’s Value Increase the More Things You Back? ",
+			
+			"content_text": "Patreon has always seemed like an interesting idea to me...",
+			"date_published": "2018-08-31T08:03:15+02:00",
+			"url": "http://chrisjwilson.me/2018/08/31/does-patreons-value.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/08/30/affinity-publisher-beta.html",
 	      	
 			"content_text": "Affinity Publisher Beta demo out Pretty exciting to see the...",
