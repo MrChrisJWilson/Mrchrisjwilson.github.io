@@ -13,7 +13,7 @@ So why did I sign up in the first place.
 ## My increasing announance at Social Media (twitter)
 I’ve increasingly felt that social media is very “meh”. I hate what Facebook has become as it increasingly tried to grab my attention with cheap tricks and tracks everything I do (no matter if I try to stop that). Twitter too isn’t perfect with its lack of efforts to stop trolling and abuse. 
 
-## My announance at blogging 
+## My annoyance at blogging 
 Likewise I’m fed up of the “professional blogging culture”. There are so many “have tos” with blogging now like:  
 - write long posts
 - have links
