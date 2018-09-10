@@ -6,6 +6,34 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/09/discussion-starterwhat-is.html",
+	      	
+			"content_html": "<p>Discussion starter…what is the correct/your way of assembling lasagna? (Yes I just cooked lasagna)</p>\n",
+			"date_published": "2018-09-09T20:14:58+02:00",
+			"url": "http://chrisjwilson.me/2018/09/09/discussion-starterwhat-is.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/09/protect-your-attention.html",
+	      	
+			"title": "Protect your attention",
+			
+			"content_html": "<p>I made this sketch in my commonplace book about a week and a half ago and since then this idea has come up a few times for me (including the latest Episode of <a href=\"http://www.hellointernet.fm/podcast/108\">Hello Internet </a>. That’s usually a sign to take notice of an idea, when it keeps coming up. It’s also part of the value of a commonplace book, you can notice the themes and ideas that come up again and again and see patterns and connections emerging over time.</p>\n\n<p>Attention is one of our most valuable resources and yet nowadays it feels like it’s given away for so little. Even giving away your Email address for some freebie is an invitation to take some of your attention.</p>\n\n<p>I’ve made a few changes recently to try and protect my attention more but I know that I both don’t stick to all of those changes and they don’t go far enough.</p>\n\n<ul>\n  <li>Focusing on longer and deeper content</li>\n  <li>planning silence</li>\n  <li>limiting disctration time</li>\n</ul>\n\n<p>They’ve all helped but the issue persists. Today I disabled some more notifications, removed another couple of podcasts from my app and finally set some limits in the new screen time settings in iOS 12. I hope they’ll help, but I know the attitude is the most important step.</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/7d8b339f1d.jpg\" width=\"421\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-09T19:30:53+02:00",
+			"url": "http://chrisjwilson.me/2018/09/09/protect-your-attention.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/08/thai-rolls.html",
+	      	
+			"title": "Thai Rolls ",
+			
+			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/ecccd07ce2.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/ecccd07ce2.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/de43c41c1c.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/de43c41c1c.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>I’d never heard of Thai rolls before but it’s a type of ice cream that basically gets made in front of your eyes. We went for kinder bueno with coconut pieces. Pretty tasty.</p>\n\n",
+			"date_published": "2018-09-08T20:23:12+02:00",
+			"url": "http://chrisjwilson.me/2018/09/08/thai-rolls.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/09/07/since-my-daughter.html",
 	      	
 			"content_html": "<p>Since my daughter was born there has been a massive increase in my use of Live Photos… coincidence? I think not.</p>\n",
@@ -191,32 +219,6 @@
 			"content_html": "<p>Patreon has always seemed like an interesting idea to me and I’ve backed a few groups for a couple of months at a time. For some reason I always stop. At the same time I back other site memberships. I imagine that I’d love to keep all the sites I’m a member of in one easier to manage location (patreon) and so I suspect the value of patreon for the backer increases the more things you back at the same time. Still, it’s not been enough to get me to back…yet.</p>\n",
 			"date_published": "2018-08-31T08:03:15+02:00",
 			"url": "http://chrisjwilson.me/2018/08/31/does-patreons-value.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/08/30/affinity-publisher-beta.html",
-	      	
-			"content_html": "<h1 id=\"affinity-publisher-beta-demo-out\"><a href=\"https://affinity.serif.com/en-us/publisher\">Affinity Publisher Beta demo out</a></h1>\n<p>Pretty exciting to see the Affinity Publisher beta out. It’s Mac only for now but if anyone is going to create an iPad version, it’s affinity (and they’ve mentioned they will.)</p>\n",
-			"date_published": "2018-08-30T14:23:58+02:00",
-			"url": "http://chrisjwilson.me/2018/08/30/affinity-publisher-beta.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/08/29/johnnie-walker-red.html",
-	      	
-			"title": "Johnnie Walker Red Rye Finish ",
-			
-			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/773bf5a88f.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/773bf5a88f.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Trying a new whiskey. It was a “hey you’ve got a baby” present.</p>\n\n",
-			"date_published": "2018-08-29T20:47:12+02:00",
-			"url": "http://chrisjwilson.me/2018/08/29/johnnie-walker-red.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/08/29/a-dumb-nonsensical.html",
-	      	
-			"content_html": "<p>A dumb nonsensical behaviour from myself. I’ve wanted to sign up as a <a href=\"https://micro.blog/relayfm\">@relayfm</a> member for a couple of years but everytime I’m about to I hit a “paradox of choice” situation. I think I want to give to every show, but there are some shows I don’t listen to so I think about choosing one show…but which one! If I could tick the shows I listen to I would (but that would be much harder to impliment). So I get caught in a mental loop and delay signing up. So today I (finally) signed up for “all the great shows”.</p>\n",
-			"date_published": "2018-08-29T14:56:32+02:00",
-			"url": "http://chrisjwilson.me/2018/08/29/a-dumb-nonsensical.html"
 		}
 		
 	]
