@@ -6,6 +6,32 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/11/testing-sharding-s.html",
+	      	
+			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/d9ff04a463.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/d9ff04a463.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Testing <a href=\"https://micro.blog/sharding\">@sharding</a> ‘s emulsify app at one of the spots I pass everyday and find useful for testing contrast. The blacks are crushed a bit more than the default camera app but it has a nice style.</p>\n\n",
+			"date_published": "2018-09-11T09:07:48+02:00",
+			"url": "http://chrisjwilson.me/2018/09/11/testing-sharding-s.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/10/education-needs-to.html",
+	      	
+			"title": "Education Needs to Be Inconvenient",
+			
+			"content_html": "<p><a href=\"https://seths.blog/2018/09/education-needs-to-be-inconvenient/\">Education needs to be inconvenient</a></p>\n\n<blockquote>\n  <p>Education needs to be inconvenient because it relies on effort and discomfort to move us from where we were to where we want to be. The internet gives us more access than ever, and if we care enough, we can use that convenient access to explore the inconvenient places that we know we should be exploring.</p>\n</blockquote>\n\n<ul>\n  <li>Seth Godin</li>\n</ul>\n\n",
+			"date_published": "2018-09-10T13:46:28+02:00",
+			"url": "http://chrisjwilson.me/2018/09/10/education-needs-to.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/10/i-was-trying.html",
+	      	
+			"content_html": "<p>I was trying to write an article and it just <em>wasn’t</em> coming. The ideas were all jumbled and the thought wasn’t clear or refined. So I finished, and then <em>“published”</em> to DayOne. I love having a place to send writing that isn’t online for things which are too private or incomplete.</p>\n",
+			"date_published": "2018-09-10T09:53:40+02:00",
+			"url": "http://chrisjwilson.me/2018/09/10/i-was-trying.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/09/09/discussion-starterwhat-is.html",
 	      	
 			"content_html": "<p>Discussion starter…what is the correct/your way of assembling lasagna? (Yes I just cooked lasagna)</p>\n",
@@ -191,34 +217,6 @@
 			"content_html": "<p>Turns out two of my big complaints about DayOne V3 turn out not to be true. I <strong>have</strong> been grandfathered into my plus scheme <em>and</em> you can now print books internationally. There are still aspects I miss about the original and I can see someone making a better rival, still I think I’ll stick with it for now.</p>\n",
 			"date_published": "2018-09-01T10:46:18+02:00",
 			"url": "http://chrisjwilson.me/2018/09/01/turns-out-two.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/08/31/built-to-last.html",
-	      	
-			"title": "Built to Last ",
-			
-			"content_html": "<p>When I was fifteen, my dad bough me my first guitar, a Tanglewood dreadnought style acoustic. Last year I brought it over to Poland so I could play it again. I’ve had it over half my life now, and it’s still going strong. It’s showing signs of age and breakdown but it will keep going and may well outlive me (even though it’s not really alive).</p>\n\n<p>I think about my guitar and other long-lasting tech when I consider most modern technology. With my recent reading of <a href=\"http://www.amazon.com/dp/0143109014/?tag=minima0e-20\">Perennial Seller</a> and the upcoming <a href=\"https://www.apple.com/apple-events/september-2018/\">Apple event</a>, there is a lot of buzz over upgrades and the debates over what device to get. I’m looking at upgrading my phone from an iPhone SE to <em>probably</em> the iPhone X(s?). I want a smaller phone but one that has the best internals so it will keep going for a while.</p>\n\n<p>I don’t really need this upgrade, my iPhone SE still works really well, the iOS 12 beta has made it much faster and more responsive and is like a processor upgrade, and the battery still lasts a good amount of time (and could be upgraded). Despite these factors, a new iPhone is still probably the best idea.</p>\n\n<p>My wife has my old iPhone 5s and its battery is not doing so well, in addition we have just become parents and I’d love her to be able to take live photos as well. I’m also worried that the security updates will eventual stop coming for the 5s.</p>\n\n<p>To be far to Apple, their software updates do help their devices last much longer than the average phone company, and the proliferation of battery replacement recently has helped devices last longer, still I know for sure that even the latest iPhone won’t outlast me.</p>\n\n<p>Last year I bought an old hassleblad 500cm, a medium format film camera. It’s from the year I was born and it’s going strong. I can bet it will still be going strong in 30 years time.</p>\n",
-			"date_published": "2018-08-31T20:30:11+02:00",
-			"url": "http://chrisjwilson.me/2018/08/31/built-to-last.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/08/31/currently-reading-perennial.html",
-	      	
-			"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780143109013\">Perennial Seller </a> by Ryan Holiday  📚</p>\n",
-			"date_published": "2018-08-31T08:10:13+02:00",
-			"url": "http://chrisjwilson.me/2018/08/31/currently-reading-perennial.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/08/31/does-patreons-value.html",
-	      	
-			"title": "Does Patreon’s Value Increase the More Things You Back? ",
-			
-			"content_html": "<p>Patreon has always seemed like an interesting idea to me and I’ve backed a few groups for a couple of months at a time. For some reason I always stop. At the same time I back other site memberships. I imagine that I’d love to keep all the sites I’m a member of in one easier to manage location (patreon) and so I suspect the value of patreon for the backer increases the more things you back at the same time. Still, it’s not been enough to get me to back…yet.</p>\n",
-			"date_published": "2018-08-31T08:03:15+02:00",
-			"url": "http://chrisjwilson.me/2018/08/31/does-patreons-value.html"
 		}
 		
 	]
