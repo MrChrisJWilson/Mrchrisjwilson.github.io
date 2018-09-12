@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/11/how-to-make.html",
+	      	
+			"content_html": "<p><a href=\"http://experimentwithnature.com/03-found/experiment-with-paper-how-to-make-a-one-page-zine/#.W5dtZ5MzbOQ\">How to make a one-page zine</a>\nThanks to Austin Kleon for this one. Now I just need to grab some paper and make my zine.</p>\n",
+			"date_published": "2018-09-11T11:11:42+02:00",
+			"url": "http://chrisjwilson.me/2018/09/11/how-to-make.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/09/11/testing-sharding-s.html",
 	      	
 			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/d9ff04a463.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/d9ff04a463.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Testing <a href=\"https://micro.blog/sharding\">@sharding</a> ‘s emulsify app at one of the spots I pass everyday and find useful for testing contrast. The blacks are crushed a bit more than the default camera app but it has a nice style.</p>\n\n",
@@ -209,14 +217,6 @@
 			"content_html": "<blockquote>\n  <p>“What you need to do, Peter, is stop believing all those sick people on the television and news and stop listening to those crazy people making that stuff they call music…If all you collage kids want to leave this country or burn it down, you better be mighty sure you know what you’re doing”</p>\n</blockquote>\n\n<ul>\n  <li><a href=\"http://www.amazon.com/dp/006095955X/?tag=minima0e-20\">A Walk Across America</a></li>\n</ul>\n\n<p>I started A Walk Across America (I heard about it via the <a href=\"https://sketchnotearmy.com/blog/2018/8/27/sketchnote-army-podcast-season-05-episode-08-patrick-rhone\">Sketchnote Army Podcast with Patrick Rhone</a>) and this line from the second chapter really struck me. I was reading the second before and had this gnawing feeling in my chest “Was the post-Vietnam US similar to today?” I can’t answer this for certain, but lines like this make me wonder if there are some echoes in our world today.</p>\n",
 			"date_published": "2018-09-02T21:45:29+02:00",
 			"url": "http://chrisjwilson.me/2018/09/02/what-you-need.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/01/turns-out-two.html",
-	      	
-			"content_html": "<p>Turns out two of my big complaints about DayOne V3 turn out not to be true. I <strong>have</strong> been grandfathered into my plus scheme <em>and</em> you can now print books internationally. There are still aspects I miss about the original and I can see someone making a better rival, still I think I’ll stick with it for now.</p>\n",
-			"date_published": "2018-09-01T10:46:18+02:00",
-			"url": "http://chrisjwilson.me/2018/09/01/turns-out-two.html"
 		}
 		
 	]
