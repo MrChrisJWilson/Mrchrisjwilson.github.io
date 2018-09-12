@@ -1,9 +1,44 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Chris J Wilson",
+	"icon": "https://micro.blog/ChrisJWilson/avatar.jpg",
 	"home_page_url": "http://chrisjwilson.me/",
 	"feed_url": "http://chrisjwilson.me/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/12/hoping-to-be.html",
+	      	
+			"title": "Hoping to Be Delighted by Apple",
+			
+			"content_text": "Well it’s Apple iPhone event day and I feel conflicted....",
+			"date_published": "2018-09-12T15:24:05+02:00",
+			"url": "http://chrisjwilson.me/2018/09/12/hoping-to-be.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/12/finished-my-last.html",
+	      	
+			"content_text": "Finished my last notebook last night and starting a new...",
+			"date_published": "2018-09-12T08:46:19+02:00",
+			"url": "http://chrisjwilson.me/2018/09/12/finished-my-last.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/11/so-i-just.html",
+	      	
+			"content_text": "So I just set up Microsub on my microblog using...",
+			"date_published": "2018-09-11T15:45:54+02:00",
+			"url": "http://chrisjwilson.me/2018/09/11/so-i-just.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/11/the-micro-monday.html",
+	      	
+			"content_text": "the Micro Monday cast with @vasta is really interesting and...",
+			"date_published": "2018-09-11T14:24:03+02:00",
+			"url": "http://chrisjwilson.me/2018/09/11/the-micro-monday.html"
+		},
 		
 		{
 			"id": "http://ChrisJWilson.micro.blog/2018/09/11/how-to-make.html",
