@@ -7,6 +7,34 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/16/since-apple-pay.html",
+	      	
+			"content_html": "<p>Since Apple Pay (finally) came to Poland I’ve been really pleased with it, espeically on the watch. But the last week or two has shown me how great Apple Pay on the Web is. It’s much easier than many other systems. ( Need to remember the danger of ease leading to spending more).</p>\n",
+			"date_published": "2018-09-16T16:27:52+02:00",
+			"url": "http://chrisjwilson.me/2018/09/16/since-apple-pay.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/16/id-rather-be.html",
+	      	
+			"title": "I’d rather be a blogger – Paul Jarvis 🔗",
+			
+			"content_html": "<p><a href=\"https://pjrvs.com/blogger/?mc_cid=aa65d786c3&amp;mc_eid=d098183321\">I’d rather be a blogger</a></p>\n\n<blockquote>\n  <p>I just think one of the main reasons that the internet took off like it did from the late–90s onward was that people could finally have a voice, regardless of whether or not that voice drove clicks and views. No need to go through gatekeepers like print publications, book publishers, etc… we could just write something and hit publish. Now our voices are collectively passed through the values of content marketing and growth-hacking.</p>\n</blockquote>\n\n<p>I probably could have linked to Paul’s whole article but what’s the point in that. So instead I quoted the part I found most inspiring. It’s a really great take on the difference between blogging and content marketing. This hit me hard as I’ve done a lot of “contentting” and not that much blogging until I came on Micro.blog…it’s good to be blogging.</p>\n",
+			"date_published": "2018-09-16T16:10:42+02:00",
+			"url": "http://chrisjwilson.me/2018/09/16/id-rather-be.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/15/fart-for-better.html",
+	      	
+			"title": "FART for better photos - Ken Rockwell ",
+			
+			"content_html": "<p><a href=\"https://kenrockwell.com/tech/fart.htm\">Fart for better photos</a></p>\n<blockquote>\n  <p>I take my best pictures when I FART first.\nFARTing helps us remember to make a strong, meaningful photo instead of just snapping away and winding up with a lot of boring, thoughtless snapshots.\nFART is a mnemonic for a creative process.</p>\n</blockquote>\n\n<p>Ken Rockwell is not the best photographer in the world and some people really disagree with him on some aspects of photography but this little mnemonic is great photography advice for everyone. I love starting here rathe than “the rule of thirds” or whatever because all of those composition rules can be broken.</p>\n\n<p>I thought of this post as I had seen that <a href=\"https://www.cjchilvers.com/blog/finally-a-photography-101-course-i-can-recommend\">CJ Chilvers had written in support</a> of the upcoming <a href=\"https://thesweetsetup.com/capturing-a-great-photo-on-iphone/\">The Sweet Setup Photo course</a>.\nHonestly, when they announced they were making photo course I was worried. The feel I usually get from tech journalists who write photo advice focus more on the tech side of photos (surprise). So they’ll really get into the <em>“need”</em> for a super fast lens, getting a tone of bokeh and finally some classic composition tips like “the rule of thirds” (all of which can be broken). But CJ Chilvers isn’t that type of photographer and he focuses on photos for the average person.</p>\n\n<p>That’s what made me think of this post. It’s great for a complete beginner taking their first photo, but it’s also a useful reminder for a more seasoned hand who knows all the “composition rules”.</p>\n",
+			"date_published": "2018-09-15T18:25:28+02:00",
+			"url": "http://chrisjwilson.me/2018/09/15/fart-for-better.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/09/15/siri-shortcuts-and.html",
 	      	
 			"content_html": "<p>Siri Shortcuts and DayOne…that could potentially be interesting</p>\n",
@@ -196,30 +224,6 @@
 			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/ecccd07ce2.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/ecccd07ce2.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/de43c41c1c.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/de43c41c1c.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>I’d never heard of Thai rolls before but it’s a type of ice cream that basically gets made in front of your eyes. We went for kinder bueno with coconut pieces. Pretty tasty.</p>\n\n",
 			"date_published": "2018-09-08T20:23:12+02:00",
 			"url": "http://chrisjwilson.me/2018/09/08/thai-rolls.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/07/since-my-daughter.html",
-	      	
-			"content_html": "<p>Since my daughter was born there has been a massive increase in my use of Live Photos… coincidence? I think not.</p>\n",
-			"date_published": "2018-09-07T20:03:39+02:00",
-			"url": "http://chrisjwilson.me/2018/09/07/since-my-daughter.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/07/looks-like-you.html",
-	      	
-			"content_html": "<p>Looks like you can browse the old discover articles in iOS 12 now.The question is have they restored this feature or is it a beta bug?</p>\n",
-			"date_published": "2018-09-07T16:13:28+02:00",
-			"url": "http://chrisjwilson.me/2018/09/07/looks-like-you.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/07/a-few-times.html",
-	      	
-			"content_html": "<p>A few times I’ve asked a question and people have said “hey, where did you find that” most of the time it’s from the <a href=\"http://help.micro.blog/archive/\">help page archive</a> well worth a check for little things you may have missed.</p>\n",
-			"date_published": "2018-09-07T15:53:11+02:00",
-			"url": "http://chrisjwilson.me/2018/09/07/a-few-times.html"
 		}
 		
 	]
