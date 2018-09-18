@@ -7,6 +7,40 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/18/i-finally-moved.html",
+	      	
+			"content_html": "<p>I finally moved from TextExpander legacy to a subscription. I’ve had issues with syncing snippets for a while and yet I use this tool so often it’s worth paying for its support.</p>\n",
+			"date_published": "2018-09-18T08:54:23+02:00",
+			"url": "http://chrisjwilson.me/2018/09/18/i-finally-moved.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/17/should-we-stop.html",
+	      	
+			"title": "Should We Stop Listening to Podcasts? — CJ Chilvers 🔗",
+			
+			"content_html": "<p><a href=\"https://www.cjchilvers.com/blog/should-we-stop-listening-to-podcasts\">Should We Stop Listening to Podcasts? — CJ Chilvers</a></p>\n\n<blockquote>\n  <p>When you mention time and attention theft, most creators think of Facebook, Twitter, and Instagram (which I call Facebook II). They usually don’t think about Youtube or podcasts, which have the same issues: the ad model and all its abuses to the listener, and the lack of quality in favor of burn-out-inducing “consistency” and quantity (something that is also tied to the ad model).</p>\n</blockquote>\n\n<p>I recently cut the number of podcast I listen to for similar reasons. With exceptions, podcast tend towards entertainment over content. I don’t think there is anything inherently wrong with that. <strong>It’s good to switch off and be entertained from time to time but not all the time.</strong>\nStill greater intentionality is always good, as is <a href=\"http://chrisjwilson.me/2018/09/09/protect-your-attention.html\">protecting your attention</a>.</p>\n",
+			"date_published": "2018-09-17T19:24:22+02:00",
+			"url": "http://chrisjwilson.me/2018/09/17/should-we-stop.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/17/really-excited-to.html",
+	      	
+			"content_html": "<p>Really excited to be finally downloading shortcuts. Let’s see what this baby can do!</p>\n",
+			"date_published": "2018-09-17T19:22:12+02:00",
+			"url": "http://chrisjwilson.me/2018/09/17/really-excited-to.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/17/austin-kleon-on.html",
+	      	
+			"content_html": "<p><a href=\"https://youtu.be/YULPUe0vgWA\">Austin Kleon on the Sketchbook Skool Podcast</a></p>\n<blockquote>\n  <p>“I think a lot of that side hustle stuff comes from the economic pressures of the day.</p>\n</blockquote>\n",
+			"date_published": "2018-09-17T13:01:53+02:00",
+			"url": "http://chrisjwilson.me/2018/09/17/austin-kleon-on.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/09/17/emulsify-camera-from.html",
 	      	
 			"title": "Emulsify Camera from Sean Harding (Like shooting black and white film)",
@@ -188,40 +222,6 @@
 			"content_html": "<p><a href=\"http://experimentwithnature.com/03-found/experiment-with-paper-how-to-make-a-one-page-zine/#.W5dtZ5MzbOQ\">How to make a one-page zine</a>\nThanks to Austin Kleon for this one. Now I just need to grab some paper and make my zine.</p>\n",
 			"date_published": "2018-09-11T11:11:42+02:00",
 			"url": "http://chrisjwilson.me/2018/09/11/how-to-make.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/11/testing-sharding-s.html",
-	      	
-			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/d9ff04a463.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/d9ff04a463.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Testing <a href=\"https://micro.blog/sharding\">@sharding</a> ‘s emulsify app at one of the spots I pass everyday and find useful for testing contrast. The blacks are crushed a bit more than the default camera app but it has a nice style.</p>\n\n",
-			"date_published": "2018-09-11T09:07:48+02:00",
-			"url": "http://chrisjwilson.me/2018/09/11/testing-sharding-s.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/10/education-needs-to.html",
-	      	
-			"title": "Education Needs to Be Inconvenient",
-			
-			"content_html": "<p><a href=\"https://seths.blog/2018/09/education-needs-to-be-inconvenient/\">Education needs to be inconvenient</a></p>\n\n<blockquote>\n  <p>Education needs to be inconvenient because it relies on effort and discomfort to move us from where we were to where we want to be. The internet gives us more access than ever, and if we care enough, we can use that convenient access to explore the inconvenient places that we know we should be exploring.</p>\n</blockquote>\n\n<ul>\n  <li>Seth Godin</li>\n</ul>\n\n",
-			"date_published": "2018-09-10T13:46:28+02:00",
-			"url": "http://chrisjwilson.me/2018/09/10/education-needs-to.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/10/i-was-trying.html",
-	      	
-			"content_html": "<p>I was trying to write an article and it just <em>wasn’t</em> coming. The ideas were all jumbled and the thought wasn’t clear or refined. So I finished, and then <em>“published”</em> to DayOne. I love having a place to send writing that isn’t online for things which are too private or incomplete.</p>\n",
-			"date_published": "2018-09-10T09:53:40+02:00",
-			"url": "http://chrisjwilson.me/2018/09/10/i-was-trying.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/09/discussion-starterwhat-is.html",
-	      	
-			"content_html": "<p>Discussion starter…what is the correct/your way of assembling lasagna? (Yes I just cooked lasagna)</p>\n",
-			"date_published": "2018-09-09T20:14:58+02:00",
-			"url": "http://chrisjwilson.me/2018/09/09/discussion-starterwhat-is.html"
 		}
 		
 	]
