@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/19/currently-reading-on.html",
+	      	
+			"content_text": "Currently reading: On Writing Well by William Zinsser 📚\n",
+			"date_published": "2018-09-19T10:11:06+02:00",
+			"url": "http://chrisjwilson.me/2018/09/19/currently-reading-on.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/18/cleaning-up-workflows.html",
+	      	
+			"title": "Cleaning Up Workflows",
+			
+			"content_text": "Thanks to the release of Shortcuts, I cleared out about...",
+			"date_published": "2018-09-18T13:07:58+02:00",
+			"url": "http://chrisjwilson.me/2018/09/18/cleaning-up-workflows.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/09/18/i-finally-moved.html",
 	      	
 			"content_text": "I finally moved from TextExpander legacy to a subscription. I’ve...",
