@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/19/currently-reading-on.html",
+	      	
+			"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780060891541\">On Writing Well</a> by William Zinsser 📚</p>\n",
+			"date_published": "2018-09-19T10:11:06+02:00",
+			"url": "http://chrisjwilson.me/2018/09/19/currently-reading-on.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/18/cleaning-up-workflows.html",
+	      	
+			"title": "Cleaning Up Workflows",
+			
+			"content_html": "<p>Thanks to the release of Shortcuts, I cleared out about 70% of my old Workflows in preparation. There were about two or three groups.</p>\n<ol>\n  <li>Workflows I just never use. In some cases the apps went away or their functionality was replaced with iOS improvements.</li>\n  <li>Workflows I replaced with better ones</li>\n  <li>Workflows I downloaded to see what the creator had done even though I had no use for them. \nAt the same time I also moved my most used workflows to the top of the app and organized some of the workflows near similar ones. I.e. I have a book review and movie review workflow for DayOne, they are next to each other now along with other DayOne workflows.</li>\n</ol>\n\n<p>I could have done this at any time but this was the prompt I needed. Maybe I’ll make this a regular thing especially with the experiments I’ve been doing.</p>\n",
+			"date_published": "2018-09-18T13:07:58+02:00",
+			"url": "http://chrisjwilson.me/2018/09/18/cleaning-up-workflows.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/09/18/i-finally-moved.html",
 	      	
 			"content_html": "<p>I finally moved from TextExpander legacy to a subscription. I’ve had issues with syncing snippets for a while and yet I use this tool so often it’s worth paying for its support.</p>\n",
@@ -206,22 +224,6 @@
 			"content_html": "<p>So I just set up Microsub on my microblog using aperture and downloaded indigenous on my iPhone. Time to take this baby for a spin.</p>\n",
 			"date_published": "2018-09-11T15:45:54+02:00",
 			"url": "http://chrisjwilson.me/2018/09/11/so-i-just.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/11/the-micro-monday.html",
-	      	
-			"content_html": "<p>the <a href=\"http://monday.micro.blog/2018/09/10/episode-vasta.html\">Micro Monday cast with</a> <a href=\"https://micro.blog/vasta\">@vasta</a> is really interesting and worth considering and reflecting.</p>\n",
-			"date_published": "2018-09-11T14:24:03+02:00",
-			"url": "http://chrisjwilson.me/2018/09/11/the-micro-monday.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/11/how-to-make.html",
-	      	
-			"content_html": "<p><a href=\"http://experimentwithnature.com/03-found/experiment-with-paper-how-to-make-a-one-page-zine/#.W5dtZ5MzbOQ\">How to make a one-page zine</a>\nThanks to Austin Kleon for this one. Now I just need to grab some paper and make my zine.</p>\n",
-			"date_published": "2018-09-11T11:11:42+02:00",
-			"url": "http://chrisjwilson.me/2018/09/11/how-to-make.html"
 		}
 		
 	]
