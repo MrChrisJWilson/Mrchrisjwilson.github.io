@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/19/the-mac-sparky.html",
+	      	
+			"title": "The Mac Sparky Shortcuts Field Guide [Mini Review]",
+			
+			"content_html": "<p>Just finished the <a href=\"https://learn.macsparky.com/p/siri\">MacSparky Shortcuts Field Guide</a> \nMy tldr; it’s great for people new to workflow/shortcuts and those who have one or two but never really make their own and want ideas. \nIf you’ve made a shortcut with multiple apps and variables before, this is probably not for you.</p>\n",
+			"date_published": "2018-09-19T16:11:46+02:00",
+			"url": "http://chrisjwilson.me/2018/09/19/the-mac-sparky.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/19/gender-decoder-for.html",
+	      	
+			"content_html": "<p><a href=\"http://gender-decoder.katmatfield.com/\">Gender decoder for jobs</a> interesting tool that checks if your job ad has gender biased language.</p>\n",
+			"date_published": "2018-09-19T11:43:36+02:00",
+			"url": "http://chrisjwilson.me/2018/09/19/gender-decoder-for.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/09/19/currently-reading-on.html",
 	      	
 			"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780060891541\">On Writing Well</a> by William Zinsser 📚</p>\n",
@@ -208,22 +226,6 @@
 			"content_html": "<p>Well it’s Apple iPhone event day and I feel conflicted.</p>\n\n<p>I’m really ready for a phone upgrade, I want to pass my current phone on to my wife<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> so we can share Live Photos of my daughter, plus then she won’t have a terrible battery life. But I feel a bit nervous. <strong>I’m worried Apple won’t give me a reason to upgrade today.</strong></p>\n\n<p>It’s a funny fear to have, that someone <strong>won’t</strong> make you want to give them money. No doubt I’ll change my mind as they could probably just release a phone with a new processor and I’d want to upgrade but at the same time I’m really not sure where they go next with smartphones.</p>\n\n<p>Personally, I’m intrigued by the idea of a foldable phone and I suspect something like a Samsung note that can unfold into a small square tablet with stylus could be very interesting. But that doesn’t seem on the horizon for Apple. Then again it is not unlike Apple to quietly work away at something for a while and then suddenly release it upon the world.</p>\n\n<p>Regardless, I’ll be watching the keynote (or more likely checking the summary afterwards) and hoping that there will be a surprise or two that I don’t see coming. Apple are often good at delivering those sweet hardware and software features that delight and perhaps the iPhone Xs will see some new delight.</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>For the record, I’d buy her a new phone but she is very resistant to spending money on herself. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
 			"date_published": "2018-09-12T15:24:05+02:00",
 			"url": "http://chrisjwilson.me/2018/09/12/hoping-to-be.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/12/finished-my-last.html",
-	      	
-			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/f807d0c114.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/f807d0c114.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/a4adc7f8a3.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/a4adc7f8a3.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Finished my last notebook last night and starting a new one today. Trying a different (cheaper) brand but designed for sketching. Let’s see.</p>\n\n",
-			"date_published": "2018-09-12T08:46:19+02:00",
-			"url": "http://chrisjwilson.me/2018/09/12/finished-my-last.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/11/so-i-just.html",
-	      	
-			"content_html": "<p>So I just set up Microsub on my microblog using aperture and downloaded indigenous on my iPhone. Time to take this baby for a spin.</p>\n",
-			"date_published": "2018-09-11T15:45:54+02:00",
-			"url": "http://chrisjwilson.me/2018/09/11/so-i-just.html"
 		}
 		
 	]
