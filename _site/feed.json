@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/28/sometimes-i-think.html",
+	      	
+			"content_html": "<p>Sometimes I think about the similarities between Tumblr and Micro.Blog.</p>\n",
+			"date_published": "2018-09-28T15:34:53+02:00",
+			"url": "http://chrisjwilson.me/2018/09/28/sometimes-i-think.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/09/28/unfortunately-headlines-and.html",
 	      	
 			"title": "Unfortunately Headlines and Titles Always Matter",
@@ -214,16 +222,6 @@
 			"content_html": "<p>iOS 12 is here! \n<img src=\"http://chrisjwilson.me/uploads/2018/ffe8f079f3.jpg\" alt=\"EF92B196-24A1-4369-A64C-DFDEF7250407.jpg\" /></p>\n",
 			"date_published": "2018-09-14T17:11:37+02:00",
 			"url": "http://chrisjwilson.me/2018/09/14/ios-is-here.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/14/how-maria-popova.html",
-	      	
-			"title": "How Maria Popova starts a blog post. ",
-			
-			"content_html": "<p>I noticed something about Brain Picking’s blog posts that made me investigate. It was the curious way Maria chose to start her post. By splitting a quote in two and referencing the writer in the middle.</p>\n<blockquote>\n  <p><em>“The most regretful people on earth,”</em> Mary Oliver wrote in her beautiful reflection on the central commitment of the creative life, <em>“are those who felt the call to creative work, who felt their own creative power restive and uprising, and gave to it neither power nor time.”</em></p>\n  <ul>\n    <li><a href=\"https://www.brainpickings.org/2018/09/14/walt-whitman-on-creativity/\">Walt Witman on Creativity</a></li>\n  </ul>\n</blockquote>\n\n<p>It’s a great way to kick of some writing as it creates an “open loop” where you want to know the answer to the end of the quote. I wondered if she does this all the time as I recognised the style, and sure enough I found a post from a few days before with the same style.</p>\n\n<blockquote>\n  <p>“Everything can be taken from a man,” Holocaust survivor Viktor Frankl wrote in his timeless treatise on the human search for meaning, “but one thing: the last of the human freedoms — to choose one’s attitude in any given set of circumstances, to choose one’s own way.”</p>\n  <ul>\n    <li><a href=\"https://www.brainpickings.org/2018/09/10/toni-morrison-beloved-freedom/\">Toni Morrison on the Deepest Meaning of Freedom</a></li>\n  </ul>\n</blockquote>\n\n<p>However, it is not the only way she kicks of a post.</p>\n\n<blockquote>\n  <p>The pioneering naturalist John Muir held the poetic conviction that when we look closely at any aspect of our world, “the whole universe appears as an infinite storm of beauty.”</p>\n  <ul>\n    <li><a href=\"https://www.brainpickings.org/2018/09/12/ryota-kajita-ice-formation/\">Japanese Artist Ryota Kajita’s Otherworldly Photographs of Ice Formation in Alaska</a></li>\n  </ul>\n</blockquote>\n\n<p>Here she starts with the description and places the quote in full. The key difference, it’s a shorter quote.</p>\n\n<p>Regardless Maria certainly seems to like her quotes to kick off her posts.</p>\n",
-			"date_published": "2018-09-14T15:34:52+02:00",
-			"url": "http://chrisjwilson.me/2018/09/14/how-maria-popova.html"
 		}
 		
 	]
