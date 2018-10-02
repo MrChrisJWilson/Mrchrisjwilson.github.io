@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/02/inktober-day-poisonous.html",
+	      	
+			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/445024a74c.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/445024a74c.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Inktober day 1: poisonous</p>\n\n",
+			"date_published": "2018-10-02T09:22:02+02:00",
+			"url": "http://chrisjwilson.me/2018/10/02/inktober-day-poisonous.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/10/01/good-writing-is.html",
 	      	
 			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/555ea86d00.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/555ea86d00.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Good writing is rewriting. A lesson from On Writing Well.</p>\n\n",
@@ -214,16 +222,6 @@
 			"content_html": "<p>Since Apple Pay (finally) came to Poland I’ve been really pleased with it, espeically on the watch. But the last week or two has shown me how great Apple Pay on the Web is. It’s much easier than many other systems. ( Need to remember the danger of ease leading to spending more).</p>\n",
 			"date_published": "2018-09-16T16:27:52+02:00",
 			"url": "http://chrisjwilson.me/2018/09/16/since-apple-pay.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/16/id-rather-be.html",
-	      	
-			"title": "I’d rather be a blogger – Paul Jarvis 🔗",
-			
-			"content_html": "<p><a href=\"https://pjrvs.com/blogger/?mc_cid=aa65d786c3&amp;mc_eid=d098183321\">I’d rather be a blogger</a></p>\n\n<blockquote>\n  <p>I just think one of the main reasons that the internet took off like it did from the late–90s onward was that people could finally have a voice, regardless of whether or not that voice drove clicks and views. No need to go through gatekeepers like print publications, book publishers, etc… we could just write something and hit publish. Now our voices are collectively passed through the values of content marketing and growth-hacking.</p>\n</blockquote>\n\n<p>I probably could have linked to Paul’s whole article but what’s the point in that. So instead I quoted the part I found most inspiring. It’s a really great take on the difference between blogging and content marketing. This hit me hard as I’ve done a lot of “contentting” and not that much blogging until I came on Micro.blog…it’s good to be blogging.</p>\n",
-			"date_published": "2018-09-16T16:10:42+02:00",
-			"url": "http://chrisjwilson.me/2018/09/16/id-rather-be.html"
 		}
 		
 	]
