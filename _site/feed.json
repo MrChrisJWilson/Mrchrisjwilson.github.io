@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/03/inktober-day-boom.html",
+	      	
+			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/37811c065c.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/37811c065c.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Inktober day 3: boom roasted.</p>\n\n",
+			"date_published": "2018-10-03T08:36:46+02:00",
+			"url": "http://chrisjwilson.me/2018/10/03/inktober-day-boom.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/02/inktober-day-tranquil.html",
+	      	
+			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/734181c346.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/734181c346.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Inktober day 2: tranquil</p>\n\n",
+			"date_published": "2018-10-02T17:22:23+02:00",
+			"url": "http://chrisjwilson.me/2018/10/02/inktober-day-tranquil.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/10/02/inktober-day-poisonous.html",
 	      	
 			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/445024a74c.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/445024a74c.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Inktober day 1: poisonous</p>\n\n",
@@ -206,22 +222,6 @@
 			"content_html": "<p><a href=\"https://itunes.apple.com/gb/app/emulsify-camera/id1408272207?mt=8\">Emulsify Camera</a></p>\n\n<p>I’ve tested this app by <a href=\"https://micro.blog/sharding\">@sharding</a> for a couple of weeks and it’s not like your typical iPhone camera app. It isn’t feature rich but it has strong opinions. It is influenced by the classic experience of shooting black and white film, with two iconic film simulations, but does so in a non typical way. Most camera apps aim to show you want you are going to see in the end result, Emulsify recreates the unpredictability of film in that you see things in colour before getting your Black and white results. This means you have to train your eye a bit to think about shades and tone and not just colour differences. \nIt’s a very different camera app experience that I suspect some won’t like, but personally I’m hooked. That’s perhaps less surprising considering the amount of black and white film I’ve been burning through recently. Now I just need to get a new iPhone to test the camera on that…you know…to help Sean.</p>\n",
 			"date_published": "2018-09-17T08:42:37+02:00",
 			"url": "http://chrisjwilson.me/2018/09/17/emulsify-camera-from.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/16/finished-reading-arbitrary.html",
-	      	
-			"content_html": "<p>Finished Reading <a href=\"http://www.amazon.com/dp/0374105863/?tag=minima0e-20\">Arbitrary Stupid Goal: Tamara Shopsin</a> 📚</p>\n",
-			"date_published": "2018-09-16T18:35:44+02:00",
-			"url": "http://chrisjwilson.me/2018/09/16/finished-reading-arbitrary.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/16/since-apple-pay.html",
-	      	
-			"content_html": "<p>Since Apple Pay (finally) came to Poland I’ve been really pleased with it, espeically on the watch. But the last week or two has shown me how great Apple Pay on the Web is. It’s much easier than many other systems. ( Need to remember the danger of ease leading to spending more).</p>\n",
-			"date_published": "2018-09-16T16:27:52+02:00",
-			"url": "http://chrisjwilson.me/2018/09/16/since-apple-pay.html"
 		}
 		
 	]
