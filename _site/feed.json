@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/05/inktober-day-chicken.html",
+	      	
+			"content_html": "<p>Inktober day 5: Chicken 🐓 \n<img src=\"http://chrisjwilson.me/uploads/2018/a2367927fc.jpg\" alt=\"D2C50D3C-2768-4BFD-ABB5-117EC89B4ADC.jpg\" /></p>\n",
+			"date_published": "2018-10-05T09:49:46+02:00",
+			"url": "http://chrisjwilson.me/2018/10/05/inktober-day-chicken.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/10/04/inktober-day-spell.html",
 	      	
 			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/2daf754f39.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/2daf754f39.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Inktober day 4: spell</p>\n\n",
@@ -212,14 +220,6 @@
 			"content_html": "<p>Really excited to be finally downloading shortcuts. Let’s see what this baby can do!</p>\n",
 			"date_published": "2018-09-17T19:22:12+02:00",
 			"url": "http://chrisjwilson.me/2018/09/17/really-excited-to.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/17/austin-kleon-on.html",
-	      	
-			"content_html": "<p><a href=\"https://youtu.be/YULPUe0vgWA\">Austin Kleon on the Sketchbook Skool Podcast</a></p>\n<blockquote>\n  <p>“I think a lot of that side hustle stuff comes from the economic pressures of the day.</p>\n</blockquote>\n",
-			"date_published": "2018-09-17T13:01:53+02:00",
-			"url": "http://chrisjwilson.me/2018/09/17/austin-kleon-on.html"
 		}
 		
 	]
