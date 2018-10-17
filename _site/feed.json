@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/17/currently-reading-atomic.html",
+	      	
+			"content_html": "<p>Currently Reading : <a href=\"http://www.amazon.com/dp/0735211299/?tag=\">Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones: James Clear</a> 📚</p>\n",
+			"date_published": "2018-10-17T14:28:11+02:00",
+			"url": "http://chrisjwilson.me/2018/10/17/currently-reading-atomic.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/11/joe-pass-and.html",
+	      	
+			"content_html": "<p><a href=\"https://youtu.be/2olBE4C5_Gk\">Joe Pass and Ella Fitzgerald in Hannover 1975</a> 🎵📽️ another live Joe Pass performance, this time with Ella.</p>\n",
+			"date_published": "2018-10-11T15:19:16+02:00",
+			"url": "http://chrisjwilson.me/2018/10/11/joe-pass-and.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/10/11/my-new-mission.html",
 	      	
 			"content_html": "<p>My new mission. Convert my company to using the Oxford comma by highlighting every sentence where it would clearly help.</p>\n",
@@ -202,22 +218,6 @@
 			"content_html": "<p>Just finished the <a href=\"https://learn.macsparky.com/p/siri\">MacSparky Shortcuts Field Guide</a> \nMy tldr; it’s great for people new to workflow/shortcuts and those who have one or two but never really make their own and want ideas. \nIf you’ve made a shortcut with multiple apps and variables before, this is probably not for you.</p>\n",
 			"date_published": "2018-09-19T16:11:46+02:00",
 			"url": "http://chrisjwilson.me/2018/09/19/the-mac-sparky.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/19/gender-decoder-for.html",
-	      	
-			"content_html": "<p><a href=\"http://gender-decoder.katmatfield.com/\">Gender decoder for jobs</a> interesting tool that checks if your job ad has gender biased language.</p>\n",
-			"date_published": "2018-09-19T11:43:36+02:00",
-			"url": "http://chrisjwilson.me/2018/09/19/gender-decoder-for.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/19/currently-reading-on.html",
-	      	
-			"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780060891541\">On Writing Well</a> by William Zinsser 📚</p>\n",
-			"date_published": "2018-09-19T10:11:06+02:00",
-			"url": "http://chrisjwilson.me/2018/09/19/currently-reading-on.html"
 		}
 		
 	]
