@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/22/just-wondering-if.html",
+	      	
+			"content_html": "<p>Just wondering if <a href=\"https://micro.blog/manton\">@manton</a> hosted microblogs have support for markdown footnotes? Anyone know?</p>\n",
+			"date_published": "2018-10-22T19:31:15+02:00",
+			"url": "http://chrisjwilson.me/2018/10/22/just-wondering-if.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/17/not-going-to.html",
+	      	
+			"content_html": "<p>Not going to lie. I’m pretty excited to get drafts for Mac beta set up on my work computer. Having a scratchpad to send words anywhere is going to be great.</p>\n",
+			"date_published": "2018-10-17T17:42:51+02:00",
+			"url": "http://chrisjwilson.me/2018/10/17/not-going-to.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/10/17/currently-reading-atomic.html",
 	      	
 			"content_html": "<p>Currently Reading : <a href=\"http://www.amazon.com/dp/0735211299/?tag=\">Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones: James Clear</a> 📚</p>\n",
@@ -200,24 +216,6 @@
 			"content_html": "<p>After a session at the <a href=\"https://sketchnotecamp.wordpress.com\">International Sketchnote camp in Lisbon</a> today I felt challenged and excited to share more of my sketchnoting online. It’s something I’ve resisted doing because I don’t feel I’m as good as others and I know that there are sometimes mistakes in my sketchnotes: crooked lines, spelling, running out of space. I was, however, reminded of the value of <strong>sharing your work</strong> as you go along and that, in reality, the process is what is really of value not the product.</p>\n\n<p>But how could I start? What step would be the easiest to get me to share more of my sketchnotes.</p>\n\n<p>The first step.</p>\n\n<p>In my case, this would be <strong>taking the photo of the sketchnote to share</strong>. If I don’t take the picture, I’ve got nothing to share. Once I’ve taken the photo then I’ve got something to share and it’s fairly simple to type out a note and share the sketchnote from there. But taking the photo is a hanging point for me. I often don’t take my phone out, and when it is I forget to/ resist take the photos.</p>\n\n<p>In fact, even if I don’t share a sketchnote after photographing it, immediately or after a wait, I still have the sketchnote save and more available to share.</p>\n\n<p>I think this applied to many other areas. Just doing the first step can get the process going.</p>\n\n",
 			"date_published": "2018-09-22T00:03:51+02:00",
 			"url": "http://chrisjwilson.me/2018/09/22/take-the-first.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/21/putting-makayla-lewiss.html",
-	      	
-			"content_html": "<p>Putting Makayla Lewis’s lesson in to action and sharing my work from #isc18lx \n<img src=\"http://chrisjwilson.me/uploads/2018/ef2f42b5bd.jpg\" alt=\"75EF616E-E846-4FEF-AC7E-1033EC025761.jpg\" /></p>\n",
-			"date_published": "2018-09-21T12:47:47+02:00",
-			"url": "http://chrisjwilson.me/2018/09/21/putting-makayla-lewiss.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/19/the-mac-sparky.html",
-	      	
-			"title": "The Mac Sparky Shortcuts Field Guide [Mini Review]",
-			
-			"content_html": "<p>Just finished the <a href=\"https://learn.macsparky.com/p/siri\">MacSparky Shortcuts Field Guide</a> \nMy tldr; it’s great for people new to workflow/shortcuts and those who have one or two but never really make their own and want ideas. \nIf you’ve made a shortcut with multiple apps and variables before, this is probably not for you.</p>\n",
-			"date_published": "2018-09-19T16:11:46+02:00",
-			"url": "http://chrisjwilson.me/2018/09/19/the-mac-sparky.html"
 		}
 		
 	]
