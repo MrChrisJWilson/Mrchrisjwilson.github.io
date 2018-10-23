@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/23/waiting-for-the.html",
+	      	
+			"content_text": "\n\nWaiting for the train last week.\n\n",
+			"date_published": "2018-10-23T09:44:48+02:00",
+			"url": "http://chrisjwilson.me/2018/10/23/waiting-for-the.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/22/you-dont-need.html",
+	      	
+			"title": "You Don’t Need to Do “Real Work” on the iPad, Just Normal Work",
+			
+			"content_text": "One of the ideas that get’s branded about when we...",
+			"date_published": "2018-10-22T19:52:59+02:00",
+			"url": "http://chrisjwilson.me/2018/10/22/you-dont-need.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/10/22/just-wondering-if.html",
 	      	
 			"content_text": "Just wondering if @manton hosted microblogs have support for markdown...",
