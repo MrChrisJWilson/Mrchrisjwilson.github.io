@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/25/i-thought-i.html",
+	      	
+			"content_html": "<p>I thought I had finally found a cheap airport express to get my Airplay 2 on…but ebay had other ideas. :(</p>\n",
+			"date_published": "2018-10-25T09:42:19+02:00",
+			"url": "http://chrisjwilson.me/2018/10/25/i-thought-i.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/24/confession-of-a.html",
+	      	
+			"title": "Confession of a Recovering Productivity Addict",
+			
+			"content_html": "<p>Six years ago, when I was living in Spain, I was obsessed by Productivity. I tried to make my system as efficient as possible, using the best apps to help me get things done and spending hours a week listening to podcast on the topic. \nOf course, the irony was that I spent more time learning to be more productive than actually being productive. It’s easy to look down on that with hindsight as I now know many of the fundamental principles and ideas which help with productivity but back then I didn’t. At the same time, I don’t really care for listening about productivity advice (especially as an isolated topic) anymore, I know that the thing that would make the biggest difference for myself is applying what I already know, not learning something new.</p>\n\n<h2 id=\"the-20-that-takes-you-80-of-the-way\">The 20% that takes you 80% of the way</h2>\n<p>Just like everything, there are a few core productivity principles which take you a long way. Applying those will be more beneficial than spending hours trying to learn the other 80%. Unfortunately that means doing stuff rather than sitting back and listening or reading. I’m not certain on what this 20% is exactly  – and it may well vary a bit for you – but the things that make the biggest difference for me include:</p>\n<ul>\n  <li>Getting a good nights sleep</li>\n  <li>Doing some regular exercise</li>\n  <li>Not eating too much bad stuff (it makes me feel tired and bloated)</li>\n  <li>Listing the key things I need to work on and do today</li>\n  <li>Writing down the steps in a project and marking the next step</li>\n  <li>If I don’t know what the next step is, thinking of whom I could ask to find out</li>\n  <li>Doing a task straight away if it will take 2 mins or less</li>\n  <li>Saving tasks as soon as I can</li>\n</ul>\n\n<h2 id=\"perhaps-i-needed-to-be-an-addict\">Perhaps I needed to be an addict?</h2>\n<p>I was originally going to write a bit of a rant against productivity culture where people constantly seek that extra trick (or worse app) that will help them <em>finally</em> be productive (spoiler, no matter how productive you are, you can always be more productive and even if you do reach 100% productivity, you will still wish you could do more.) but as I started writing I realized I was (partially) wrong. Those earlier experienced actually help me greatly today and just because I don’t need to hear that advice, doesn’t mean others don’t.</p>\n\n<p>Still, I wonder if most people who are concerned about being productivity would be better served spending more time <strong>doing</strong> than consuming about productivity.</p>\n",
+			"date_published": "2018-10-24T11:20:50+02:00",
+			"url": "http://chrisjwilson.me/2018/10/24/confession-of-a.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/10/24/suddenly-everything-has.html",
 	      	
 			"content_html": "<p><a href=\"https://songwhip.com/song/the-postal-service/suddenly-everything-has-changed\">Suddenly Everything Has Changed</a> by The Postal Service 🎵</p>\n",
@@ -198,24 +216,6 @@
 			"content_html": "<p>We all know the classic truism to not judge a book by its cover, and yet we continue to do so. Even if we move past the cover, the odds are we still judge the book by its title. In our world of ever closer connections and abundance of information we have to use some clue to filter the wheat from the chaff.</p>\n\n<p>Today I found myself doing that very thing on micro.blog. As I scrolled my timeline I saw a new post and didn’t immediately click. I looked at the title, considered what it might be about and weather that would be relevant or interesting to me. Of course I also weighted the profile who was recommending this post into my equation.</p>\n\n<p>I am incredibly thankful that microblog hasn’t descended into linkpost, clickbait and their ilk butit doesn’t change the fact that headlines and titles are still one of, if not <strong>the</strong> key factor in me choosing to read a post or not.</p>\n",
 			"date_published": "2018-09-28T07:43:12+02:00",
 			"url": "http://chrisjwilson.me/2018/09/28/unfortunately-headlines-and.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/26/just-added-a.html",
-	      	
-			"content_html": "<p>Just added a <a href=\"https://www.brainpickings.org/2013/11/22/bird-by-bird-anne-lamott/\">SFD</a> of a <a href=\"http://chrisjwilson.me/reading-log/\">reading log</a> page on my Micro.Blog. My aim is to better track what I read over time. I wonder if I can create a workflow to automagically add to it 🤔</p>\n",
-			"date_published": "2018-09-26T15:57:46+02:00",
-			"url": "http://chrisjwilson.me/2018/09/26/just-added-a.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/09/25/austin-manns-iphone.html",
-	      	
-			"title": "Austin Mann's iPhone Xs camera review 🔗",
-			
-			"content_html": "<p><a href=\"http://austinmann.com/trek/iphone-xs-camera-review-zanzibar\">Austin Mann’s iPhone Xs camera review 🔗</a> \nSurprise Austin takes great pictures with an iPhone again. This weekend I took a photo of a friend on sunny day when he was standing in the shade and it was hot. I suggested moving into the sun for a better picture, but he declined. Smart HDR would have lead to a much better end result. Then there was another moment at home where I suspect Smart HDR would have helped.</p>\n\n<p>This is really making me want a new iPhone.</p>\n",
-			"date_published": "2018-09-25T15:39:22+02:00",
-			"url": "http://chrisjwilson.me/2018/09/25/austin-manns-iphone.html"
 		}
 		
 	]
