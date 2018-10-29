@@ -3,7 +3,7 @@ layout: post
 title: "I’d rather be a blogger – Paul Jarvis 🔗"
 microblog: false
 audio: 
-date: 2018-09-16 16:10:42 +0200
+date: 2018-09-16 15:10:42 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/16/id-rather-be.html
 ---
 [I’d rather be a blogger](https://pjrvs.com/blogger/?mc_cid=aa65d786c3&mc_eid=d098183321)
