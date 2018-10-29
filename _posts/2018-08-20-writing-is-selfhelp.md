@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-20 18:30:45 +0200
+date: 2018-08-20 17:30:45 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/20/writing-is-selfhelp.html
 ---
 > Writing is self-help, because “we’re writing to help ourselves.”
