@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-21 12:47:47 +0200
+date: 2018-09-21 11:47:47 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/21/putting-makayla-lewiss.html
 ---
 Putting Makayla Lewis’s lesson in to action and sharing my work from #isc18lx 
