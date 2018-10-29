@@ -3,7 +3,7 @@ layout: post
 title: "Drafts for Mac 🖥 "
 microblog: false
 audio: 
-date: 2018-08-17 20:14:29 +0200
+date: 2018-08-17 19:14:29 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/17/drafts-for-mac.html
 ---
 [Drafts for Mac Status Update - Drafts Community](https://forums.getdrafts.com/t/drafts-for-mac-status-update/2276)
