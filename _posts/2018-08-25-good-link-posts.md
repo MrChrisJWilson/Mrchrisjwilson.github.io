@@ -3,7 +3,7 @@ layout: post
 title: "Good link posts vs bad link post "
 microblog: false
 audio: 
-date: 2018-08-25 16:44:08 +0200
+date: 2018-08-25 15:44:08 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/25/good-link-posts.html
 ---
 Every now and again I come across someone who is critical of this form of micro blogging. They usually argue that all link posts are bad, but personally I've found it to be a mixed bag with higher and lower quality. This means there must be some factors which separate good link posts and bad link posts. 
