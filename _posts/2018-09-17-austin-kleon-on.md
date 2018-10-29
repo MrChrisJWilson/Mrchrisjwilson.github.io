@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-17 13:01:53 +0200
+date: 2018-09-17 12:01:53 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/17/austin-kleon-on.html
 ---
 [Austin Kleon on the Sketchbook Skool Podcast](https://youtu.be/YULPUe0vgWA)
