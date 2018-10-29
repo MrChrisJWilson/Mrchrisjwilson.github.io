@@ -3,7 +3,7 @@ layout: post
 title: "Now and Then Update: October 2018"
 microblog: false
 audio: 
-date: 2018-10-01 09:43:36 +0200
+date: 2018-10-01 08:43:36 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/01/now-and-then.html
 ---
 I was updating my now page and thought it was a shame to delete the events from last month. So I’ve decided to write up a kind of “change log” at the start of each month reviewing the last month and highlighting what’s coming up this month. It’s a bit like a monthly review meets journal or whatever. 
