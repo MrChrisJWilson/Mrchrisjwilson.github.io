@@ -3,7 +3,7 @@ layout: post
 title: "Can you draw a face with just vertical lines? 🤔 ✏️"
 microblog: false
 audio: 
-date: 2018-08-21 18:26:01 +0200
+date: 2018-08-21 17:26:01 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/21/can-you-draw.html
 ---
 Yesterday evening I suddenly had a random idea*, _could I draw a face with just vertical lines?_ I grabbed my iPad and Apple pencil and gave it a go to find out that I could indeed draw a face with just verticals lines. 
