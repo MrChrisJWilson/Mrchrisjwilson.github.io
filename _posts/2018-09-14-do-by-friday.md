@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-14 09:51:05 +0200
+date: 2018-09-14 08:51:05 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/14/do-by-friday.html
 ---
 [Do by Friday takes on GTD - Early Beta 🎧 ](https://pca.st/wx7I)
