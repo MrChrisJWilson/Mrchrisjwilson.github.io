@@ -3,7 +3,7 @@ layout: post
 title: "Shooting iPhone photos in the cold?"
 microblog: false
 audio: 
-date: 2018-03-03 12:09:56 +0200
+date: 2018-03-03 11:09:56 +0100
 guid: http://ChrisJWilson.micro.blog/2018/03/03/shooting-iphone-photos.html
 ---
 Yesterday I heard someone mention that their iPhone had shut down because it had got below zero Celsius (32 something Fahrenheit apparently). As someone who lives in a country where winter is often below zero (it's minus 7 celsius as I type), I know this pain. Generally I cope by putting my iPhone in my inner pocket so it is kept warm and relying on my apple watch or AirPods for interactions with the phone. But there's a huge issue when it comes to taking photos. 
