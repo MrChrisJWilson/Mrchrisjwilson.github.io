@@ -3,7 +3,7 @@ layout: post
 title: "Email Newsletters that are worth subscribing too"
 microblog: false
 audio: 
-date: 2018-02-18 21:24:11 +0200
+date: 2018-02-18 20:24:11 +0100
 guid: http://ChrisJWilson.micro.blog/2018/02/18/email-newsletters-that.html
 ---
 Here's a quick list of newsletters that are worth the time to read (this is just opinion, your mileage may vary) 
