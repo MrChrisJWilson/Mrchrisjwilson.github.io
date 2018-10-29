@@ -3,7 +3,7 @@ layout: post
 title: "Unfortunately Headlines and Titles Always Matter"
 microblog: false
 audio: 
-date: 2018-09-28 07:43:12 +0200
+date: 2018-09-28 06:43:12 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/28/unfortunately-headlines-and.html
 ---
 
