@@ -3,7 +3,7 @@ layout: post
 title: "Ideas are Cheap"
 microblog: false
 audio: 
-date: 2018-08-28 17:47:29 +0200
+date: 2018-08-28 16:47:29 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/28/ideas-are-cheap.html
 ---
 Another idea from [**perennial seller** by Ryan Holiday](http://www.amazon.com/dp/0143109014/?tag=minima0e-20), ideas are cheap, executing really matters. So many people have a _"great idea for a book"_ but a tiny fraction of those people actually even start writing (and then an even smaller fraction finish. It's completely true and one of the key changes I made in my early twenties was moving from having ideas to trying out ideas. Later in my twenties I started getting better at finishing those same ideas and not just starting a whole host of new ones. However, that is _still_ a skill I need to develop.  
