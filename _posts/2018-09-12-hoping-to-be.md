@@ -3,7 +3,7 @@ layout: post
 title: "Hoping to Be Delighted by Apple"
 microblog: false
 audio: 
-date: 2018-09-12 15:24:05 +0200
+date: 2018-09-12 14:24:05 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/12/hoping-to-be.html
 ---
 Well it’s Apple iPhone event day and I feel conflicted. 
