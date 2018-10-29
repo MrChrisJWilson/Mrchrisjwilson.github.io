@@ -3,7 +3,7 @@ layout: post
 title: "Inside J.R.R. Tolkien’s Notebooks, a Glimpse of the Master Philologist at Work"
 microblog: false
 audio: 
-date: 2018-08-24 10:15:10 +0200
+date: 2018-08-24 09:15:10 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/24/inside-jrr-tolkiens.html
 ---
  [Inside J.R.R. Tolkien’s Notebooks, a Glimpse of the Master Philologist at Work](https://www.nytimes.com/2018/07/13/books/review/jrr-tolkien-lord-of-the-rings-elvish-language.html)
