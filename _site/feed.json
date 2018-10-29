@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/29/wes-montgomery-round.html",
+	      	
+			"content_html": "<p><a href=\"https://youtu.be/MOm17yw__6U\">Wes Montgomery: Round Midnight</a> 🎵📹 🎸</p>\n",
+			"date_published": "2018-10-29T16:07:49+01:00",
+			"url": "http://chrisjwilson.me/2018/10/29/wes-montgomery-round.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/29/honestly-i-think.html",
+	      	
+			"content_html": "<p>Honestly, I think Evernote might finally be turning things around. The templates feature is the first in a while which focuses on their core functionality, taking notes. I’m more hopeful about them now that I have been in a while.</p>\n",
+			"date_published": "2018-10-29T10:34:10+01:00",
+			"url": "http://chrisjwilson.me/2018/10/29/honestly-i-think.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/10/29/october-is-almost.html",
 	      	
 			"content_html": "<p>October is almost over so I guess it’s time to look over my now page from last month and get ready to update it. Also I’d better get a couple of things ready for my challenges next month.</p>\n",
@@ -196,22 +212,6 @@
 			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/445024a74c.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/445024a74c.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Inktober day 1: poisonous</p>\n\n",
 			"date_published": "2018-10-02T09:22:02+02:00",
 			"url": "http://chrisjwilson.me/2018/10/02/inktober-day-poisonous.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/10/01/good-writing-is.html",
-	      	
-			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/555ea86d00.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/555ea86d00.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Good writing is rewriting. A lesson from On Writing Well.</p>\n\n",
-			"date_published": "2018-10-01T20:21:56+02:00",
-			"url": "http://chrisjwilson.me/2018/10/01/good-writing-is.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/10/01/joe-pass-misty.html",
-	      	
-			"content_html": "<p><a href=\"https://youtu.be/jaxU0TzdMbM\">Joe Pass Misty</a> 🎵📽️\nI love this version of Misty by Joe Pass, maybe one day I’ll learn to play half as good as this.</p>\n",
-			"date_published": "2018-10-01T10:38:11+02:00",
-			"url": "http://chrisjwilson.me/2018/10/01/joe-pass-misty.html"
 		}
 		
 	]
