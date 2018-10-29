@@ -3,7 +3,7 @@ layout: post
 title: "Built to Last "
 microblog: false
 audio: 
-date: 2018-08-31 20:30:11 +0200
+date: 2018-08-31 19:30:11 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/31/built-to-last.html
 ---
 When I was fifteen, my dad bough me my first guitar, a Tanglewood dreadnought style acoustic. Last year I brought it over to Poland so I could play it again. I've had it over half my life now, and it's still going strong. It's showing signs of age and breakdown but it will keep going and may well outlive me (even though it's not really alive). 
