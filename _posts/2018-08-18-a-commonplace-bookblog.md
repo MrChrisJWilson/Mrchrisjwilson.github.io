@@ -3,7 +3,7 @@ layout: post
 title: "A Commonplace (book/blog)"
 microblog: false
 audio: 
-date: 2018-08-18 16:38:48 +0200
+date: 2018-08-18 15:38:48 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/18/a-commonplace-bookblog.html
 ---
 Have you ever stumbled upon an idea that moved you into action? This last week I did in a minor way after listening to an episode of the sketchnote army podcast with Austin Kleon. In that episode he mentioned the way he was using his notebooks and within a day, I had picked up a new notebook to experiment. Perhaps this idea will inspire you into action as well. Or maybe not. 
