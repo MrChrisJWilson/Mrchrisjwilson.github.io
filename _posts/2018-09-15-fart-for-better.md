@@ -3,7 +3,7 @@ layout: post
 title: "FART for better photos - Ken Rockwell "
 microblog: false
 audio: 
-date: 2018-09-15 18:25:28 +0200
+date: 2018-09-15 17:25:28 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/15/fart-for-better.html
 ---
 [Fart for better photos](https://kenrockwell.com/tech/fart.htm) 
