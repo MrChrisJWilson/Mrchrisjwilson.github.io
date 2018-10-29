@@ -3,7 +3,7 @@ layout: post
 title: "Confession of a Recovering Productivity Addict"
 microblog: false
 audio: 
-date: 2018-10-24 11:20:50 +0200
+date: 2018-10-24 10:20:50 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/24/confession-of-a.html
 ---
 Six years ago, when I was living in Spain, I was obsessed by Productivity. I tried to make my system as efficient as possible, using the best apps to help me get things done and spending hours a week listening to podcast on the topic. 
