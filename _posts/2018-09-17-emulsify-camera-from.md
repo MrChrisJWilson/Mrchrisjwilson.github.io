@@ -3,7 +3,7 @@ layout: post
 title: "Emulsify Camera from Sean Harding (Like shooting black and white film)"
 microblog: false
 audio: 
-date: 2018-09-17 08:42:37 +0200
+date: 2018-09-17 07:42:37 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/17/emulsify-camera-from.html
 ---
 [Emulsify Camera](https://itunes.apple.com/gb/app/emulsify-camera/id1408272207?mt=8)
