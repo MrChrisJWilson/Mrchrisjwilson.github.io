@@ -3,7 +3,7 @@ layout: post
 title: "No, you shouldn't spend 4/5th of your time marketing and 1/5th creating"
 microblog: false
 audio: 
-date: 2018-08-27 20:38:39 +0200
+date: 2018-08-27 19:38:39 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/27/no-you-shouldnt.html
 ---
 I'm listening to [_”perennial seller”_ by Ryan Holiday](http://www.amazon.com/dp/0143109014/) and early on he takes aim at this truism that's been going around. spend 1/5th of your time creating and 4/5ths promoting. He said it sounds good but really if your products not up to snuff then you're trying to generate interest in something which doesn't matter. (Being cynical it could well be that the type of business advisor who passes on this advice knows that their audiences products aren't that good).
