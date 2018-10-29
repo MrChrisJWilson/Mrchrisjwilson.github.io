@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-02 21:45:29 +0200
+date: 2018-09-02 20:45:29 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/02/what-you-need.html
 ---
 > "What you need to do, Peter, is stop believing all those sick people on the television and news and stop listening to those crazy people making that stuff they call music...If all you collage kids want to leave this country or burn it down, you better be mighty sure you know what you're doing" 
