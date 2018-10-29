@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-23 13:43:43 +0200
+date: 2018-09-23 12:43:43 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/23/we-have-tears.html
 ---
 >“We have tears in our eyes
