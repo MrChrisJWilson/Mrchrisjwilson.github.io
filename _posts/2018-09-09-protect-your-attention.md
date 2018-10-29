@@ -3,7 +3,7 @@ layout: post
 title: "Protect your attention"
 microblog: false
 audio: 
-date: 2018-09-09 19:30:53 +0200
+date: 2018-09-09 18:30:53 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/09/protect-your-attention.html
 ---
 I made this sketch in my commonplace book about a week and a half ago and since then this idea has come up a few times for me (including the latest Episode of [Hello Internet ](http://www.hellointernet.fm/podcast/108). That’s usually a sign to take notice of an idea, when it keeps coming up. It’s also part of the value of a commonplace book, you can notice the themes and ideas that come up again and again and see patterns and connections emerging over time. 
