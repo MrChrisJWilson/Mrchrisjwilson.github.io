@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-05 09:49:46 +0200
+date: 2018-10-05 08:49:46 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/05/inktober-day-chicken.html
 ---
 Inktober day 5: Chicken 🐓 
