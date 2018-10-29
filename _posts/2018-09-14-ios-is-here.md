@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-14 17:11:37 +0200
+date: 2018-09-14 16:11:37 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/14/ios-is-here.html
 ---
 iOS 12 is here! 
