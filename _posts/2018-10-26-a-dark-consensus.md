@@ -3,7 +3,7 @@ layout: post
 title: "A Dark Consensus About Screens and Kids Begins to Emerge in Silicon Valley - The New York Time 🔗"
 microblog: false
 audio: 
-date: 2018-10-26 19:54:29 +0200
+date: 2018-10-26 18:54:29 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/26/a-dark-consensus.html
 ---
 [A Dark Consensus About Screens and Kids Begins to Emerge in Silicon Valley - The New York Times](https://www.nytimes.com/2018/10/26/style/phones-children-silicon-valley.html) via [@leo](https://micro.blog/leo)
