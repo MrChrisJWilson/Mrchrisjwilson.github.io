@@ -3,7 +3,7 @@ layout: post
 title: "Cleaning Up Workflows"
 microblog: false
 audio: 
-date: 2018-09-18 13:07:58 +0200
+date: 2018-09-18 12:07:58 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/18/cleaning-up-workflows.html
 ---
 Thanks to the release of Shortcuts, I cleared out about 70% of my old Workflows in preparation. There were about two or three groups. 
