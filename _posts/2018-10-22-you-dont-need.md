@@ -3,7 +3,7 @@ layout: post
 title: "You Don’t Need to Do “Real Work” on the iPad, Just Normal Work"
 microblog: false
 audio: 
-date: 2018-10-22 19:52:59 +0200
+date: 2018-10-22 18:52:59 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/22/you-dont-need.html
 ---
 One of the ideas that get’s branded about when we talk about the iPad is that you “can’t do real work on the iPad”. I used to debate this topic a lot but today I realised that it’s complete rubbish. Not because you can do everything on the iPad, but actually it’s not that important and distracts from the issue that is really important. Let me explain. 
