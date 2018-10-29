@@ -3,7 +3,7 @@ layout: post
 title: "Austin Mann's iPhone Xs camera review 🔗"
 microblog: false
 audio: 
-date: 2018-09-25 15:39:22 +0200
+date: 2018-09-25 14:39:22 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/25/austin-manns-iphone.html
 ---
 [Austin Mann's iPhone Xs camera review 🔗](http://austinmann.com/trek/iphone-xs-camera-review-zanzibar) 
