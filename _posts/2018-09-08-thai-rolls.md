@@ -3,7 +3,7 @@ layout: post
 title: "Thai Rolls "
 microblog: false
 audio: 
-date: 2018-09-08 20:23:12 +0200
+date: 2018-09-08 19:23:12 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/08/thai-rolls.html
 ---
 
