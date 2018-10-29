@@ -3,7 +3,7 @@ layout: post
 title: "Education Needs to Be Inconvenient"
 microblog: false
 audio: 
-date: 2018-09-10 13:46:28 +0200
+date: 2018-09-10 12:46:28 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/10/education-needs-to.html
 ---
 [Education needs to be inconvenient](https://seths.blog/2018/09/education-needs-to-be-inconvenient/)
