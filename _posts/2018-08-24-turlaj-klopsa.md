@@ -3,7 +3,7 @@ layout: post
 title: "Turlaj Klopsa"
 microblog: false
 audio: 
-date: 2018-08-24 17:57:33 +0200
+date: 2018-08-24 16:57:33 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/24/turlaj-klopsa.html
 ---
 
