@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-12 07:27:27 +0200
+date: 2018-08-12 06:27:27 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/12/sunday-morning-lettering.html
 ---
 Sunday morning lettering practice. 
