@@ -3,7 +3,7 @@ layout: post
 title: "How Maria Popova starts a blog post. "
 microblog: false
 audio: 
-date: 2018-09-14 15:34:52 +0200
+date: 2018-09-14 14:34:52 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/14/how-maria-popova.html
 ---
 I noticed something about Brain Picking's blog posts that made me investigate. It was the curious way Maria chose to start her post. By splitting a quote in two and referencing the writer in the middle. 
