@@ -3,7 +3,7 @@ layout: post
 title: "Evernote lost its CTO, CFO, CPO and HR head in the last month as it eyes another fundraise | TechCrunch"
 microblog: false
 audio: 
-date: 2018-09-04 22:19:54 +0200
+date: 2018-09-04 21:19:54 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/04/evernote-lost-its.html
 ---
 [Evernote lost its CTO, CFO, CPO and HR head in the last month as it eyes another fundraise | TechCrunch](https://techcrunch.com/2018/09/04/evernote-lost-its-cto-cfo-cpo-and-hr-head-in-the-last-month-as-it-eyes-another-fundraise/)
