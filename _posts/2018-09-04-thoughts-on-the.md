@@ -3,7 +3,7 @@ layout: post
 title: "Thoughts on the film \"Chef\" "
 microblog: false
 audio: 
-date: 2018-09-04 08:39:09 +0200
+date: 2018-09-04 07:39:09 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/04/thoughts-on-the.html
 ---
 I re-watched the film with my wife over the last two days. It's a film I've wanted to revisit for a while but I knew I needed a bit of time. There's a few storytelling elements that I really love in the film. 
