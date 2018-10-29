@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-14 17:48:11 +0200
+date: 2018-08-14 16:48:11 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/14/my-hypercritical-and.html
 ---
 My hypercritical and PCalc T-shirt’s arrived 😎
