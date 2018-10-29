@@ -3,7 +3,7 @@ layout: post
 title: "On Writing Your Job on Your About Page"
 microblog: false
 audio: 
-date: 2018-09-05 15:16:50 +0200
+date: 2018-09-05 14:16:50 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/05/on-writing-your.html
 ---
 
