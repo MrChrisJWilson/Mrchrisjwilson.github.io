@@ -7,6 +7,40 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/03/changes-that-seem.html",
+	      	
+			"content_html": "<blockquote>\n  <p>“Changes that seem small and unimportant at first will compound into remarkable results if you stick with them for years.”\n— James Clear in <a href=\"http://www.amazon.com/dp/0735211299/?tag=minima0e-20\">Atomic Habits</a></p>\n</blockquote>\n",
+			"date_published": "2018-11-03T09:52:01+01:00",
+			"url": "http://chrisjwilson.me/2018/11/03/changes-that-seem.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/02/isralie-style-coffee.html",
+	      	
+			"content_html": "<p>Isralie style coffee and baklava in the coolest coffee shop in Krakow. \n<img src=\"http://chrisjwilson.me/uploads/2018/2258f1d350.jpg\" alt=\"76737E3B-A92B-4667-8DF0-E5452C5E5555.jpg\" /></p>\n",
+			"date_published": "2018-11-02T21:21:49+01:00",
+			"url": "http://chrisjwilson.me/2018/11/02/isralie-style-coffee.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/02/were-in-our.html",
+	      	
+			"content_html": "<p>We’re in our favourite coffee shop in Kazimierz, the old Jewish district in Krakow, and there are free short stories. This one is a graphic novel. \n<img src=\"http://chrisjwilson.me/uploads/2018/d1b02dffe9.jpg\" alt=\"CCE51CCA-FD93-4A55-BC0F-9CDC566912C4.jpg\" /></p>\n",
+			"date_published": "2018-11-02T15:50:00+01:00",
+			"url": "http://chrisjwilson.me/2018/11/02/were-in-our.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/02/november-now-and.html",
+	      	
+			"title": "November 2018 Now and Then Update",
+			
+			"content_html": "<p>Last month I tried updating my <a href=\"http://chrisjwilson.me/now/\">Now page</a> at the start of the month and <a href=\"http://chrisjwilson.me/2018/10/01/now-and-then.html\">writing a description of what had occurred</a>, and what is coming up. It’s kind of a “monthly review” for me.</p>\n\n<p>So here’s my November 2018 Now and Then Update</p>\n\n<h2 id=\"then\">Then</h2>\n\n<p><strong>Goals</strong>\nMy goals for last month were a mixed bag\n Spend time with my daughter</p>\n<ul>\n  <li>I caught up with the copyblogger course I’m doing and now just need to submit some work.</li>\n  <li>I did nothing for “the ninja project” and it’s probably on the back burner unfortunately.</li>\n  <li>I read very little more of On Writing Well but I did read some. I’m hoping to slowly continue this month</li>\n  <li>I did try a couple of calligraphy styles, but the main thing I did was investigate the Pentel brush pen by doing Inktober only using that pen. It was a really fun challenge to try an unusual and different pen. I kind of want to do something similar with a different pen next month and see what comes up.</li>\n  <li>My writing portfolio still needs a bit of an update but it’s coming along well</li>\n  <li>I did nothing for NaNoWriMo but I’m going to start free writing everyday, it may lead to a book, or not. Hopefully it will stick beyond just November.</li>\n  <li>I didn’t plan to, but I ended up completing Inktober and I’m going to put a micro.blog post with every image.</li>\n  <li>I spent far too much time considering what new phone I should get. I had placed some limits and requirements to stop me upgrading sooner and they were now all met. However, I didn’t want to blindly follow my gut but really check and make sure I was making a good choice that reflecting a suitable use of money. At times like this I like to review why I don’t use certain products and consider what it would be like to switch system as well as the pain points. In this case I really considered getting an Android phone. There are certainly some advantages but I’ve happily decided against doing so, I placed one last restriction on myself to give myself time to make sure I was happy with my final decision and so in a week or so, I should upgrade.</li>\n</ul>\n\n<p><strong>Key Events</strong></p>\n<ul>\n  <li>My parents visited and met their Granddaughter</li>\n  <li>My in-laws visited again and we prepared some great food.</li>\n  <li>We went to a wedding in Lublin</li>\n  <li>I had a major project at work that was a great challenge, but quite stressful.</li>\n</ul>\n\n<p><strong>Unexpected delights</strong></p>\n<ul>\n  <li>Starting reading Atomic Habits by James Clear</li>\n  <li>Getting back in to exercising after some illness</li>\n  <li>David Sparks Omnifocus field guide provided some really interesting ideas.</li>\n  <li>I’ve really got back into Jazz music again.</li>\n</ul>\n\n<h2 id=\"now\">Now</h2>\n<p>Last time I talked about goals, this month (inspired by James Clear) I want to focus on habits instead.</p>\n<ul>\n  <li>Daily writing first thing (instead of browsing and searching the internet)</li>\n  <li>Playing some Jazz guitar at the weekend</li>\n  <li>Personalizing a couple more Siri Shortcuts so they are more useful</li>\n  <li>Going through a couple of courses I signed up for in the past…and did nothing with!</li>\n  <li>I’m looking for a better way to manage quotes.</li>\n</ul>\n\n<p><strong>Upcoming events</strong></p>\n<ul>\n  <li>My wife’s birthday</li>\n  <li>Some national holidays (1st November and 11th)</li>\n</ul>\n",
+			"date_published": "2018-11-02T13:36:20+01:00",
+			"url": "http://chrisjwilson.me/2018/11/02/november-now-and.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/10/31/a-longterm-review.html",
 	      	
 			"title": "A Long-Term Review of The Focus Course",
@@ -180,40 +214,6 @@
 			"content_html": "<p><a href=\"https://teamcolorcodes.com/nfl-team-color-codes/\">Team Color Codes</a></p>\n\n<p>Hex codes for various team colour codes. My favourite NFL teams are probably the 49ers and Green Bay. The Texans aren’t bad either.</p>\n",
 			"date_published": "2018-10-10T14:56:35+02:00",
 			"url": "http://chrisjwilson.me/2018/10/10/team-color-codes.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/10/10/a-colleague-at.html",
-	      	
-			"content_html": "<p>A colleague at work asked me what gadget I’d get if I had $500 to spend on anything I want. I have an answer but I’d love your answers first.</p>\n",
-			"date_published": "2018-10-10T13:28:55+02:00",
-			"url": "http://chrisjwilson.me/2018/10/10/a-colleague-at.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/10/10/sources-for-readymade.html",
-	      	
-			"title": "7 Sources for Ready-Made iOS Shortcuts – 40Tech",
-			
-			"content_html": "<p><a href=\"https://www.40tech.com/2018/10/03/7-sources-for-ready-made-ios-shortcuts/\">7 Sources for Ready-Made iOS Shortcuts – 40Tech</a></p>\n\n<blockquote>\n  <p>Like the communities around other automation tools, Shortcuts users are generous with their creations and have shared their shortcuts online in several locations. Here are the seven best places I’ve found so far for downloading shortcuts:</p>\n</blockquote>\n\n<p>These are really great from <a href=\"https://micro.blog/40tech\">@40tech</a></p>\n",
-			"date_published": "2018-10-10T09:54:47+02:00",
-			"url": "http://chrisjwilson.me/2018/10/10/sources-for-readymade.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/10/05/inktober-day-chicken.html",
-	      	
-			"content_html": "<p>Inktober day 5: Chicken 🐓 \n<img src=\"http://chrisjwilson.me/uploads/2018/a2367927fc.jpg\" alt=\"D2C50D3C-2768-4BFD-ABB5-117EC89B4ADC.jpg\" /></p>\n",
-			"date_published": "2018-10-05T09:49:46+02:00",
-			"url": "http://chrisjwilson.me/2018/10/05/inktober-day-chicken.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/10/04/inktober-day-spell.html",
-	      	
-			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/2daf754f39.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/2daf754f39.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Inktober day 4: spell</p>\n\n",
-			"date_published": "2018-10-04T12:17:44+02:00",
-			"url": "http://chrisjwilson.me/2018/10/04/inktober-day-spell.html"
 		}
 		
 	]
