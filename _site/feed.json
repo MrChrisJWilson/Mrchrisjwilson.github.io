@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/05/ulysses-keyboard-shortcuts.html",
+	      	
+			"content_html": "<p><a href=\"https://ulysses.app/tutorials/shortcuts\">Ulysses keyboard shortcuts for Mac and iOS</a>\nI love how many different shortcuts Ulysses has…except I have trouble remembering all of them .</p>\n",
+			"date_published": "2018-11-05T08:56:12+01:00",
+			"url": "http://chrisjwilson.me/2018/11/05/ulysses-keyboard-shortcuts.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/11/03/changes-that-seem.html",
 	      	
 			"content_html": "<blockquote>\n  <p>“Changes that seem small and unimportant at first will compound into remarkable results if you stick with them for years.”\n— James Clear in <a href=\"http://www.amazon.com/dp/0735211299/?tag=minima0e-20\">Atomic Habits</a></p>\n</blockquote>\n",
@@ -206,14 +214,6 @@
 			"content_html": "<p>My new mission. Convert my company to using the Oxford comma by highlighting every sentence where it would clearly help.</p>\n",
 			"date_published": "2018-10-11T11:39:33+02:00",
 			"url": "http://chrisjwilson.me/2018/10/11/my-new-mission.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/10/10/team-color-codes.html",
-	      	
-			"content_html": "<p><a href=\"https://teamcolorcodes.com/nfl-team-color-codes/\">Team Color Codes</a></p>\n\n<p>Hex codes for various team colour codes. My favourite NFL teams are probably the 49ers and Green Bay. The Texans aren’t bad either.</p>\n",
-			"date_published": "2018-10-10T14:56:35+02:00",
-			"url": "http://chrisjwilson.me/2018/10/10/team-color-codes.html"
 		}
 		
 	]
