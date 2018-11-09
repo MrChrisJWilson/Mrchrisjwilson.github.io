@@ -14,7 +14,7 @@ guid: http://ChrisJWilson.micro.blog/2018/11/08/where-are-the.html
 This is one of those articles that starts discussing one issue, but the commentary actually is far more interesting than the inital discussion (In my opinion at least). I wonder how accurate Gabe's prognosis is (that new voices are podcasting). While I see truth in this, I also think one of the issues is that online writing has become quite formulaic and people simply copy others ideas without offering something fresh. 
 No one could be a full time blogger in the early days of online writing, now there are a host of them (and companies that employ writers) who's opinions are well regarded. I've started (and stopped) following some new writers as I realised they were just repeating others points. At the same time, I have discovered fresh voices who offer something unique. 
 - [Rose Orchard](https://rosemaryorchard.com/) 
-- [Denny Henke]( [beardyguycreative.com/blog/](http://beardyguycreative.com/blog/))
+- [Denny Henke](http://beardyguycreative.com/blog/)
 - [Zsolt Benke](http://decoding.io/)
 - [Greg Morris](https://www.gr36.com/)
 - [Andy Nicolaides](https://thedent.net/)
