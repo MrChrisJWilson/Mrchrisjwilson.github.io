@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/12/its-a-public.html",
+	      	
+			"content_html": "<p>It’s a public holiday here in Poland so I took my daughter down to the graduation tower connected to Wieliczka salt mine.</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/747c9558b8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-12T14:43:03+01:00",
+			"url": "http://chrisjwilson.me/2018/11/12/its-a-public.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/11/11/in-addition-to.html",
 	      	
 			"content_html": "<p>In addition to Veterans Day and Armistice day, November 11 is <strong>Polish Independence Day</strong>. Prior to the end of the First World War, Poland had faced 123 years under foreign rule.</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/8f7205b932.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -208,14 +216,6 @@
 			"content_html": "<p><a href=\"https://www.nytimes.com/2018/10/26/style/phones-children-silicon-valley.html\">A Dark Consensus About Screens and Kids Begins to Emerge in Silicon Valley - The New York Times</a> via <a href=\"https://micro.blog/leo\">@leo</a></p>\n\n<blockquote>\n  <p>A wariness that has been slowly brewing is turning into a regionwide consensus: The benefits of screens as a learning tool are overblown, and the risks for addiction and stunting development seem high. The debate in Silicon Valley now is about how much exposure to phones is O.K.</p>\n</blockquote>\n\n<p>Interesting article that touches on ideas you’ve probably heard a lot recently. I agree more with the “principled limited” screen usage. There’s an incredible depth of knowledge on the internet including things like YouTube (I don’t think there’s been a better time to learn a musical instrument and I’m brushing up my jazz guitar chops) but YouTube is designed to get you hooked and spend more time there, and often the brain dead stuff is the most addictive. We have to be careful.</p>\n",
 			"date_published": "2018-10-26T19:54:29+02:00",
 			"url": "http://chrisjwilson.me/2018/10/26/a-dark-consensus.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/10/25/in-praise-of.html",
-	      	
-			"content_html": "<p><a href=\"https://austinkleon.com/2018/10/12/in-praise-of-mediocrity/\">In Praise of Mediocrity</a> 🔗</p>\n\n<p>I’m calling it now, Austin Kleon’s next book (after Keep Going) will be on hobbies.</p>\n",
-			"date_published": "2018-10-25T14:52:33+02:00",
-			"url": "http://chrisjwilson.me/2018/10/25/in-praise-of.html"
 		}
 		
 	]
