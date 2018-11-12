@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/12/its-a-public.html",
+	      	
+			"content_text": "It’s a public holiday here in Poland so I took...",
+			"date_published": "2018-11-12T14:43:03+01:00",
+			"url": "http://chrisjwilson.me/2018/11/12/its-a-public.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/11/11/in-addition-to.html",
 	      	
 			"content_text": "In addition to Veterans Day and Armistice day, November 11...",
