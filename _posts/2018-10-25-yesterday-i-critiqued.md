@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-25 11:57:10 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/25/yesterday-i-critiqued.html
 ---
