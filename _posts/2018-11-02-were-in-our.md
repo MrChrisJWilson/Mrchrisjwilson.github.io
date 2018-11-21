@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-02 15:50:00 +0100
 guid: http://ChrisJWilson.micro.blog/2018/11/02/were-in-our.html
 ---
