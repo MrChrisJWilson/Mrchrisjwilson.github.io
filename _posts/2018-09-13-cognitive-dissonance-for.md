@@ -3,6 +3,7 @@ layout: post
 title: "Cognitive Dissonance for Marketing 🔗"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-13 13:12:09 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/13/cognitive-dissonance-for.html
 ---
