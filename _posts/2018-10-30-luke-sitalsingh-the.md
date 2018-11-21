@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-30 14:19:42 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/30/luke-sitalsingh-the.html
 ---
