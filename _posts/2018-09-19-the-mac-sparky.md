@@ -3,6 +3,7 @@ layout: post
 title: "The Mac Sparky Shortcuts Field Guide [Mini Review]"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-19 15:11:46 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/19/the-mac-sparky.html
 ---
