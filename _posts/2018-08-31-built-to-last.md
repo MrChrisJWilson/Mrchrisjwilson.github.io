@@ -3,6 +3,7 @@ layout: post
 title: "Built to Last "
 microblog: false
 audio: 
+photo: 
 date: 2018-08-31 19:30:11 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/31/built-to-last.html
 ---
