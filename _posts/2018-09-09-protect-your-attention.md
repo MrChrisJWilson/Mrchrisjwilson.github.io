@@ -3,6 +3,7 @@ layout: post
 title: "Protect your attention"
 microblog: false
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/7d8b339f1d.jpg
 date: 2018-09-09 18:30:53 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/09/protect-your-attention.html
 ---
