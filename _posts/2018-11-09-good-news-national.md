@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-09 07:38:56 +0100
 guid: http://ChrisJWilson.micro.blog/2018/11/09/good-news-national.html
 ---
