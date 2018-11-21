@@ -3,6 +3,7 @@ layout: post
 title: "November 2018 Now and Then Update"
 microblog: false
 audio: 
+photo: 
 date: 2018-11-02 13:36:20 +0100
 guid: http://ChrisJWilson.micro.blog/2018/11/02/november-now-and.html
 ---
