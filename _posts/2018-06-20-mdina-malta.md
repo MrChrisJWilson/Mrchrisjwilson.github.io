@@ -3,6 +3,7 @@ layout: post
 title: "Mdina Malta "
 microblog: false
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/c6969caee5.jpg
 date: 2018-06-20 15:26:10 +0100
 guid: http://ChrisJWilson.micro.blog/2018/06/20/mdina-malta.html
 ---
