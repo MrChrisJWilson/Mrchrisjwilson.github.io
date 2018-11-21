@@ -3,6 +3,7 @@ layout: post
 title: "Is someone copying me...or am I less original than I thought 🤷‍♂️"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-22 16:50:12 +0100
 guid: http://ChrisJWilson.micro.blog/2018/02/22/is-someone-copying.html
 ---
