@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-29 10:34:10 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/29/honestly-i-think.html
 ---
