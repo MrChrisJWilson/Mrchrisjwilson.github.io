@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/8f7205b932.jpg
 date: 2018-11-11 07:54:55 +0100
 guid: http://ChrisJWilson.micro.blog/2018/11/11/in-addition-to.html
 ---
