@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/d9ff04a463.jpg
 date: 2018-09-11 08:07:48 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/11/testing-sharding-s.html
 ---
