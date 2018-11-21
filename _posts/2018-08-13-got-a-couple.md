@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/116bef1456.jpg
 date: 2018-08-13 15:59:30 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/13/got-a-couple.html
 ---
