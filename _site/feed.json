@@ -7,6 +7,32 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/21/go-on-an.html",
+	      	
+			"content_html": "<h1 id=\"go-on-an-artist-date\">Go on an “Artist date”</h1>\n\n<p>I made the image below inspired by <a href=\"https://www.accidentalcreative.com/podcasts/ac/three-weekend-rituals-that-will-refresh-your-creativity/\">the accidental creative podcast</a> this morning, which was itself inspired by <a href=\"https://juliacameronlive.com/basic-tools/artists-dates/\">Julia Cameron</a>.\n<img src=\"http://chrisjwilson.me/uploads/2018/d6994a6307.jpg\" alt=\"B41DBC84-8292-4B54-8E0E-2222DD8EAC72.jpg\" /></p>\n",
+			"date_published": "2018-11-21T18:48:29+01:00",
+			"url": "http://chrisjwilson.me/2018/11/21/go-on-an.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/20/the-annoying-trend.html",
+	      	
+			"title": "The Annoying Trend of Making Stuff About Making Stuff",
+			
+			"content_html": "<p>One of the things that annoys me the most about the modern internet landscape is how much stuff is made about making stuff. Especially when it is the same form as the thing which is being made.</p>\n<ul>\n  <li>Blog posts about writing blog posts</li>\n  <li>Youtube Videos about making YouTube videos</li>\n  <li>Podcasts about podcasts (this is probably the least offender)\nI now wonder if this is part of the inherit nature of being an indie creator. If you become successful and go full time, then the thing you are making becomes your full time job. What else can you write about…except writing about running your job.</li>\n</ul>\n\n<p>Of course, <strong>it’s not inevitable</strong> and I think the <strong>best</strong> online content avoids this pitfall. CGP Grey’s great videos aren’t about how he makes his videos, Amanda Palmer’s music isn’t about making music and Andy Weir wrote a great book about a man on mars on his blog.</p>\n\n<p>My challenge to myself is to focus more on making things, and not making things about making things.</p>\n\n",
+			"date_published": "2018-11-20T18:50:42+01:00",
+			"url": "http://chrisjwilson.me/2018/11/20/the-annoying-trend.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/20/imagine-buying-a.html",
+	      	
+			"content_html": "<p>Imagine buying a WordPress theme with a “lifetime license”, now imagine not getting any updates in the last year and half after a few since it’s launch. NOW imagine there is a new version of that theme where you have to purchase a new “lifetime” license.</p>\n",
+			"date_published": "2018-11-20T16:06:27+01:00",
+			"url": "http://chrisjwilson.me/2018/11/20/imagine-buying-a.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/11/20/nate-lopez-performs.html",
 	      	
 			"content_html": "<p><a href=\"https://youtu.be/AD-ZfN9tlDE\">Nate Lopez Performs “Georgia On My Mind” 🎵 📹 </a></p>\n\n<p>Some smooth acoustic blues for the afternoon</p>\n",
@@ -186,30 +212,6 @@
 			"content_html": "<p><a href=\"http://austinmann.com/trek/ipad-pro-photographer-iceland\">the new ipad pro for photographers</a> \nAustin is great to follow for all things Apple and photography and his latest post doesn’t disappoint. He really picks up on the key issues I’ve faced with editing photos on iOS as well as some of the work arounds…which kind of work. I’m going to check out the Gnarbox.</p>\n",
 			"date_published": "2018-11-08T13:53:32+01:00",
 			"url": "http://chrisjwilson.me/2018/11/08/austin-mann-on.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/11/07/spark-email-showing.html",
-	      	
-			"content_html": "<p>Spark Email showing me a new feature with a dismiss button of “Thank You” I’m both impressed at the clever copy hack of getting people to say thank you to build connection and annoyed that I’m being forced to say thank you.</p>\n",
-			"date_published": "2018-11-07T11:10:52+01:00",
-			"url": "http://chrisjwilson.me/2018/11/07/spark-email-showing.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/11/07/cant-wait-to.html",
-	      	
-			"content_html": "<p>Can’t wait to dig into the new procreate update :)</p>\n",
-			"date_published": "2018-11-07T08:47:29+01:00",
-			"url": "http://chrisjwilson.me/2018/11/07/cant-wait-to.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/11/06/i-missed-my.html",
-	      	
-			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/32fe1e5806.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/32fe1e5806.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>I missed my train at krakow station last night. So I finally returned to street photography with my iPhone.</p>\n\n",
-			"date_published": "2018-11-06T14:35:52+01:00",
-			"url": "http://chrisjwilson.me/2018/11/06/i-missed-my.html"
 		}
 		
 	]
