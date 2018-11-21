@@ -3,6 +3,7 @@ layout: post
 title: "WWU Lecture on Tolkein’s Language and Writing"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-25 07:04:23 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/25/wwu-lecture-on.html
 ---
