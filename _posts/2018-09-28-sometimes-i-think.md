@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-28 14:34:53 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/28/sometimes-i-think.html
 ---
