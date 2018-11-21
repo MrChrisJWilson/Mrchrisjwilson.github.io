@@ -3,6 +3,7 @@ layout: post
 title: "Now and Then Update: October 2018"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-01 08:43:36 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/01/now-and-then.html
 ---
