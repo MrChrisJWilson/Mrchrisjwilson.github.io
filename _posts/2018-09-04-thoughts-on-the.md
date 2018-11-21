@@ -3,6 +3,7 @@ layout: post
 title: "Thoughts on the film \"Chef\" "
 microblog: false
 audio: 
+photo: 
 date: 2018-09-04 07:39:09 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/04/thoughts-on-the.html
 ---
