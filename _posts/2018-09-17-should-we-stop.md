@@ -3,6 +3,7 @@ layout: post
 title: "Should We Stop Listening to Podcasts? — CJ Chilvers 🔗"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-17 18:24:22 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/17/should-we-stop.html
 ---
