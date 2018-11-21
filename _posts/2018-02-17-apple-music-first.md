@@ -3,6 +3,7 @@ layout: post
 title: "Why are there “delux albums” on Apple Music?"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-17 07:45:29 +0100
 guid: http://ChrisJWilson.micro.blog/2018/02/17/apple-music-first.html
 ---
