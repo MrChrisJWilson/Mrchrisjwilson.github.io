@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-16 09:43:22 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/16/songexploder-christine-and.html
 ---
