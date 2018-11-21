@@ -3,6 +3,7 @@ layout: post
 title: "Take the first step"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-21 23:03:51 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/21/take-the-first.html
 ---
