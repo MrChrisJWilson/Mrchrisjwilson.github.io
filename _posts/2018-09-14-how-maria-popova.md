@@ -3,6 +3,7 @@ layout: post
 title: "How Maria Popova starts a blog post. "
 microblog: false
 audio: 
+photo: 
 date: 2018-09-14 14:34:52 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/14/how-maria-popova.html
 ---
