@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-09 06:00:41 +0100
 guid: http://ChrisJWilson.micro.blog/2018/05/09/an-ios-laptop.html
 ---
