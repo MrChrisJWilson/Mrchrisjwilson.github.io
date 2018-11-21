@@ -3,6 +3,7 @@ layout: post
 title: "Johnnie Walker Red Rye Finish "
 microblog: false
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/773bf5a88f.jpg
 date: 2018-08-29 19:47:12 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/29/johnnie-walker-red.html
 ---
