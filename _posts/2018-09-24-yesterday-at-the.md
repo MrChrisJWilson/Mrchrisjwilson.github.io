@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/30a43a0d7b.jpg
 date: 2018-09-24 20:55:36 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/24/yesterday-at-the.html
 ---
