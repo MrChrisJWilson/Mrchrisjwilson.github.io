@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/e3db4516be.jpg
 date: 2018-02-21 10:05:45 +0100
 guid: http://ChrisJWilson.micro.blog/2018/02/21/tatra-mountains-yesterday.html
 ---
