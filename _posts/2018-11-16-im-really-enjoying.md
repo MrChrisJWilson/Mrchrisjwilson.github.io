@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/154c95affc.jpg
 date: 2018-11-16 10:17:52 +0100
 guid: http://ChrisJWilson.micro.blog/2018/11/16/im-really-enjoying.html
 ---
