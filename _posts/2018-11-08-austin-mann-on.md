@@ -3,6 +3,7 @@ layout: post
 title: "Austin Mann on the New iPad Pro 🔗"
 microblog: false
 audio: 
+photo: 
 date: 2018-11-08 13:53:32 +0100
 guid: http://ChrisJWilson.micro.blog/2018/11/08/austin-mann-on.html
 ---
