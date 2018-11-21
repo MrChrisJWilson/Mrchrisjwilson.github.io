@@ -3,6 +3,7 @@ layout: post
 title: "Hoping to Be Delighted by Apple"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-12 14:24:05 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/12/hoping-to-be.html
 ---
