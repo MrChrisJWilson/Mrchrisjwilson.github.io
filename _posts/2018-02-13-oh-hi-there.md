@@ -3,6 +3,7 @@ layout: post
 title: "Oh Hi there Micro.Blog"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-13 09:49:57 +0100
 guid: http://ChrisJWilson.micro.blog/2018/02/13/oh-hi-there.html
 ---
