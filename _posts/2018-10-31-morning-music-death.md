@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-31 09:00:20 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/31/morning-music-death.html
 ---
