@@ -3,6 +3,7 @@ layout: post
 title: "Welcome to the World"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-24 11:40:33 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/24/welcome-to-the.html
 ---
