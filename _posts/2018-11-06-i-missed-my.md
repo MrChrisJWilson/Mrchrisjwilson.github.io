@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/32fe1e5806.jpg
 date: 2018-11-06 14:35:52 +0100
 guid: http://ChrisJWilson.micro.blog/2018/11/06/i-missed-my.html
 ---
