@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-29 13:56:32 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/29/a-dumb-nonsensical.html
 ---
