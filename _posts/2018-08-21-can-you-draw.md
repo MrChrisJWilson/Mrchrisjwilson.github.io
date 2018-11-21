@@ -3,6 +3,7 @@ layout: post
 title: "Can you draw a face with just vertical lines? 🤔 ✏️"
 microblog: false
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/b693a80639.jpg
 date: 2018-08-21 17:26:01 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/21/can-you-draw.html
 ---
