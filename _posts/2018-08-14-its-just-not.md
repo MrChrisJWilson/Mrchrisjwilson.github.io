@@ -3,6 +3,7 @@ layout: post
 title: "It’s Just Not for Me"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-14 15:00:56 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/14/its-just-not.html
 ---
