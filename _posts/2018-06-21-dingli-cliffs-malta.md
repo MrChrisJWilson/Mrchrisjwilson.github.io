@@ -3,6 +3,7 @@ layout: post
 title: "Dingli Cliffs, Malta "
 microblog: false
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/5f8c736c6a.jpg
 date: 2018-06-21 13:02:56 +0100
 guid: http://ChrisJWilson.micro.blog/2018/06/21/dingli-cliffs-malta.html
 ---
