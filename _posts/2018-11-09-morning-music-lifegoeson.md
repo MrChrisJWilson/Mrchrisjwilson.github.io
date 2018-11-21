@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-09 09:21:16 +0100
 guid: http://ChrisJWilson.micro.blog/2018/11/09/morning-music-lifegoeson.html
 ---
