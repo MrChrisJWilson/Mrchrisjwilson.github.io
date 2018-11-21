@@ -3,6 +3,7 @@ layout: post
 title: "Cleaning Up Workflows"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-18 12:07:58 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/18/cleaning-up-workflows.html
 ---
