@@ -3,6 +3,7 @@ layout: post
 title: "The Blue Grotto "
 microblog: false
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/64120e550d.jpg
 date: 2018-06-20 12:23:46 +0100
 guid: http://ChrisJWilson.micro.blog/2018/06/20/the-blue-grotto.html
 ---
