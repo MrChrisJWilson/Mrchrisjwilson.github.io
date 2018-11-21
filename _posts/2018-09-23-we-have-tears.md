@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-23 12:43:43 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/23/we-have-tears.html
 ---
