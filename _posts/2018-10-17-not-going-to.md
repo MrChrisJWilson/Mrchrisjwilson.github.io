@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-17 16:42:51 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/17/not-going-to.html
 ---
