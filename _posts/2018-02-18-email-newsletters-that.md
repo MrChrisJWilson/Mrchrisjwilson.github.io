@@ -3,6 +3,7 @@ layout: post
 title: "Email Newsletters that are worth subscribing too"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-18 20:24:11 +0100
 guid: http://ChrisJWilson.micro.blog/2018/02/18/email-newsletters-that.html
 ---
