@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-02 17:03:45 +0100
 guid: http://ChrisJWilson.micro.blog/2018/07/02/just-completed-my.html
 ---
