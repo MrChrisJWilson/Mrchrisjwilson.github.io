@@ -1,0 +1,463 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Chris J Wilson",
+	"icon": "https://micro.blog/ChrisJWilson/avatar.jpg",
+	"home_page_url": "http://chrisjwilson.me/",
+	"feed_url": "http://chrisjwilson.me/photos/index.json",
+	"items": [
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/19/krakow-train-station.html",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/e7f5c1710b.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/e7f5c1710b.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Krakow train station tonight 📸<br />Edited in darkroom for the iPad.</p>\n\n",
+			"date_published": "2018-11-19T20:52:00+01:00",
+			"url": "http://chrisjwilson.me/2018/11/19/krakow-train-station.html",
+			"image": "http://chrisjwilson.me/uploads/2018/e7f5c1710b.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/e7f5c1710b.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/16/im-really-enjoying.html",
+			
+			"content_text": "<p>I’m really enjoying playing with the iPhone XS camera. It lets me take photos I couldn’t with the SE. Shot with <a href=\"https://itunes.apple.com/us/app/id357404131?at=10lu9G&amp;ct=IPG\">Slow Shutter Cam</a></p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/154c95affc.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-11-16T10:17:52+01:00",
+			"url": "http://chrisjwilson.me/2018/11/16/im-really-enjoying.html",
+			"image": "http://chrisjwilson.me/uploads/2018/154c95affc.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/154c95affc.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/12/finally-got-my.html",
+			
+			"content_text": "<p>Finally got my iPhone XS in a semi set state. Still moving a couple of items around by this is my homescreen for now. Might add this to my now page 🤔</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/ca23fc36d6.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-12T18:32:22+01:00",
+			"url": "http://chrisjwilson.me/2018/11/12/finally-got-my.html",
+			"image": "http://chrisjwilson.me/uploads/2018/ca23fc36d6.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/ca23fc36d6.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/12/its-a-public.html",
+			
+			"content_text": "<p>It’s a public holiday here in Poland so I took my daughter down to the graduation tower connected to Wieliczka salt mine.</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/747c9558b8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-12T14:43:03+01:00",
+			"url": "http://chrisjwilson.me/2018/11/12/its-a-public.html",
+			"image": "http://chrisjwilson.me/uploads/2018/747c9558b8.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/747c9558b8.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/11/in-addition-to.html",
+			
+			"content_text": "<p>In addition to Veterans Day and Armistice day, November 11 is <strong>Polish Independence Day</strong>. Prior to the end of the First World War, Poland had faced 123 years under foreign rule.</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/8f7205b932.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-11T07:54:55+01:00",
+			"url": "http://chrisjwilson.me/2018/11/11/in-addition-to.html",
+			"image": "http://chrisjwilson.me/uploads/2018/8f7205b932.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/8f7205b932.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/10/morning-coffee-in.html",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/82616224ff.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/82616224ff.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Morning coffee in krakow. The sign says “coffee is essential”</p>\n\n",
+			"date_published": "2018-11-10T12:35:35+01:00",
+			"url": "http://chrisjwilson.me/2018/11/10/morning-coffee-in.html",
+			"image": "http://chrisjwilson.me/uploads/2018/82616224ff.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/82616224ff.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/06/i-missed-my.html",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/32fe1e5806.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/32fe1e5806.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>I missed my train at krakow station last night. So I finally returned to street photography with my iPhone.</p>\n\n",
+			"date_published": "2018-11-06T14:35:52+01:00",
+			"url": "http://chrisjwilson.me/2018/11/06/i-missed-my.html",
+			"image": "http://chrisjwilson.me/uploads/2018/32fe1e5806.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/32fe1e5806.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/23/waiting-for-the.html",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/0e5a2d217a.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/0e5a2d217a.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Waiting for the train last week.</p>\n\n",
+			"date_published": "2018-10-23T09:44:48+02:00",
+			"url": "http://chrisjwilson.me/2018/10/23/waiting-for-the.html",
+			"image": "http://chrisjwilson.me/uploads/2018/0e5a2d217a.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/0e5a2d217a.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/04/inktober-day-spell.html",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/2daf754f39.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/2daf754f39.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Inktober day 4: spell</p>\n\n",
+			"date_published": "2018-10-04T12:17:44+02:00",
+			"url": "http://chrisjwilson.me/2018/10/04/inktober-day-spell.html",
+			"image": "http://chrisjwilson.me/uploads/2018/2daf754f39.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/2daf754f39.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/03/inktober-day-boom.html",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/37811c065c.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/37811c065c.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Inktober day 3: boom roasted.</p>\n\n",
+			"date_published": "2018-10-03T08:36:46+02:00",
+			"url": "http://chrisjwilson.me/2018/10/03/inktober-day-boom.html",
+			"image": "http://chrisjwilson.me/uploads/2018/37811c065c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/37811c065c.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/02/inktober-day-tranquil.html",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/734181c346.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/734181c346.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Inktober day 2: tranquil</p>\n\n",
+			"date_published": "2018-10-02T17:22:23+02:00",
+			"url": "http://chrisjwilson.me/2018/10/02/inktober-day-tranquil.html",
+			"image": "http://chrisjwilson.me/uploads/2018/734181c346.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/734181c346.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/02/inktober-day-poisonous.html",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/445024a74c.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/445024a74c.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Inktober day 1: poisonous</p>\n\n",
+			"date_published": "2018-10-02T09:22:02+02:00",
+			"url": "http://chrisjwilson.me/2018/10/02/inktober-day-poisonous.html",
+			"image": "http://chrisjwilson.me/uploads/2018/445024a74c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/445024a74c.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/10/01/good-writing-is.html",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/555ea86d00.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/555ea86d00.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Good writing is rewriting. A lesson from On Writing Well.</p>\n\n",
+			"date_published": "2018-10-01T20:21:56+02:00",
+			"url": "http://chrisjwilson.me/2018/10/01/good-writing-is.html",
+			"image": "http://chrisjwilson.me/uploads/2018/555ea86d00.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/555ea86d00.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/24/yesterday-at-the.html",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/5bbb990611.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/5bbb990611.jpg\" width=\"600\" height=\"405\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/30a43a0d7b.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/30a43a0d7b.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Yesterday at the airport I wrote out my main takeaways from the international sketchnote camp and today I picked my three main takeaways. There are more I could have chosen and will apply but these really resonated with me. #isc18lx</p>\n\n",
+			"date_published": "2018-09-24T21:55:36+02:00",
+			"url": "http://chrisjwilson.me/2018/09/24/yesterday-at-the.html",
+			"image": "http://chrisjwilson.me/uploads/2018/30a43a0d7b.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/30a43a0d7b.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/22/lettering-practice-with.html",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/8028093ca3.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/8028093ca3.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/0d26b07658.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/0d26b07658.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Lettering practice with <a href=\"https://micro.blog/rohdesign\">@rohdesign</a> and @claire_ohl at #ISC18LX love nesting little letters here and there.</p>\n\n",
+			"date_published": "2018-09-22T09:21:08+02:00",
+			"url": "http://chrisjwilson.me/2018/09/22/lettering-practice-with.html",
+			"image": "http://chrisjwilson.me/uploads/2018/0d26b07658.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/0d26b07658.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/12/finished-my-last.html",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/f807d0c114.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/f807d0c114.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/a4adc7f8a3.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/a4adc7f8a3.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Finished my last notebook last night and starting a new one today. Trying a different (cheaper) brand but designed for sketching. Let’s see.</p>\n\n",
+			"date_published": "2018-09-12T08:46:19+02:00",
+			"url": "http://chrisjwilson.me/2018/09/12/finished-my-last.html",
+			"image": "http://chrisjwilson.me/uploads/2018/a4adc7f8a3.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/a4adc7f8a3.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/11/testing-sharding-s.html",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/d9ff04a463.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/d9ff04a463.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Testing <a href=\"https://micro.blog/sharding\">@sharding</a> ‘s emulsify app at one of the spots I pass everyday and find useful for testing contrast. The blacks are crushed a bit more than the default camera app but it has a nice style.</p>\n\n",
+			"date_published": "2018-09-11T09:07:48+02:00",
+			"url": "http://chrisjwilson.me/2018/09/11/testing-sharding-s.html",
+			"image": "http://chrisjwilson.me/uploads/2018/d9ff04a463.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/d9ff04a463.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/09/protect-your-attention.html",
+			
+			"title": "Protect your attention",
+			
+			"content_text": "<p>I made this sketch in my commonplace book about a week and a half ago and since then this idea has come up a few times for me (including the latest Episode of <a href=\"http://www.hellointernet.fm/podcast/108\">Hello Internet </a>. That’s usually a sign to take notice of an idea, when it keeps coming up. It’s also part of the value of a commonplace book, you can notice the themes and ideas that come up again and again and see patterns and connections emerging over time.</p>\n\n<p>Attention is one of our most valuable resources and yet nowadays it feels like it’s given away for so little. Even giving away your Email address for some freebie is an invitation to take some of your attention.</p>\n\n<p>I’ve made a few changes recently to try and protect my attention more but I know that I both don’t stick to all of those changes and they don’t go far enough.</p>\n\n<ul>\n  <li>Focusing on longer and deeper content</li>\n  <li>planning silence</li>\n  <li>limiting disctration time</li>\n</ul>\n\n<p>They’ve all helped but the issue persists. Today I disabled some more notifications, removed another couple of podcasts from my app and finally set some limits in the new screen time settings in iOS 12. I hope they’ll help, but I know the attitude is the most important step.</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/7d8b339f1d.jpg\" width=\"421\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-09T19:30:53+02:00",
+			"url": "http://chrisjwilson.me/2018/09/09/protect-your-attention.html",
+			"image": "http://chrisjwilson.me/uploads/2018/7d8b339f1d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/7d8b339f1d.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/08/thai-rolls.html",
+			
+			"title": "Thai Rolls ",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/ecccd07ce2.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/ecccd07ce2.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/de43c41c1c.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/de43c41c1c.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>I’d never heard of Thai rolls before but it’s a type of ice cream that basically gets made in front of your eyes. We went for kinder bueno with coconut pieces. Pretty tasty.</p>\n\n",
+			"date_published": "2018-09-08T20:23:12+02:00",
+			"url": "http://chrisjwilson.me/2018/09/08/thai-rolls.html",
+			"image": "http://chrisjwilson.me/uploads/2018/de43c41c1c.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/de43c41c1c.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/09/03/four-new-pens.html",
+			
+			"content_text": "<p>Four new pens to play with…I might be <em>starting</em> to develop a problem. \nLeft to right:</p>\n<ul>\n  <li><a href=\"http://www.amazon.com/dp/B00PV7RMSA/?tag=minima0e-20\">Lamy Joy</a></li>\n  <li><a href=\"http://www.amazon.com/dp/B002RJPLQK/?tag=minima0e-20\">Pilot Parallel 6mm</a></li>\n  <li><a href=\"http://www.amazon.com/dp/B004ESZ9DW/?tag=minima0e-20\">Pilot Parallel 3.8mm </a></li>\n  <li><a href=\"http://www.amazon.com/dp/B005NXE8KC/?tag=minima0e-20\">Uni chalk marker broad tip </a>\nExpect some sample pages in the next few days</li>\n</ul>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/7c6720db2d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-03T21:02:17+02:00",
+			"url": "http://chrisjwilson.me/2018/09/03/four-new-pens.html",
+			"image": "http://chrisjwilson.me/uploads/2018/7c6720db2d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/7c6720db2d.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/29/johnnie-walker-red.html",
+			
+			"title": "Johnnie Walker Red Rye Finish ",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/773bf5a88f.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/773bf5a88f.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Trying a new whiskey. It was a “hey you’ve got a baby” present.</p>\n\n",
+			"date_published": "2018-08-29T20:47:12+02:00",
+			"url": "http://chrisjwilson.me/2018/08/29/johnnie-walker-red.html",
+			"image": "http://chrisjwilson.me/uploads/2018/773bf5a88f.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/773bf5a88f.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/28/ideas-are-cheap.html",
+			
+			"title": "Ideas are Cheap",
+			
+			"content_text": "<p>Another idea from <a href=\"http://www.amazon.com/dp/0143109014/?tag=minima0e-20\"><strong>perennial seller</strong> by Ryan Holiday</a>, ideas are cheap, executing really matters. So many people have a <em>“great idea for a book”</em> but a tiny fraction of those people actually even start writing (and then an even smaller fraction finish. It’s completely true and one of the key changes I made in my early twenties was moving from having ideas to trying out ideas. Later in my twenties I started getting better at finishing those same ideas and not just starting a whole host of new ones. However, that is <em>still</em> a skill I need to develop.</p>\n\n<p>I did think of <a href=\"https://jamesaltucher.com/2018/08/3-habits-transform-life/\">James Altchure’s idea factory habit (habit two)</a>. He seeks to be a constantly thinking of ideas <strong>AND</strong> reviewing them to only take action on the best ones. While ideas are cheap, we also need ideas.</p>\n\n<p>Finally I remembered <a href=\"https://m.youtube.com/watch?v=9OuG2b7V2sU\">Dan Aierly who described how people want to be given credit for their ideas more than the actions they take.</a> I can certainly relate and I believe that’s related to why the statement that “ideas are cheap” is so tough to stomach. We want recognition for our ideas, we believe they are valuable, but in reality no one rewards you just for ideas, they reward people for carrying out their ideas.</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/e77708e0a1.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-28T17:47:29+02:00",
+			"url": "http://chrisjwilson.me/2018/08/28/ideas-are-cheap.html",
+			"image": "http://chrisjwilson.me/uploads/2018/e77708e0a1.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/e77708e0a1.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/25/after-an-incident.html",
+			
+			"content_text": "<p>After an incident yesterday I drew up a basic door protocol, I might need to add some more conditions.</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/3ad070fc08.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-25T07:51:52+02:00",
+			"url": "http://chrisjwilson.me/2018/08/25/after-an-incident.html",
+			"image": "http://chrisjwilson.me/uploads/2018/3ad070fc08.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/3ad070fc08.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/24/turlaj-klopsa.html",
+			
+			"title": "Turlaj Klopsa",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/ed370b3dc1.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/ed370b3dc1.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/e0bab06ae3.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/e0bab06ae3.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>I needed a snack between visits to my daughter in hospital and may have found the best food truck in krakow. Veggie/vegan dumplings/meatballs with an African sauce and black rice. Adds more weight to my theory (which I probably stole) that Vegans have the tastiest food cause they have to care about flavour and can’t just dump some meat in.</p>\n\n",
+			"date_published": "2018-08-24T17:57:33+02:00",
+			"url": "http://chrisjwilson.me/2018/08/24/turlaj-klopsa.html",
+			"image": "http://chrisjwilson.me/uploads/2018/e0bab06ae3.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/e0bab06ae3.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/23/new-craft-beer.html",
+			
+			"content_text": "<p>New Craft beer (well new to me) in local shop with a local connect. Let’s give this a try.</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/e86b318906.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-08-23T18:38:56+02:00",
+			"url": "http://chrisjwilson.me/2018/08/23/new-craft-beer.html",
+			"image": "http://chrisjwilson.me/uploads/2018/e86b318906.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/e86b318906.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/21/can-you-draw.html",
+			
+			"title": "Can you draw a face with just vertical lines? 🤔 ✏️",
+			
+			"content_text": "<p>Yesterday evening I suddenly had a random idea*, <em>could I draw a face with just vertical lines?</em> I grabbed my iPad and Apple pencil and gave it a go to find out that I could indeed draw a face with just verticals lines.</p>\n\n<p>I tried a few combinations and the decided I had gone as far as I could do I’d try horizontal lines to see the difference. I started drawing and again reached the end after about five variations. I was about to call it quits with a warm glow on my face when I suddenly realised. <em>“Vertical lines can be hair!”</em></p>\n\n<p>Suddenly a whole host of new options were open to me as hair, then beards and more facial hair became a possibility. Then I realised ears could be shown with vertical lines and even piercings. I had given up to easily and almost missed out on a whole world of extra possibilities by not spending more time thinking and experimenting.</p>\n\n<p>Obviously drawing a face with just vertical lines isn’t exactly a revolution or really something any of us will need to do on a day to day basis but it was fun and the main lesson —to not give up easily and keep exploring an idea — is very useful for everyday life.</p>\n\n<p>*I believe this idea was a synthesis of practicing faces based of Activities from <a href=\"https://micro.blog/Rohdesign\">@Rohdesign</a> and <a href=\"http://austinkleon.com\">Austin Kleon</a></p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/19dbf43d8f.jpg\" width=\"600\" height=\"372\" /><img src=\"http://chrisjwilson.me/uploads/2018/a820c99a7e.jpg\" width=\"600\" height=\"201\" /><img src=\"http://chrisjwilson.me/uploads/2018/3812ca518f.jpg\" width=\"600\" height=\"306\" /><img src=\"http://chrisjwilson.me/uploads/2018/b693a80639.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-08-21T18:26:01+02:00",
+			"url": "http://chrisjwilson.me/2018/08/21/can-you-draw.html",
+			"image": "http://chrisjwilson.me/uploads/2018/b693a80639.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/b693a80639.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/14/my-hypercritical-and.html",
+			
+			"content_text": "<p>My hypercritical and PCalc T-shirt’s arrived 😎</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/b03c3308b1.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-14T17:48:11+02:00",
+			"url": "http://chrisjwilson.me/2018/08/14/my-hypercritical-and.html",
+			"image": "http://chrisjwilson.me/uploads/2018/b03c3308b1.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/b03c3308b1.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/13/got-a-couple.html",
+			
+			"content_text": "<p>Got a couple new pens to play with after discovering a great stationary shop in Krakow.</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/116bef1456.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-13T16:59:30+02:00",
+			"url": "http://chrisjwilson.me/2018/08/13/got-a-couple.html",
+			"image": "http://chrisjwilson.me/uploads/2018/116bef1456.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/116bef1456.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/08/12/sunday-morning-lettering.html",
+			
+			"content_text": "<p>Sunday morning lettering practice.</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/6ad50d5309.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-12T07:27:27+02:00",
+			"url": "http://chrisjwilson.me/2018/08/12/sunday-morning-lettering.html",
+			"image": "http://chrisjwilson.me/uploads/2018/6ad50d5309.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/6ad50d5309.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/06/29/brighton.html",
+			
+			"title": "Brighton ",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/bebf17d58e.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/bebf17d58e.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/79c6c9ef34.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/79c6c9ef34.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/bb7f8402b9.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/bb7f8402b9.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/f50d01cfb3.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/f50d01cfb3.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>We went on a trip down to Brighton. I didn’t have my camera so I took a few street photos with my iPhone.</p>\n\n",
+			"date_published": "2018-06-29T09:30:17+02:00",
+			"url": "http://chrisjwilson.me/2018/06/29/brighton.html",
+			"image": "http://chrisjwilson.me/uploads/2018/f50d01cfb3.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/f50d01cfb3.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/06/21/dingli-cliffs-malta.html",
+			
+			"title": "Dingli Cliffs, Malta ",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/5f8c736c6a.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/5f8c736c6a.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>The chapel of St. Anna at the tops of Dingli cliffs in Malta. iPhone se edited in photos</p>\n\n",
+			"date_published": "2018-06-21T14:02:56+02:00",
+			"url": "http://chrisjwilson.me/2018/06/21/dingli-cliffs-malta.html",
+			"image": "http://chrisjwilson.me/uploads/2018/5f8c736c6a.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/5f8c736c6a.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/06/21/the-citadel-in.html",
+			
+			"title": "The Citadel In Victoria (Rabat) Gozo",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/24b792af58.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/24b792af58.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n",
+			"date_published": "2018-06-21T10:25:03+02:00",
+			"url": "http://chrisjwilson.me/2018/06/21/the-citadel-in.html",
+			"image": "http://chrisjwilson.me/uploads/2018/24b792af58.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/24b792af58.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/06/20/mdina-malta.html",
+			
+			"title": "Mdina Malta ",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/c6969caee5.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/c6969caee5.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Another day of travel in Malta. This time the beautiful Mdina and Rabat.</p>\n\n",
+			"date_published": "2018-06-20T16:26:10+02:00",
+			"url": "http://chrisjwilson.me/2018/06/20/mdina-malta.html",
+			"image": "http://chrisjwilson.me/uploads/2018/c6969caee5.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/c6969caee5.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/06/20/the-blue-grotto.html",
+			
+			"title": "The Blue Grotto ",
+			
+			"content_text": "<p><a href=\"http://chrisjwilson.me/uploads/2018/36ac96cca0.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/36ac96cca0.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/e829ed4bb3.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/e829ed4bb3.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://chrisjwilson.me/uploads/2018/64120e550d.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/64120e550d.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Day out and about in Malta with just the iPhone as my camera. Not a bad day.</p>\n\n",
+			"date_published": "2018-06-20T13:23:46+02:00",
+			"url": "http://chrisjwilson.me/2018/06/20/the-blue-grotto.html",
+			"image": "http://chrisjwilson.me/uploads/2018/64120e550d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/64120e550d.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/05/07/lviv-is-a.html",
+			
+			"content_text": "<p>Lviv is a pretty special place</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/41bd199662.jpg\" width=\"600\" height=\"397\" /></p>\n",
+			"date_published": "2018-05-07T06:53:57+02:00",
+			"url": "http://chrisjwilson.me/2018/05/07/lviv-is-a.html",
+			"image": "http://chrisjwilson.me/uploads/2018/41bd199662.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/41bd199662.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/03/03/shooting-iphone-photos.html",
+			
+			"title": "Shooting iPhone photos in the cold?",
+			
+			"content_text": "<p>Yesterday I heard someone mention that their iPhone had shut down because it had got below zero Celsius (32 something Fahrenheit apparently). As someone who lives in a country where winter is often below zero (it’s minus 7 celsius as I type), I know this pain. Generally I cope by putting my iPhone in my inner pocket so it is kept warm and relying on my apple watch or AirPods for interactions with the phone. But there’s a huge issue when it comes to taking photos. \nI love photography and have far to many camera really, but there is something fun about the iPhone camera. I’ve been trying to use it more recently and play with its limits and strengths but the cold weather has put a stop to those plans. Literally. \nSo today I was looking for some advice on how to shoot photos with your iPhone in winter…So far I haven’t found any useful advice so I have an idea that <em>just might work.</em></p>\n<h2 id=\"hand-warmers\">Hand Warmers</h2>\n<p>Yup, you know those little chemical hand warmers which you can “recharge” by heating them up again. In theory holding a small one next to the back of the iPhone while I have it out of my pocket should help to keep it warm <em>and</em> should also help when it’s in my pocket. \nOf course, other sides will be exposed to the elements but this is better than nothing.</p>\n\n<p>I’m going to give it a go and report back on my success/not but I wonder <strong>Do you have any tips for keeping your iPhone alive in the cold?</strong></p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/3943aaea84.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-03T11:09:56+01:00",
+			"url": "http://chrisjwilson.me/2018/03/03/shooting-iphone-photos.html",
+			"image": "http://chrisjwilson.me/uploads/2018/3943aaea84.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/3943aaea84.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/27/the-rear-of.html",
+			
+			"content_text": "<p>The rear of my iPad is coming alomg nicely</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/05ee3f1be8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-27T19:05:35+01:00",
+			"url": "http://chrisjwilson.me/2018/02/27/the-rear-of.html",
+			"image": "http://chrisjwilson.me/uploads/2018/05ee3f1be8.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/05ee3f1be8.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/21/tatra-mountains-yesterday.html",
+			
+			"content_text": "<p>Tatra mountains yesterday (iPhone se only again)</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/e3db4516be.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-21T10:05:45+01:00",
+			"url": "http://chrisjwilson.me/2018/02/21/tatra-mountains-yesterday.html",
+			"image": "http://chrisjwilson.me/uploads/2018/e3db4516be.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/e3db4516be.jpg"
+			}
+		},
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/02/19/hiking-in-the.html",
+			
+			"content_text": "<p>Hiking in the Tatar mountains in Poland. Not a bad time. (iPhone SE plus snapseed for post processing)</p>\n\n<p><img src=\"http://chrisjwilson.me/uploads/2018/f3ab23603b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-19T19:38:23+01:00",
+			"url": "http://chrisjwilson.me/2018/02/19/hiking-in-the.html",
+			"image": "http://chrisjwilson.me/uploads/2018/f3ab23603b.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://chrisjwilson.me/uploads/2018/f3ab23603b.jpg"
+			}
+		}
+	]
+}
