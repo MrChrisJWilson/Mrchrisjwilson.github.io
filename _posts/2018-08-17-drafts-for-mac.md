@@ -3,6 +3,7 @@ layout: post
 title: "Drafts for Mac 🖥 "
 microblog: false
 audio: 
+photo: 
 date: 2018-08-17 19:14:29 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/17/drafts-for-mac.html
 ---
