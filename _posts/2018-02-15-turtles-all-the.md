@@ -3,6 +3,7 @@ layout: post
 title: "Turtles all the way down"
 microblog: false
 audio: 
+photo: 
 date: 2018-02-15 09:30:53 +0100
 guid: http://ChrisJWilson.micro.blog/2018/02/15/turtles-all-the.html
 ---
