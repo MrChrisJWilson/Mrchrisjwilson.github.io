@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-11 10:39:33 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/11/my-new-mission.html
 ---
