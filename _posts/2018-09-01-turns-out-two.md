@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-01 09:46:18 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/01/turns-out-two.html
 ---
