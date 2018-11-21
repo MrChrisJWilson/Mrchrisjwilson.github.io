@@ -3,6 +3,7 @@ layout: post
 title: "Shooting iPhone photos in the cold?"
 microblog: false
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/3943aaea84.jpg
 date: 2018-03-03 11:09:56 +0100
 guid: http://ChrisJWilson.micro.blog/2018/03/03/shooting-iphone-photos.html
 ---
