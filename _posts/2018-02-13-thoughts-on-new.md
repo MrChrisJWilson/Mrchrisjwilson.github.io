@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-13 10:21:51 +0100
 guid: http://ChrisJWilson.micro.blog/2018/02/13/thoughts-on-new.html
 ---
