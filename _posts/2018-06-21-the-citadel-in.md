@@ -3,6 +3,7 @@ layout: post
 title: "The Citadel In Victoria (Rabat) Gozo"
 microblog: false
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/24b792af58.jpg
 date: 2018-06-21 09:25:03 +0100
 guid: http://ChrisJWilson.micro.blog/2018/06/21/the-citadel-in.html
 ---
