@@ -3,6 +3,7 @@ layout: post
 title: "7 Sources for Ready-Made iOS Shortcuts – 40Tech"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-10 08:54:47 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/10/sources-for-readymade.html
 ---
