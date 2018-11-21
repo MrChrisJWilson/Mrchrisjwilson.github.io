@@ -3,6 +3,7 @@ layout: post
 title: "No, you shouldn't spend 4/5th of your time marketing and 1/5th creating"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-27 19:38:39 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/27/no-you-shouldnt.html
 ---
