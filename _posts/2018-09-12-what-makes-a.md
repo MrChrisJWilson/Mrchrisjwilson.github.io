@@ -3,6 +3,7 @@ layout: post
 title: "What makes a good blog - Merlin Mann"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-12 15:32:31 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/12/what-makes-a.html
 ---
