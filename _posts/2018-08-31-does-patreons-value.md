@@ -3,6 +3,7 @@ layout: post
 title: "Does Patreon’s Value Increase the More Things You Back? "
 microblog: false
 audio: 
+photo: 
 date: 2018-08-31 07:03:15 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/31/does-patreons-value.html
 ---
