@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/3ad070fc08.jpg
 date: 2018-08-25 06:51:52 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/25/after-an-incident.html
 ---
