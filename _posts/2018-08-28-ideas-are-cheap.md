@@ -3,6 +3,7 @@ layout: post
 title: "Ideas are Cheap"
 microblog: false
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/e77708e0a1.jpg
 date: 2018-08-28 16:47:29 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/28/ideas-are-cheap.html
 ---
