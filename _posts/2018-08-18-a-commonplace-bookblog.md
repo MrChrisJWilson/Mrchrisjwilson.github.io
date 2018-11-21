@@ -3,6 +3,7 @@ layout: post
 title: "A Commonplace (book/blog)"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-18 15:38:48 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/18/a-commonplace-bookblog.html
 ---
