@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-19 17:21:12 +0100
 guid: http://ChrisJWilson.micro.blog/2018/11/19/iphone-photography-discovery.html
 ---
