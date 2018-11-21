@@ -3,6 +3,7 @@ layout: post
 title: "Good link posts vs bad link post "
 microblog: false
 audio: 
+photo: 
 date: 2018-08-25 15:44:08 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/25/good-link-posts.html
 ---
