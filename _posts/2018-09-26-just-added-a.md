@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-26 14:57:46 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/26/just-added-a.html
 ---
