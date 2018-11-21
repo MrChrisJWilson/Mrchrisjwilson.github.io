@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-05 20:16:53 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/05/my-pen-addict.html
 ---
