@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-10 08:53:40 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/10/i-was-trying.html
 ---
