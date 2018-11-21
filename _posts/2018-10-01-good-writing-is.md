@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/555ea86d00.jpg
 date: 2018-10-01 19:21:56 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/01/good-writing-is.html
 ---
