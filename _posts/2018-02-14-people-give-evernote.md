@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-14 19:51:54 +0100
 guid: http://ChrisJWilson.micro.blog/2018/02/14/people-give-evernote.html
 ---
