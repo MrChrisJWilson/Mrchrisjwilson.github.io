@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-22 05:40:27 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/22/as-i-thought.html
 ---
