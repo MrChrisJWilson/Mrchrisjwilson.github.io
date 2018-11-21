@@ -3,6 +3,7 @@ layout: post
 title: "Reading Aloud - Austin Kleon 🔗"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-13 10:31:23 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/13/reading-aloud-austin.html
 ---
