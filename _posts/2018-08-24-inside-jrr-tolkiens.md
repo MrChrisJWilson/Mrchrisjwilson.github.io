@@ -3,6 +3,7 @@ layout: post
 title: "Inside J.R.R. Tolkien’s Notebooks, a Glimpse of the Master Philologist at Work"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-24 09:15:10 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/24/inside-jrr-tolkiens.html
 ---
