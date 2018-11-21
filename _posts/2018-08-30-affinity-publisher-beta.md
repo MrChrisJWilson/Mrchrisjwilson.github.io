@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-30 13:23:58 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/30/affinity-publisher-beta.html
 ---
