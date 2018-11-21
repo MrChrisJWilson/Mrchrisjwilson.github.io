@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-04 09:02:29 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/04/ocean-by-john.html
 ---
