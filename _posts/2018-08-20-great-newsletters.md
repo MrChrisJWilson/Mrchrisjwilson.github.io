@@ -3,6 +3,7 @@ layout: post
 title: "5 great newsletters ✉️"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-20 16:19:33 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/20/great-newsletters.html
 ---
