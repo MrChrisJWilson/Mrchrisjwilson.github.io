@@ -3,6 +3,7 @@ layout: post
 title: "Where are the fresh blogging opinions 🔗"
 microblog: false
 audio: 
+photo: 
 date: 2018-11-08 16:05:27 +0100
 guid: http://ChrisJWilson.micro.blog/2018/11/08/where-are-the.html
 ---
