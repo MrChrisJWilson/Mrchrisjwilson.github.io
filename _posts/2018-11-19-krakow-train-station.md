@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/e7f5c1710b.jpg
 date: 2018-11-19 20:52:00 +0100
 guid: http://ChrisJWilson.micro.blog/2018/11/19/krakow-train-station.html
 ---
