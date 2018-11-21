@@ -3,6 +3,7 @@ layout: post
 title: "You Don’t Need to Do “Real Work” on the iPad, Just Normal Work"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-22 18:52:59 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/22/you-dont-need.html
 ---
