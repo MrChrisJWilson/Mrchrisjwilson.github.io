@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-02 20:45:29 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/02/what-you-need.html
 ---
