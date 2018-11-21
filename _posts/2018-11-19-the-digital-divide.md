@@ -3,6 +3,7 @@ layout: post
 title: "The digital divide is being flipped 🔗"
 microblog: false
 audio: 
+photo: 
 date: 2018-11-19 12:22:08 +0100
 guid: http://ChrisJWilson.micro.blog/2018/11/19/the-digital-divide.html
 ---
