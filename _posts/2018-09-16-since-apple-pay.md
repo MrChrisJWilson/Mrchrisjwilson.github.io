@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-16 15:27:52 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/16/since-apple-pay.html
 ---
