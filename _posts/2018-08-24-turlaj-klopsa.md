@@ -3,6 +3,7 @@ layout: post
 title: "Turlaj Klopsa"
 microblog: false
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/e0bab06ae3.jpg
 date: 2018-08-24 16:57:33 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/24/turlaj-klopsa.html
 ---
