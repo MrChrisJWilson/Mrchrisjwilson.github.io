@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/2daf754f39.jpg
 date: 2018-10-04 11:17:44 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/04/inktober-day-spell.html
 ---
