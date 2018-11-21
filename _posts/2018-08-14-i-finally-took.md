@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-14 10:08:06 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/14/i-finally-took.html
 ---
