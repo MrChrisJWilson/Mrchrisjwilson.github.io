@@ -3,6 +3,7 @@ layout: post
 title: "No one makes a living on Pateron 🔗"
 microblog: false
 audio: 
+photo: 
 date: 2018-11-05 11:23:20 +0100
 guid: http://ChrisJWilson.micro.blog/2018/11/05/no-one-makes.html
 ---
