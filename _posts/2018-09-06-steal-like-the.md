@@ -3,6 +3,7 @@ layout: post
 title: "Steal Like The Decemberists"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-06 15:35:53 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/06/steal-like-the.html
 ---
