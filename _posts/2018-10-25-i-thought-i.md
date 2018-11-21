@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-25 08:42:19 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/25/i-thought-i.html
 ---
