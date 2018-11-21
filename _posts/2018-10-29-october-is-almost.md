@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-29 07:56:06 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/29/october-is-almost.html
 ---
