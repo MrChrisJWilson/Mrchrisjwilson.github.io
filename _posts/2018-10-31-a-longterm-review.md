@@ -3,6 +3,7 @@ layout: post
 title: "A Long-Term Review of The Focus Course"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-31 15:32:05 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/31/a-longterm-review.html
 ---
