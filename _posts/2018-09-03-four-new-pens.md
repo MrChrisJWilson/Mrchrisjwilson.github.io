@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/7c6720db2d.jpg
 date: 2018-09-03 20:02:17 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/03/four-new-pens.html
 ---
