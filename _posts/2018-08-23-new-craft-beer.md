@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/e86b318906.jpg
 date: 2018-08-23 17:38:56 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/23/new-craft-beer.html
 ---
