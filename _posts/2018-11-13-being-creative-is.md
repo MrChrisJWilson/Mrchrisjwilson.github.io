@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-13 09:09:31 +0100
 guid: http://ChrisJWilson.micro.blog/2018/11/13/being-creative-is.html
 ---
