@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-03 16:26:12 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/03/for-micro-monday.html
 ---
