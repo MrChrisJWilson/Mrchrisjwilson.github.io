@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-19 19:07:18 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/19/just-finished-the.html
 ---
