@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-14 13:19:09 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/14/the-number-of.html
 ---
