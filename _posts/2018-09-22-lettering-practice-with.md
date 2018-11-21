@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/0d26b07658.jpg
 date: 2018-09-22 08:21:08 +0100
 guid: http://ChrisJWilson.micro.blog/2018/09/22/lettering-practice-with.html
 ---
