@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://chrisjwilson.me/uploads/2018/ca23fc36d6.jpg
 date: 2018-11-12 18:32:22 +0100
 guid: http://ChrisJWilson.micro.blog/2018/11/12/finally-got-my.html
 ---
