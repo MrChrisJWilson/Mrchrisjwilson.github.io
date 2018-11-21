@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-27 09:15:14 +0100
 guid: http://ChrisJWilson.micro.blog/2018/08/27/for-some-strange.html
 ---
