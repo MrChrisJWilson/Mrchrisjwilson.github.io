@@ -3,6 +3,7 @@ layout: post
 title: "Confession of a Recovering Productivity Addict"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-24 10:20:50 +0100
 guid: http://ChrisJWilson.micro.blog/2018/10/24/confession-of-a.html
 ---
