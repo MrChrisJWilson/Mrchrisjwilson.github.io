@@ -7,9 +7,19 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/22/just-wondering-what.html",
+	      	
+			"content_text": "Just wondering what service you use for RSS and why....",
+			"date_published": "2018-11-22T07:29:24+01:00",
+			"url": "http://chrisjwilson.me/2018/11/22/just-wondering-what.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/11/21/go-on-an.html",
 	      	
-			"content_text": "Go on an “Artist date” I made the image below...",
+			"title": "Go on an “Artist date”",
+			
+			"content_text": "I made the image below inspired by the accidental creative...",
 			"date_published": "2018-11-21T18:48:29+01:00",
 			"url": "http://chrisjwilson.me/2018/11/21/go-on-an.html"
 		},
