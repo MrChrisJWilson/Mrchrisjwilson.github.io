@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/22/outside-of-krakow.html",
+	      	
+			"content_html": "<p>Outside of krakow station last night \nNot certain about the edit. Need to brush up on my lightroom skills. \n<img src=\"http://chrisjwilson.me/uploads/2018/d8b9d7c51e.jpg\" alt=\"49102408-315C-47EB-98F6-5521C44AE630.jpg\" /></p>\n",
+			"date_published": "2018-11-22T07:40:01+01:00",
+			"url": "http://chrisjwilson.me/2018/11/22/outside-of-krakow.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/11/22/just-wondering-what.html",
 	      	
 			"content_html": "<p>Just wondering what service you use for RSS and why.</p>\n",
@@ -202,16 +210,6 @@
 			"content_html": "<p><a href=\"https://www.fulcrum-anglican.org.uk/articles/good-news-national-witness/\">Good News: National Witness? | Fulcrum Anglican</a></p>\n<blockquote>\n  <p>Good liturgy isn’t everything, but bad liturgy isn’t anything.</p>\n</blockquote>\n\n<p>Tom Wright on the state of modern evangelical worship.</p>\n",
 			"date_published": "2018-11-09T07:38:56+01:00",
 			"url": "http://chrisjwilson.me/2018/11/09/good-news-national.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/11/08/where-are-the.html",
-	      	
-			"title": "Where are the fresh blogging opinions 🔗",
-			
-			"content_html": "<p><a href=\"http://www.macdrifter.com/2018/11/daring-fireball-dan-frakes-goes-to-apple-as-mac-app-store-editor.html\">Daring Fireball: Dan Frakes Goes to Apple as Mac App Store Editor</a></p>\n<blockquote>\n  <p>Cross linking between blogs has nearly dried up. It’s almost impossible to find new opinions because everyone links to the same three websites, like I’m doing now.</p>\n</blockquote>\n\n<blockquote>\n  <p>A lot of voices have moved on to podcasting. Frankly, as someone that also podcasts, it’s easier and there’s less accountability than with blogging. Today, I also see a lot of thoughtful people writing on Discord groups. There’s little value in blogging unless you just like to practice writing in public.</p>\n</blockquote>\n\n<p>This is one of those articles that starts discussing one issue, but the commentary actually is far more interesting than the inital discussion (In my opinion at least). I wonder how accurate Gabe’s prognosis is (that new voices are podcasting). While I see truth in this, I also think one of the issues is that online writing has become quite formulaic and people simply copy others ideas without offering something fresh. \nNo one could be a full time blogger in the early days of online writing, now there are a host of them (and companies that employ writers) who’s opinions are well regarded. I’ve started (and stopped) following some new writers as I realised they were just repeating others points. At the same time, I have discovered fresh voices who offer something unique.</p>\n<ul>\n  <li><a href=\"https://rosemaryorchard.com/\">Rose Orchard</a></li>\n  <li><a href=\"http://beardyguycreative.com/blog/\">Denny Henke</a></li>\n  <li><a href=\"http://decoding.io/\">Zsolt Benke</a></li>\n  <li><a href=\"https://www.gr36.com/\">Greg Morris</a></li>\n  <li><a href=\"https://thedent.net/\">Andy Nicolaides</a>\nAdmittedly some of those same voices also use their litteral voices for podcasts too, but that doesn’t stop the fact that they are adding their unique writing voice. Really, it’s not that writing is in decline, it’s that more writers are also professional podcasters.</li>\n</ul>\n",
-			"date_published": "2018-11-08T16:05:27+01:00",
-			"url": "http://chrisjwilson.me/2018/11/08/where-are-the.html"
 		}
 		
 	]
