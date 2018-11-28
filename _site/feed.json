@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/28/the-best-table.html",
+	      	
+			"content_html": "<p><a href=\"https://kottke.org/18/11/the-best-table-tennis-shot-of-2018\">The Best Table Tennis Shot of 2018 🔗 📹</a>\nOne of those titles that sounds clickbaitey, but totally sticks the landing.</p>\n",
+			"date_published": "2018-11-28T09:30:51+01:00",
+			"url": "http://chrisjwilson.me/2018/11/28/the-best-table.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/11/27/a-suggestion-for.html",
+	      	
+			"title": "A Suggestion for Better Starbucks Cup Size Name",
+			
+			"content_html": "<p>Something I’ve been wondering about. Starbucks coffee size names.</p>\n\n<p>They are clearly influenced by Italian culture and attempt to communicate that but they are confusing so people just use large middle and small (in my experience). So it makes me wonder what could be a better system of names. Ones which reflect Italy but also are clear over the size.</p>\n<ul>\n  <li>Piccolo</li>\n  <li>Medio</li>\n  <li>Grande\nI don’t think everyone would use them, but you wouldn’t have to remember that Vente is in fact the largest coffee size, not the grand grande.</li>\n</ul>\n",
+			"date_published": "2018-11-27T16:41:35+01:00",
+			"url": "http://chrisjwilson.me/2018/11/27/a-suggestion-for.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/11/27/come-for-the.html",
 	      	
 			"title": "Come for the Topic, Stay for the Hosts?",
@@ -200,22 +218,6 @@
 			"content_html": "<p>Pocketcasts 7. Great update.</p>\n",
 			"date_published": "2018-11-14T19:15:35+01:00",
 			"url": "http://chrisjwilson.me/2018/11/14/pocketcasts-great-update.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/11/14/any-wireless-charging.html",
-	      	
-			"content_html": "<p>Any wireless charging recommendations for iPhone Xs? I’m looking at the Anker PowerPort 5, The Logitech Powered for iPhone looks the best…but that price.</p>\n",
-			"date_published": "2018-11-14T11:05:50+01:00",
-			"url": "http://chrisjwilson.me/2018/11/14/any-wireless-charging.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/11/13/being-creative-is.html",
-	      	
-			"content_html": "<blockquote>\n  <p>“Being creative is not so much the desire to do something as the listening to that which wants to be done: The dictation of the materials” -Anni Alberts “Weaving in a college” via Austin Kleon’s Blog <a href=\"https://austinkleon.com/2018/11/07/the-dictation-of-the-materials/\">“The Dictation of the Materials”</a></p>\n</blockquote>\n\n<p>Read the whole thing, you won’t regret it.</p>\n\n",
-			"date_published": "2018-11-13T09:09:31+01:00",
-			"url": "http://chrisjwilson.me/2018/11/13/being-creative-is.html"
 		}
 		
 	]
