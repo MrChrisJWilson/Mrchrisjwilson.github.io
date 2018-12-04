@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/12/04/theres-one-ar.html",
+	      	
+			"content_html": "<p>There’s one AR app I use and I don’t know why I do. It’s a football app that lets you see the team lineups in AR. I could just look on a screen but I like walking round the teams. It’s pointless but I like it.</p>\n",
+			"date_published": "2018-12-04T07:47:18+01:00",
+			"url": "http://chrisjwilson.me/2018/12/04/theres-one-ar.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/12/03/atomic-habits-has.html",
+	      	
+			"content_html": "<p><a href=\"http://www.amazon.com/dp/0735211299/?tag=minima0e-20\">Atomic habits</a> has really helped me understand the value of certain GTD practices like the weekly review. James mentions that the people with the “strongest self-discipline” actually just have the right systems in place so they don’t need to exercise self-discipline.</p>\n",
+			"date_published": "2018-12-03T17:20:55+01:00",
+			"url": "http://chrisjwilson.me/2018/12/03/atomic-habits-has.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/12/03/the-guru-trap.html",
 	      	
 			"content_html": "<p><a href=\"https://brooksreview.net/2018/04/the-guru-trap/\">The Guru Trap 🔗 </a></p>\n\n<p>I keep coming back to this post and thinking about it. My favourite Apple blogger’s/podcasters have other jobs because they give real examples (exception is Federicco Viticci).</p>\n\n",
@@ -204,22 +220,6 @@
 			"content_html": "<p>I Checked Lightroom CC when it came out and wasn’t <em>too</em> impressed. Back then I was using an iPhone SE. I downloaded it this weekend on my iPhone Xs and with the combination of new camera and improvements, it’s really a lot better.</p>\n",
 			"date_published": "2018-11-19T08:42:47+01:00",
 			"url": "http://chrisjwilson.me/2018/11/19/i-checked-lightroom.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/11/17/yes-i-am.html",
-	      	
-			"content_html": "<p><a href=\"https://pca.st/episode/34cffef3-d044-4c62-9ff3-1679ad0821d3\">Yes, I am a tastemaker: The Pen Addict 334</a></p>\n\n<p>An episode even non-pen addicts may enjoy when Brad discusses his passion and realising his words can have an impact.</p>\n",
-			"date_published": "2018-11-17T12:27:59+01:00",
-			"url": "http://chrisjwilson.me/2018/11/17/yes-i-am.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/11/16/the-whole-im.html",
-	      	
-			"content_html": "<p>The whole “I’m passionate about the Oxford Comma” thing feels very cliche now. So my bio will have “No.1 em dash fan”</p>\n",
-			"date_published": "2018-11-16T14:01:45+01:00",
-			"url": "http://chrisjwilson.me/2018/11/16/the-whole-im.html"
 		}
 		
 	]
