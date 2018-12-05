@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/12/05/mission-for-today.html",
+	      	
+			"content_html": "<p>Mission for today, buy an ugly Christmas sweater :D</p>\n",
+			"date_published": "2018-12-05T13:02:51+01:00",
+			"url": "http://chrisjwilson.me/2018/12/05/mission-for-today.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/12/04/facebooks-had-a.html",
 	      	
 			"title": "Facebook's had a bad year, but the users are staying.  ",
@@ -212,16 +220,6 @@
 			"content_html": "<p>iPhone photography discovery of the day 📷</p>\n\n<p>Darkroom lets you edit the background and foreground of a portrait mode separately. That’s cool. \n<img src=\"http://chrisjwilson.me/uploads/2018/fa2b1a9018.jpg\" alt=\"68EAECAE-4F12-4BF5-8BFD-7B50CF3564FA.jpg\" /></p>\n",
 			"date_published": "2018-11-19T17:21:12+01:00",
 			"url": "http://chrisjwilson.me/2018/11/19/iphone-photography-discovery.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/11/19/the-digital-divide.html",
-	      	
-			"title": "The digital divide is being flipped 🔗",
-			
-			"content_html": "<p><a href=\"https://seths.blog/2018/11/the-digital-divide-is-being-flipped/\">The Digital Divide is Being Flipped - Seths Blog</a></p>\n<blockquote>\n  <p>Today, as digital tools get cheaper and more widespread, a new gap is appearing:</p>\n</blockquote>\n\n<blockquote>\n  <p>If a parent uses a tablet or a smartphone as a babysitter, it’s a lot easier to get a kid to sit still. As a result, parents who are busy, distracted or can’t afford to spend as much 1:1 time as they’d like are unknowingly encouraging their kids to become digital zombies, with a constant need for stimulation, who are being manipulated by digital overlords to click and click some more.</p>\n</blockquote>\n\n<p>In the past in Europe, pale skin was seen as attractive, as people who were suntanned worked in the fields. Now, the reverse is true as it is a sign of not working to have travel abroad and obtained your tan. This digital situation reminds me of getting tanned, the element which distinguished you in the past was access to the internet, now it is being able to disconnect.</p>\n\n<p>Also see <a href=\"http://www.amazon.com/dp/1455586692/?tag=minima0e-20\">Deep Work by Cal Newport</a> (affiliate link)</p>\n",
-			"date_published": "2018-11-19T12:22:08+01:00",
-			"url": "http://chrisjwilson.me/2018/11/19/the-digital-divide.html"
 		}
 		
 	]
