@@ -7,6 +7,38 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/12/07/david-sparkss-omnifocus.html",
+	      	
+			"content_html": "<p>David Sparks’s Omnifocus Field Guide is very good. Especially the custom perspectives, I love some of the ideas he offers here.</p>\n",
+			"date_published": "2018-12-07T13:58:35+01:00",
+			"url": "http://chrisjwilson.me/2018/12/07/david-sparkss-omnifocus.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/12/06/my-techo-arrived.html",
+	      	
+			"content_html": "<p>My techo arrived ☺️\n<img src=\"http://chrisjwilson.me/uploads/2018/ee989ebbd1.jpg\" alt=\"6EADE30F-29BE-4567-A409-DCF486E5D039.jpg\" /></p>\n",
+			"date_published": "2018-12-06T17:24:40+01:00",
+			"url": "http://chrisjwilson.me/2018/12/06/my-techo-arrived.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/12/06/copywriter-world-problems.html",
+	      	
+			"content_html": "<p>Copywriter world problems. How do I say we are “low-cost” without sounding like we’re rubbish, or that we’re really expensive but pretending to be cheap (i.e. affordable pricing). Probably overthinking.</p>\n",
+			"date_published": "2018-12-06T16:19:03+01:00",
+			"url": "http://chrisjwilson.me/2018/12/06/copywriter-world-problems.html"
+		},
+		
+		{
+			"id": "http://ChrisJWilson.micro.blog/2018/12/06/my-rss-service.html",
+	      	
+			"content_html": "<p>My RSS service hunt seems to be leading me towards Inoreader at the moment and I’m trying the free version but I’m going to take a look at a couple of others before finally settling.</p>\n",
+			"date_published": "2018-12-06T12:48:29+01:00",
+			"url": "http://chrisjwilson.me/2018/12/06/my-rss-service.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/12/06/good-morning.html",
 	      	
 			"content_html": "<p><a href=\"http://chrisjwilson.me/uploads/2018/47fe4bce9b.jpg\"><img src=\"http://chrisjwilson.me/uploads/2018/47fe4bce9b.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Good morning</p>\n\n",
@@ -184,42 +216,6 @@
 			"content_html": "<p>Just wondering what service you use for RSS and why.</p>\n",
 			"date_published": "2018-11-22T07:29:24+01:00",
 			"url": "http://chrisjwilson.me/2018/11/22/just-wondering-what.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/11/21/go-on-an.html",
-	      	
-			"title": "Go on an “Artist date”",
-			
-			"content_html": "<p>I made the image below inspired by <a href=\"https://www.accidentalcreative.com/podcasts/ac/three-weekend-rituals-that-will-refresh-your-creativity/\">the accidental creative podcast</a> this morning, which was itself inspired by <a href=\"https://juliacameronlive.com/basic-tools/artists-dates/\">Julia Cameron</a>.\n<img src=\"http://chrisjwilson.me/uploads/2018/d6994a6307.jpg\" alt=\"B41DBC84-8292-4B54-8E0E-2222DD8EAC72.jpg\" /></p>\n",
-			"date_published": "2018-11-21T18:48:29+01:00",
-			"url": "http://chrisjwilson.me/2018/11/21/go-on-an.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/11/20/the-annoying-trend.html",
-	      	
-			"title": "The Annoying Trend of Making Stuff About Making Stuff",
-			
-			"content_html": "<p>One of the things that annoys me the most about the modern internet landscape is how much stuff is made about making stuff. Especially when it is the same form as the thing which is being made.</p>\n<ul>\n  <li>Blog posts about writing blog posts</li>\n  <li>Youtube Videos about making YouTube videos</li>\n  <li>Podcasts about podcasts (this is probably the least offender)\nI now wonder if this is part of the inherit nature of being an indie creator. If you become successful and go full time, then the thing you are making becomes your full time job. What else can you write about…except writing about running your job.</li>\n</ul>\n\n<p>Of course, <strong>it’s not inevitable</strong> and I think the <strong>best</strong> online content avoids this pitfall. CGP Grey’s great videos aren’t about how he makes his videos, Amanda Palmer’s music isn’t about making music and Andy Weir wrote a great book about a man on mars on his blog.</p>\n\n<p>My challenge to myself is to focus more on making things, and not making things about making things.</p>\n\n",
-			"date_published": "2018-11-20T18:50:42+01:00",
-			"url": "http://chrisjwilson.me/2018/11/20/the-annoying-trend.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/11/20/imagine-buying-a.html",
-	      	
-			"content_html": "<p>Imagine buying a WordPress theme with a “lifetime license”, now imagine not getting any updates in the last year and half after a few since it’s launch. NOW imagine there is a new version of that theme where you have to purchase a new “lifetime” license.</p>\n",
-			"date_published": "2018-11-20T16:06:27+01:00",
-			"url": "http://chrisjwilson.me/2018/11/20/imagine-buying-a.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/11/20/nate-lopez-performs.html",
-	      	
-			"content_html": "<p><a href=\"https://youtu.be/AD-ZfN9tlDE\">Nate Lopez Performs “Georgia On My Mind” 🎵 📹 </a></p>\n\n<p>Some smooth acoustic blues for the afternoon</p>\n",
-			"date_published": "2018-11-20T14:18:44+01:00",
-			"url": "http://chrisjwilson.me/2018/11/20/nate-lopez-performs.html"
 		}
 		
 	]
