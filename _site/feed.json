@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://ChrisJWilson.micro.blog/2018/12/10/080207.html",
+	      	
+			"content_html": "<p>I’m really enjoying these weekly link things that some people are doing on MB. It’s great for discovering something interesting and I almost always check them unlike email newsletters which are full of links. Maybe it feels less obligatory to click through or it’s the mindset I’m in 🤷‍♂️</p>\n",
+			"date_published": "2018-12-10T09:02:07+01:00",
+			"url": "http://chrisjwilson.me/2018/12/10/080207.html"
+		},
+		
+		{
 			"id": "http://ChrisJWilson.micro.blog/2018/12/07/david-sparkss-omnifocus.html",
 	      	
 			"content_html": "<p>David Sparks’s Omnifocus Field Guide is very good. Especially the custom perspectives, I love some of the ideas he offers here.</p>\n",
@@ -208,14 +216,6 @@
 			"content_html": "<p>Outside of krakow station last night \nNot certain about the edit. Need to brush up on my lightroom skills. \n<img src=\"http://chrisjwilson.me/uploads/2018/d8b9d7c51e.jpg\" alt=\"49102408-315C-47EB-98F6-5521C44AE630.jpg\" /></p>\n",
 			"date_published": "2018-11-22T07:40:01+01:00",
 			"url": "http://chrisjwilson.me/2018/11/22/outside-of-krakow.html"
-		},
-		
-		{
-			"id": "http://ChrisJWilson.micro.blog/2018/11/22/just-wondering-what.html",
-	      	
-			"content_html": "<p>Just wondering what service you use for RSS and why.</p>\n",
-			"date_published": "2018-11-22T07:29:24+01:00",
-			"url": "http://chrisjwilson.me/2018/11/22/just-wondering-what.html"
 		}
 		
 	]
